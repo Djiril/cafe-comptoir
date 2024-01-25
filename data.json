@@ -1,7 +1,7 @@
 {
     "cafes": [
-        {"name": "Café du Cadran", "lat": 48,869025, "lng": 2,332587},
-        {"name": "Dalayrac", "lat": 48,867463, "lng": 2,334867},
-        {"name": "Le Buron", "lat": 48,838261, "lng": 2,281478}
+        {"name": "Café du Cadran", "lat": 48.869025, "lng": 2.332587},
+        {"name": "Dalayrac", "lat": 48.867463, "lng": 2.334867},
+        {"name": "Le Buron", "lat": 48.838261, "lng": 2.281478}
     ]
 }
