@@ -8,7 +8,8 @@
        "coordinates":  [ 2.282,48.842 ]
     },
     "properties": {
-    "Name":"Le Petit Voisin [Fermé]"
+    "Name":"Le Petit Voisin [Fermé]",
+    "Adresse":"167 Rue Saint-Charles, 75015 Paris"
     }
   },
   {
@@ -18,7 +19,8 @@
        "coordinates":  [ 2.296,48.875 ]
     },
     "properties": {
-    "Name":"L'étoile 1903"
+    "Name":"L'étoile 1903",
+    "Adresse":"4 Avenue de Wagram, 75008 Paris"
     }
   },
   {
@@ -28,7 +30,8 @@
        "coordinates":  [ 2.299,48.879 ]
     },
     "properties": {
-    "Name":"Prince Wagram"
+    "Name":"Prince Wagram",
+    "Adresse":"58 Avenue de Wagram, 75017 Paris"
     }
   },
   {
@@ -38,7 +41,8 @@
        "coordinates":  [ 2.320,48.904 ]
     },
     "properties": {
-    "Name":"La Fratrie"
+    "Name":"La Fratrie",
+    "Adresse":"159 Boulevard Victor Hugo, 92110 Clichy"
     }
   },
   {
@@ -48,7 +52,8 @@
        "coordinates":  [ 2.331,48.868 ]
     },
     "properties": {
-    "Name":"La Colombe [Fermé]"
+    "Name":"La Colombe [Fermé]",
+    "Adresse":"2 rue de la Paix, 75002 Paris"
     }
   },
   {
@@ -58,7 +63,8 @@
        "coordinates":  [ 2.333,48.869 ]
     },
     "properties": {
-    "Name":"Brasilia"
+    "Name":"Brasilia",
+    "Adresse":"36 Avenue de l’Opéra, 75002 Paris"
     }
   },
   {
@@ -68,7 +74,8 @@
        "coordinates":  [ 2.333,48.869 ]
     },
     "properties": {
-    "Name":"Café du Cadran"
+    "Name":"Café du Cadran",
+    "Adresse":"1 rue Daunou, 75002 Paris"
     }
   },
   {
@@ -78,7 +85,8 @@
        "coordinates":  [ 2.335,48.867 ]
     },
     "properties": {
-    "Name":"Dalayrac"
+    "Name":"Dalayrac",
+    "Adresse":"4 rue Mehul, 75002 Paris"
     }
   },
   {
@@ -88,7 +96,8 @@
        "coordinates":  [ 2.278,48.840 ]
     },
     "properties": {
-    "Name":"Bistrot du Parc"
+    "Name":"Bistrot du Parc",
+    "Adresse":"67 Rue Balard, 75015 Paris"
     }
   },
   {
@@ -98,7 +107,8 @@
        "coordinates":  [ 2.289,48.847 ]
     },
     "properties": {
-    "Name":"Le Germinal"
+    "Name":"Le Germinal",
+    "Adresse":"95 Avenue Émile Zola, 75015 Paris"
     }
   },
   {
@@ -108,7 +118,8 @@
        "coordinates":  [ 2.325,48.856 ]
     },
     "properties": {
-    "Name":"Le Saint Germain"
+    "Name":"Le Saint Germain",
+    "Adresse":"1 Rue Paul-Louis Courier, 75007 Paris"
     }
   },
   {
@@ -118,7 +129,8 @@
        "coordinates":  [ 2.325,48.855 ]
     },
     "properties": {
-    "Name":"Le Gévaudan"
+    "Name":"Le Gévaudan",
+    "Adresse":"67 rue du bac, 75007 Paris"
     }
   },
   {
@@ -128,7 +140,8 @@
        "coordinates":  [ 2.358,48.863 ]
     },
     "properties": {
-    "Name":"Le Roi de Pique"
+    "Name":"Le Roi de Pique",
+    "Adresse":"126 rue du temple, 75003 Paris"
     }
   },
   {
@@ -138,7 +151,8 @@
        "coordinates":  [ 2.269,48.855 ]
     },
     "properties": {
-    "Name":"Bô Zinc"
+    "Name":"Bô Zinc",
+    "Adresse":"59 Avenue Mozart, 75016 Paris"
     }
   },
   {
@@ -148,7 +162,8 @@
        "coordinates":  [ 2.340,48.863 ]
     },
     "properties": {
-    "Name":"Café Blanc"
+    "Name":"Café Blanc",
+    "Adresse":"10 Rue Croix des Petits Champs, 75001 Paris"
     }
   },
   {
@@ -158,7 +173,8 @@
        "coordinates":  [ 2.281,48.838 ]
     },
     "properties": {
-    "Name":"Le Buron"
+    "Name":"Le Buron",
+    "Adresse":"119 Avenue Félix Faure, 75015 Paris"
     }
   },
   {
@@ -168,7 +184,8 @@
        "coordinates":  [ 2.334,48.866 ]
     },
     "properties": {
-    "Name":"Le Royal Opéra"
+    "Name":"Le Royal Opéra",
+    "Adresse":"22 rue des pyramides, 75002 Paris"
     }
   },
   {
@@ -178,7 +195,8 @@
        "coordinates":  [ 2.282,48.842 ]
     },
     "properties": {
-    "Name":"Millésime"
+    "Name":"Millésime",
+    "Adresse":"161 Rue Saint-Charles, 75015 Paris"
     }
   },
   {
@@ -188,7 +206,8 @@
        "coordinates":  [ 2.334,48.866 ]
     },
     "properties": {
-    "Name":"Bistrot Pyramide"
+    "Name":"Bistrot Pyramide",
+    "Adresse":"20 Rue des Pyramides, 75001 Paris"
     }
   },
   {
@@ -198,7 +217,8 @@
        "coordinates":  [ 2.291,48.853 ]
     },
     "properties": {
-    "Name":"Comptoir Principal"
+    "Name":"Comptoir Principal",
+    "Adresse":"29 Boulevard de Grenelle, 75015 Paris"
     }
   },
   {
@@ -208,7 +228,8 @@
        "coordinates":  [ 2.283,48.843 ]
     },
     "properties": {
-    "Name":"Gloriette"
+    "Name":"Gloriette",
+    "Adresse":"58 Rue de la Convention, 75015 Paris"
     }
   },
   {
@@ -218,7 +239,8 @@
        "coordinates":  [ 2.288,48.841 ]
     },
     "properties": {
-    "Name":"La Petite Rotonde"
+    "Name":"La Petite Rotonde",
+    "Adresse":"44 Avenue Félix Faure, 75015 Paris"
     }
   },
   {
@@ -228,7 +250,8 @@
        "coordinates":  [ 2.278,48.838 ]
     },
     "properties": {
-    "Name":"L'Authentik"
+    "Name":"L'Authentik",
+    "Adresse":"90 Rue Balard, 75015 Paris"
     }
   },
   {
@@ -238,7 +261,8 @@
        "coordinates":  [ 2.294,48.845 ]
     },
     "properties": {
-    "Name":"Le Commerce"
+    "Name":"Le Commerce",
+    "Adresse":"80 Rue du Commerce, 75015 Paris"
     }
   },
   {
@@ -248,7 +272,8 @@
        "coordinates":  [ 2.294,48.847 ]
     },
     "properties": {
-    "Name":"Le Cosmos"
+    "Name":"Le Cosmos",
+    "Adresse":"133 Avenue Émile Zola, 75015 Paris"
     }
   },
   {
@@ -258,7 +283,8 @@
        "coordinates":  [ 2.277,48.846 ]
     },
     "properties": {
-    "Name":"L'Apollinaire"
+    "Name":"L'Apollinaire",
+    "Adresse":"7 Rond-Point du Pont Mirabeau, 75015 Paris"
     }
   },
   {
@@ -268,7 +294,8 @@
        "coordinates":  [ 2.295,48.850 ]
     },
     "properties": {
-    "Name":"Le Métropolitain"
+    "Name":"Le Métropolitain",
+    "Adresse":"83 Boulevard de Grenelle, 75015 Paris"
     }
   },
   {
@@ -278,7 +305,8 @@
        "coordinates":  [ 2.293,48.850 ]
     },
     "properties": {
-    "Name":"Au Dernier Métro"
+    "Name":"Au Dernier Métro",
+    "Adresse":"70 Boulevard de Grenelle, 75015 Paris"
     }
   },
   {
@@ -288,7 +316,8 @@
        "coordinates":  [ 2.285,48.840 ]
     },
     "properties": {
-    "Name":"Mon Rêve"
+    "Name":"Mon Rêve",
+    "Adresse":"68 Avenue Félix Faure, 75015 Paris"
     }
   },
   {
@@ -298,7 +327,8 @@
        "coordinates":  [ 2.265,48.841 ]
     },
     "properties": {
-    "Name":"Comptoir du XVI"
+    "Name":"Comptoir du XVI",
+    "Adresse":"24 Boulevard Exelmans, 75016 Paris"
     }
   },
   {
@@ -308,7 +338,8 @@
        "coordinates":  [ 2.257,48.834 ]
     },
     "properties": {
-    "Name":"La Place"
+    "Name":"La Place",
+    "Adresse":"17 Place Marcel Pagnol 92100 Boulogne-Billancourt"
     }
   },
   {
@@ -318,7 +349,8 @@
        "coordinates":  [ 2.316,48.872 ]
     },
     "properties": {
-    "Name":"Café Beauvau"
+    "Name":"Café Beauvau",
+    "Adresse":"9 rue de Miromesnil, 75008 Paris"
     }
   },
   {
@@ -328,7 +360,8 @@
        "coordinates":  [ 2.290,48.848 ]
     },
     "properties": {
-    "Name":"Le Disque Bleu"
+    "Name":"Le Disque Bleu",
+    "Adresse":"60 Rue du Théâtre, 75015 Paris"
     }
   },
   {
@@ -338,7 +371,8 @@
        "coordinates":  [ 2.325,48.860 ]
     },
     "properties": {
-    "Name":"Les Deux Musées"
+    "Name":"Les Deux Musées",
+    "Adresse":"79 Rue de Lille, 75007 Paris"
     }
   },
   {
@@ -348,7 +382,8 @@
        "coordinates":  [ 2.293,48.844 ]
     },
     "properties": {
-    "Name":"A la Tour Eiffel"
+    "Name":"A la Tour Eiffel",
+    "Adresse":"96 rue du Commerce, 75015 Paris"
     }
   },
   {
@@ -358,7 +393,8 @@
        "coordinates":  [ 2.292,48.843 ]
     },
     "properties": {
-    "Name":"Le Bistrot du 15ème"
+    "Name":"Le Bistrot du 15ème",
+    "Adresse":"91 Rue de l'Église, 75015 Paris"
     }
   },
   {
@@ -368,7 +404,8 @@
        "coordinates":  [ 2.292,48.843 ]
     },
     "properties": {
-    "Name":"L’Intrigue"
+    "Name":"L’Intrigue",
+    "Adresse":"91 Rue de l'Église, 75015 Paris"
     }
   },
   {
@@ -378,7 +415,8 @@
        "coordinates":  [ 2.342,48.864 ]
     },
     "properties": {
-    "Name":"L’imprimerie"
+    "Name":"L’imprimerie",
+    "Adresse":""
     }
   },
   {
@@ -388,7 +426,8 @@
        "coordinates":  [ 2.334,48.869 ]
     },
     "properties": {
-    "Name":"Le Pastel"
+    "Name":"Le Pastel",
+    "Adresse":"41 Rue Saint-Augustin, 75002 Paris"
     }
   },
   {
@@ -398,7 +437,8 @@
        "coordinates":  [ 2.338,48.863 ]
     },
     "properties": {
-    "Name":"Café Palais Royal"
+    "Name":"Café Palais Royal",
+    "Adresse":""
     }
   },
   {
@@ -408,7 +448,8 @@
        "coordinates":  [ 2.280,48.845 ]
     },
     "properties": {
-    "Name":"Le Capitaine M"
+    "Name":"Le Capitaine M",
+    "Adresse":"25 Rue de la Convention, 75015 Paris"
     }
   },
   {
@@ -418,7 +459,8 @@
        "coordinates":  [ 2.325,48.855 ]
     },
     "properties": {
-    "Name":"Le Florès"
+    "Name":"Le Florès",
+    "Adresse":"80 rue de grenelle, 75007 Paris"
     }
   },
   {
@@ -428,7 +470,8 @@
        "coordinates":  [ 2.290,48.842 ]
     },
     "properties": {
-    "Name":"Les Gamins"
+    "Name":"Les Gamins",
+    "Adresse":"22 Avenue Félix Faure, 75015 Paris"
     }
   },
   {
@@ -438,7 +481,8 @@
        "coordinates":  [ 2.284,48.837 ]
     },
     "properties": {
-    "Name":"Le 347"
+    "Name":"Le 347",
+    "Adresse":"42 Rue Vasco de Gama, 75015 Paris"
     }
   },
   {
@@ -448,7 +492,8 @@
        "coordinates":  [ 2.325,48.869 ]
     },
     "properties": {
-    "Name":"Relais Madeleine"
+    "Name":"Relais Madeleine",
+    "Adresse":"9 Rue du Chevalier de Saint-George, 75008 Paris"
     }
   },
   {
@@ -458,7 +503,8 @@
        "coordinates":  [ 2.310,48.860 ]
     },
     "properties": {
-    "Name":"Le Recrutement"
+    "Name":"Le Recrutement",
+    "Adresse":"50 Rue Saint-Dominique, 75007 Paris"
     }
   },
   {
@@ -468,7 +514,8 @@
        "coordinates":  [ 2.331,48.868 ]
     },
     "properties": {
-    "Name":"Le Royal Vendome"
+    "Name":"Le Royal Vendome",
+    "Adresse":"28 Rue Danielle Casanova, 75002 Paris"
     }
   },
   {
@@ -478,7 +525,8 @@
        "coordinates":  [ 2.329,48.858 ]
     },
     "properties": {
-    "Name":"L’Espérance [Fermé]"
+    "Name":"L’Espérance [Fermé]",
+    "Adresse":"36 Rue de l'Université, 75007 Paris"
     }
   },
   {
@@ -488,7 +536,8 @@
        "coordinates":  [ 2.307,48.843 ]
     },
     "properties": {
-    "Name":"Au Roi Du Café"
+    "Name":"Au Roi Du Café",
+    "Adresse":"59 Rue Lecourbe, 75015 Paris"
     }
   },
   {
@@ -498,7 +547,8 @@
        "coordinates":  [ 2.324,48.854 ]
     },
     "properties": {
-    "Name":"Café Varenne"
+    "Name":"Café Varenne",
+    "Adresse":""
     }
   },
   {
@@ -508,7 +558,8 @@
        "coordinates":  [ 2.311,48.845 ]
     },
     "properties": {
-    "Name":"Café Basile"
+    "Name":"Café Basile",
+    "Adresse":"2 Boulevard Pasteur, 75015 Paris"
     }
   },
   {
@@ -518,7 +569,8 @@
        "coordinates":  [ 2.371,48.869 ]
     },
     "properties": {
-    "Name":"Le Chateaubriand"
+    "Name":"Le Chateaubriand",
+    "Adresse":"129 Avenue Parmentier, 75011 Paris"
     }
   },
   {
@@ -528,7 +580,8 @@
        "coordinates":  [ 2.296,48.837 ]
     },
     "properties": {
-    "Name":"Dupont"
+    "Name":"Dupont",
+    "Adresse":"198 rue de la convention, 75015 Paris"
     }
   },
   {
@@ -538,7 +591,8 @@
        "coordinates":  [ 2.301,48.836 ]
     },
     "properties": {
-    "Name":"Le Marché"
+    "Name":"Le Marché",
+    "Adresse":"238 rue de la convention, 75015 Paris"
     }
   },
   {
@@ -548,7 +602,8 @@
        "coordinates":  [ 2.278,48.846 ]
     },
     "properties": {
-    "Name":"Regalia"
+    "Name":"Regalia",
+    "Adresse":"1 rue de la convention, 75015 Paris"
     }
   },
   {
@@ -558,7 +613,8 @@
        "coordinates":  [ 2.284,48.840 ]
     },
     "properties": {
-    "Name":"Félix Faure"
+    "Name":"Félix Faure",
+    "Adresse":"85 Avenue Félix Faure, 75015 Paris"
     }
   },
   {
@@ -568,7 +624,8 @@
        "coordinates":  [ 2.261,48.849 ]
     },
     "properties": {
-    "Name":"Le Beaujolais d’Auteuil"
+    "Name":"Le Beaujolais d’Auteuil",
+    "Adresse":"99 Boulevard de Montmorency, 75016 Paris"
     }
   },
   {
@@ -578,7 +635,8 @@
        "coordinates":  [ 2.312,48.831 ]
     },
     "properties": {
-    "Name":"Raymond"
+    "Name":"Raymond",
+    "Adresse":"1 Rue de Ridder, 75014 Paris"
     }
   },
   {
@@ -588,7 +646,8 @@
        "coordinates":  [ 2.347,48.871 ]
     },
     "properties": {
-    "Name":"Les pipelettes du boulevard"
+    "Name":"Les pipelettes du boulevard",
+    "Adresse":""
     }
   },
   {
@@ -598,7 +657,8 @@
        "coordinates":  [ 2.285,48.870 ]
     },
     "properties": {
-    "Name":"Brasserie Victo Hugo"
+    "Name":"Brasserie Victo Hugo",
+    "Adresse":"4 Place Victor Hugo, 75016 Paris"
     }
   },
   {
@@ -608,7 +668,8 @@
        "coordinates":  [ 2.333,48.892 ]
     },
     "properties": {
-    "Name":"Le Brio"
+    "Name":"Le Brio",
+    "Adresse":""
     }
   },
   {
@@ -618,7 +679,8 @@
        "coordinates":  [ 2.294,48.850 ]
     },
     "properties": {
-    "Name":"Les Prolongations"
+    "Name":"Les Prolongations",
+    "Adresse":""
     }
   },
   {
@@ -628,7 +690,8 @@
        "coordinates":  [ 2.289,48.839 ]
     },
     "properties": {
-    "Name":"Le Lutèce"
+    "Name":"Le Lutèce",
+    "Adresse":""
     }
   },
   {
@@ -638,7 +701,8 @@
        "coordinates":  [ 2.364,48.862 ]
     },
     "properties": {
-    "Name":"Le Progrès"
+    "Name":"Le Progrès",
+    "Adresse":""
     }
   },
   {
@@ -648,7 +712,8 @@
        "coordinates":  [ 2.306,48.878 ]
     },
     "properties": {
-    "Name":"Le  Parthenon"
+    "Name":"Le  Parthenon",
+    "Adresse":""
     }
   },
   {
@@ -658,7 +723,8 @@
        "coordinates":  [ 2.314,48.884 ]
     },
     "properties": {
-    "Name":"Le Sauret"
+    "Name":"Le Sauret",
+    "Adresse":"54 Rue de Lévis, 75017 Paris"
     }
   },
   {
@@ -668,7 +734,8 @@
        "coordinates":  [ 2.305,48.869 ]
     },
     "properties": {
-    "Name":"Le marbeuf"
+    "Name":"Le marbeuf",
+    "Adresse":""
     }
   },
   {
@@ -678,7 +745,8 @@
        "coordinates":  [ 2.310,48.871 ]
     },
     "properties": {
-    "Name":"Le Président"
+    "Name":"Le Président",
+    "Adresse":"59 Avenue Franklin Delano Roosevelt, 75008 Paris"
     }
   },
   {
@@ -688,7 +756,8 @@
        "coordinates":  [ 2.331,48.877 ]
     },
     "properties": {
-    "Name":"Le Vert Tulipe"
+    "Name":"Le Vert Tulipe",
+    "Adresse":"2 Rue de Londres, 75009 Paris"
     }
   },
   {
@@ -698,7 +767,8 @@
        "coordinates":  [ 2.308,48.876 ]
     },
     "properties": {
-    "Name":"L’Annexe"
+    "Name":"L’Annexe",
+    "Adresse":""
     }
   },
   {
@@ -708,7 +778,8 @@
        "coordinates":  [ 2.312,48.882 ]
     },
     "properties": {
-    "Name":"Le Café Dumas"
+    "Name":"Le Café Dumas",
+    "Adresse":"34 Avenue de Villiers, 75017 Paris"
     }
   },
   {
@@ -718,7 +789,8 @@
        "coordinates":  [ 2.365,48.862 ]
     },
     "properties": {
-    "Name":"La Banquette"
+    "Name":"La Banquette",
+    "Adresse":"92 Rue de Turenne, 75003 Paris"
     }
   },
   {
@@ -728,7 +800,8 @@
        "coordinates":  [ 2.337,48.854 ]
     },
     "properties": {
-    "Name":"Bar du Marché"
+    "Name":"Bar du Marché",
+    "Adresse":"16 Rue de Buci, 75006 Paris"
     }
   },
   {
@@ -738,7 +811,8 @@
        "coordinates":  [ 2.342,48.884 ]
     },
     "properties": {
-    "Name":"Le Progrès"
+    "Name":"Le Progrès",
+    "Adresse":"7 Rue des Trois Frères, 75018 Paris"
     }
   },
   {
@@ -748,7 +822,8 @@
        "coordinates":  [ 2.337,48.854 ]
     },
     "properties": {
-    "Name":"Le Chai Saint-Germain"
+    "Name":"Le Chai Saint-Germain",
+    "Adresse":"26 Rue de Buci, 75006 Paris"
     }
   },
   {
@@ -758,7 +833,8 @@
        "coordinates":  [ 2.338,48.871 ]
     },
     "properties": {
-    "Name":"Le Marivaux"
+    "Name":"Le Marivaux",
+    "Adresse":"6 Rue de Marivaux, 75002 Paris"
     }
   },
   {
@@ -768,7 +844,8 @@
        "coordinates":  [ 2.354,48.861 ]
     },
     "properties": {
-    "Name":"La Station Rambuteau"
+    "Name":"La Station Rambuteau",
+    "Adresse":"37 Rue Rambuteau, 75004 Paris"
     }
   },
   {
@@ -778,7 +855,8 @@
        "coordinates":  [ 2.320,48.890 ]
     },
     "properties": {
-    "Name":"Le Libre Echange"
+    "Name":"Le Libre Echange",
+    "Adresse":""
     }
   },
   {
@@ -788,7 +866,8 @@
        "coordinates":  [ 2.320,48.895 ]
     },
     "properties": {
-    "Name":"Les Phénomènes"
+    "Name":"Les Phénomènes",
+    "Adresse":""
     }
   },
   {
@@ -798,7 +877,8 @@
        "coordinates":  [ 2.286,48.842 ]
     },
     "properties": {
-    "Name":"Café Ella"
+    "Name":"Café Ella",
+    "Adresse":"85 rue de la convention, 75015 Paris"
     }
   },
   {
@@ -808,7 +888,8 @@
        "coordinates":  [ 2.285,48.847 ]
     },
     "properties": {
-    "Name":"Café Lutetia"
+    "Name":"Café Lutetia",
+    "Adresse":"1 Place Charles Michels, 75015 Paris"
     }
   },
   {
@@ -818,7 +899,8 @@
        "coordinates":  [ 2.328,48.843 ]
     },
     "properties": {
-    "Name":"Le Select"
+    "Name":"Le Select",
+    "Adresse":""
     }
   },
   {
@@ -828,7 +910,8 @@
        "coordinates":  [ 2.316,48.876 ]
     },
     "properties": {
-    "Name":"Le Carrefour"
+    "Name":"Le Carrefour",
+    "Adresse":""
     }
   },
   {
@@ -838,7 +921,8 @@
        "coordinates":  [ 2.316,48.875 ]
     },
     "properties": {
-    "Name":"Haussman"
+    "Name":"Haussman",
+    "Adresse":""
     }
   },
   {
@@ -848,7 +932,8 @@
        "coordinates":  [ 2.416,48.876 ]
     },
     "properties": {
-    "Name":"La Fleur des Lilas"
+    "Name":"La Fleur des Lilas",
+    "Adresse":""
     }
   },
   {
@@ -858,7 +943,8 @@
        "coordinates":  [ 2.300,48.872 ]
     },
     "properties": {
-    "Name":"George V"
+    "Name":"George V",
+    "Adresse":"120 Avenue des Champs-Élysées, 75008 Paris"
     }
   },
   {
@@ -868,7 +954,8 @@
        "coordinates":  [ 2.292,48.851 ]
     },
     "properties": {
-    "Name":"Le Dupleix"
+    "Name":"Le Dupleix",
+    "Adresse":"62 Boulevard de Grenelle, 75015 Paris"
     }
   },
   {
@@ -878,7 +965,8 @@
        "coordinates":  [ 2.334,48.830 ]
     },
     "properties": {
-    "Name":"Le Comptoir"
+    "Name":"Le Comptoir",
+    "Adresse":"57 Rue de la Tombe Issoire, 75014 Paris"
     }
   },
   {
@@ -888,7 +976,8 @@
        "coordinates":  [ 2.338,48.842 ]
     },
     "properties": {
-    "Name":"Le gamin de Paris"
+    "Name":"Le gamin de Paris",
+    "Adresse":""
     }
   },
   {
@@ -898,7 +987,8 @@
        "coordinates":  [ 2.338,48.842 ]
     },
     "properties": {
-    "Name":"Le val de grace"
+    "Name":"Le val de grace",
+    "Adresse":""
     }
   },
   {
@@ -908,7 +998,8 @@
        "coordinates":  [ 2.345,48.854 ]
     },
     "properties": {
-    "Name":"Le soleil d’or"
+    "Name":"Le soleil d’or",
+    "Adresse":""
     }
   },
   {
@@ -918,7 +1009,8 @@
        "coordinates":  [ 2.336,48.824 ]
     },
     "properties": {
-    "Name":"Chinchin"
+    "Name":"Chinchin",
+    "Adresse":"25 Avenue Reille, 75014 Paris"
     }
   },
   {
@@ -928,7 +1020,8 @@
        "coordinates":  [ 2.368,48.853 ]
     },
     "properties": {
-    "Name":"Café Francais"
+    "Name":"Café Francais",
+    "Adresse":""
     }
   },
   {
@@ -938,7 +1031,8 @@
        "coordinates":  [ 2.404,48.837 ]
     },
     "properties": {
-    "Name":"Chez Ma Belle-Mère"
+    "Name":"Chez Ma Belle-Mère",
+    "Adresse":"257 Avenue Daumesnil, 75012 Paris"
     }
   },
   {
@@ -948,7 +1042,8 @@
        "coordinates":  [ 2.342,48.859 ]
     },
     "properties": {
-    "Name":"Café du Pont Neuf"
+    "Name":"Café du Pont Neuf",
+    "Adresse":""
     }
   },
   {
@@ -958,7 +1053,8 @@
        "coordinates":  [ 2.276,48.853 ]
     },
     "properties": {
-    "Name":"Café à la fontaine"
+    "Name":"Café à la fontaine",
+    "Adresse":"12 Rue de Boulainvilliers, 75016 Paris"
     }
   },
   {
@@ -968,7 +1064,8 @@
        "coordinates":  [ 2.275,48.851 ]
     },
     "properties": {
-    "Name":"Le Récepteur"
+    "Name":"Le Récepteur",
+    "Adresse":"3 Avenue Théophile Gautier, 75016 Paris"
     }
   },
   {
@@ -978,7 +1075,8 @@
        "coordinates":  [ 2.326,48.878 ]
     },
     "properties": {
-    "Name":"Terrasse Saint-Lazare"
+    "Name":"Terrasse Saint-Lazare",
+    "Adresse":""
     }
   },
   {
@@ -988,7 +1086,8 @@
        "coordinates":  [ 2.351,48.862 ]
     },
     "properties": {
-    "Name":"Le Cavalier Bleu"
+    "Name":"Le Cavalier Bleu",
+    "Adresse":""
     }
   },
   {
@@ -998,7 +1097,8 @@
        "coordinates":  [ 2.318,48.871 ]
     },
     "properties": {
-    "Name":"Le Saint Laurent"
+    "Name":"Le Saint Laurent",
+    "Adresse":"10 Rue des Saussaies, 75008 Paris"
     }
   },
   {
@@ -1008,7 +1108,8 @@
        "coordinates":  [ 2.294,48.854 ]
     },
     "properties": {
-    "Name":"Le Rosco"
+    "Name":"Le Rosco",
+    "Adresse":""
     }
   },
   {
@@ -1018,7 +1119,8 @@
        "coordinates":  [ 2.380,48.873 ]
     },
     "properties": {
-    "Name":"Le Relais de Belleville"
+    "Name":"Le Relais de Belleville",
+    "Adresse":""
     }
   },
   {
@@ -1028,7 +1130,8 @@
        "coordinates":  [ 2.327,48.850 ]
     },
     "properties": {
-    "Name":"Le Raspail"
+    "Name":"Le Raspail",
+    "Adresse":""
     }
   },
   {
@@ -1038,7 +1141,8 @@
        "coordinates":  [ 2.543,48.827 ]
     },
     "properties": {
-    "Name":"Café de la Chope"
+    "Name":"Café de la Chope",
+    "Adresse":"54 Bise Rue du Général de Gaulle, 94350 Villiers-sur-Marne"
     }
   },
   {
@@ -1048,7 +1152,8 @@
        "coordinates":  [ 2.283,48.865 ]
     },
     "properties": {
-    "Name":"Les Sablons"
+    "Name":"Les Sablons",
+    "Adresse":""
     }
   },
   {
@@ -1058,7 +1163,8 @@
        "coordinates":  [ 2.383,48.855 ]
     },
     "properties": {
-    "Name":"Le Pure Cafe"
+    "Name":"Le Pure Cafe",
+    "Adresse":"14 Rue Jean Macé, 75011 Paris"
     }
   },
   {
@@ -1068,7 +1174,8 @@
        "coordinates":  [ 2.338,48.863 ]
     },
     "properties": {
-    "Name":"Café Saint Honoré"
+    "Name":"Café Saint Honoré",
+    "Adresse":""
     }
   },
   {
@@ -1078,7 +1185,8 @@
        "coordinates":  [ 2.245,48.831 ]
     },
     "properties": {
-    "Name":"Odette"
+    "Name":"Odette",
+    "Adresse":""
     }
   },
   {
@@ -1088,7 +1196,8 @@
        "coordinates":  [ 2.318,48.852 ]
     },
     "properties": {
-    "Name":"Coutume"
+    "Name":"Coutume",
+    "Adresse":""
     }
   },
   {
@@ -1098,7 +1207,8 @@
        "coordinates":  [ 2.319,48.852 ]
     },
     "properties": {
-    "Name":"Brasserie des Ministères"
+    "Name":"Brasserie des Ministères",
+    "Adresse":"41 Rue de Babylone, 75007 Paris"
     }
   },
   {
@@ -1108,7 +1218,8 @@
        "coordinates":  [ 2.319,48.861 ]
     },
     "properties": {
-    "Name":"Le Bourbon"
+    "Name":"Le Bourbon",
+    "Adresse":"1 Place du Palais Bourbon, 75007 Paris"
     }
   },
   {
@@ -1118,7 +1229,8 @@
        "coordinates":  [ 2.328,48.858 ]
     },
     "properties": {
-    "Name":"Le Buisson D’argent"
+    "Name":"Le Buisson D’argent",
+    "Adresse":"25 Rue du Bac, 75007 Paris"
     }
   },
   {
@@ -1128,7 +1240,8 @@
        "coordinates":  [ 2.269,48.855 ]
     },
     "properties": {
-    "Name":"L’Amadeus"
+    "Name":"L’Amadeus",
+    "Adresse":"54B Avenue Mozart, 75016 Paris"
     }
   },
   {
@@ -1138,7 +1251,8 @@
        "coordinates":  [ 2.357,48.857 ]
     },
     "properties": {
-    "Name":"Pick Clops"
+    "Name":"Pick Clops",
+    "Adresse":""
     }
   },
   {
@@ -1148,7 +1262,8 @@
        "coordinates":  [ 2.317,48.858 ]
     },
     "properties": {
-    "Name":"Au Coin de la Rue"
+    "Name":"Au Coin de la Rue",
+    "Adresse":"34 Rue de Bourgogne, 75007 Paris"
     }
   },
   {
@@ -1158,7 +1273,8 @@
        "coordinates":  [ 2.301,48.879 ]
     },
     "properties": {
-    "Name":"Le Diplomate"
+    "Name":"Le Diplomate",
+    "Adresse":"110 boulevard de Courcelles, 75017 Paris"
     }
   },
   {
@@ -1168,7 +1284,8 @@
        "coordinates":  [ 2.341,48.887 ]
     },
     "properties": {
-    "Name":"Chez Eugène"
+    "Name":"Chez Eugène",
+    "Adresse":""
     }
   },
   {
@@ -1178,7 +1295,8 @@
        "coordinates":  [ 2.258,48.885 ]
     },
     "properties": {
-    "Name":"Polly Maggoo"
+    "Name":"Polly Maggoo",
+    "Adresse":"test adresse"
     }
   },
   {
@@ -1188,7 +1306,8 @@
        "coordinates":  [ 2.293,48.875 ]
     },
     "properties": {
-    "Name":"Le Cristal"
+    "Name":"Le Cristal",
+    "Adresse":""
     }
   },
   {
@@ -1198,7 +1317,8 @@
        "coordinates":  [ 2.328,48.843 ]
     },
     "properties": {
-    "Name":"Le Select"
+    "Name":"Le Select",
+    "Adresse":"99 Boulevard du Montparnasse, 75006 Paris"
     }
   },
   {
@@ -1208,7 +1328,8 @@
        "coordinates":  [ 2.365,48.878 ]
     },
     "properties": {
-    "Name":"Le Valmy"
+    "Name":"Le Valmy",
+    "Adresse":"1 Rue Eugène Varlin, 75010 Paris"
     }
   },
   {
@@ -1218,7 +1339,8 @@
        "coordinates":  [ 2.355,48.875 ]
     },
     "properties": {
-    "Name":"Virage Café"
+    "Name":"Virage Café",
+    "Adresse":""
     }
   },
   {
@@ -1228,7 +1350,8 @@
        "coordinates":  [ 2.340,48.879 ]
     },
     "properties": {
-    "Name":"Bistrot le Smiley"
+    "Name":"Bistrot le Smiley",
+    "Adresse":""
     }
   },
   {
@@ -1238,7 +1361,8 @@
        "coordinates":  [ 2.348,48.891 ]
     },
     "properties": {
-    "Name":"Les Carrières"
+    "Name":"Les Carrières",
+    "Adresse":""
     }
   },
   {
@@ -1248,7 +1372,8 @@
        "coordinates":  [ 2.307,48.860 ]
     },
     "properties": {
-    "Name":"Le bar du central"
+    "Name":"Le bar du central",
+    "Adresse":""
     }
   },
   {
@@ -1258,7 +1383,8 @@
        "coordinates":  [ 2.325,48.870 ]
     },
     "properties": {
-    "Name":"Paris London"
+    "Name":"Paris London",
+    "Adresse":"16 Place de la Madeleine, 75008 Paris"
     }
   },
   {
@@ -1268,7 +1394,8 @@
        "coordinates":  [ 2.353,48.873 ]
     },
     "properties": {
-    "Name":"Madame Gen"
+    "Name":"Madame Gen",
+    "Adresse":""
     }
   },
   {
@@ -1278,7 +1405,8 @@
        "coordinates":  [ 2.345,48.874 ]
     },
     "properties": {
-    "Name":"Folie's Cafe"
+    "Name":"Folie's Cafe",
+    "Adresse":"16 Rue Geoffroy Marie, 75009 Paris"
     }
   },
   {
@@ -1288,7 +1416,8 @@
        "coordinates":  [ 2.325,48.874 ]
     },
     "properties": {
-    "Name":"L’Arcade"
+    "Name":"L’Arcade",
+    "Adresse":""
     }
   },
   {
@@ -1298,7 +1427,8 @@
        "coordinates":  [ 2.406,48.877 ]
     },
     "properties": {
-    "Name":"Le clairon"
+    "Name":"Le clairon",
+    "Adresse":"328 Rue de Belleville, 75020 Paris"
     }
   },
   {
@@ -1308,7 +1438,8 @@
        "coordinates":  [ 2.396,48.854 ]
     },
     "properties": {
-    "Name":"Café Lino"
+    "Name":"Café Lino",
+    "Adresse":"81 Boulevard de Charonne, 75011 Paris"
     }
   },
   {
@@ -1318,7 +1449,8 @@
        "coordinates":  [ 2.340,48.866 ]
     },
     "properties": {
-    "Name":"Bistrot des Victoires"
+    "Name":"Bistrot des Victoires",
+    "Adresse":""
     }
   },
   {
@@ -1328,7 +1460,8 @@
        "coordinates":  [ 2.305,48.841 ]
     },
     "properties": {
-    "Name":"Le Borromée"
+    "Name":"Le Borromée",
+    "Adresse":"224 Rue de Vaugirard, 75015 Paris"
     }
   },
   {
@@ -1338,7 +1471,8 @@
        "coordinates":  [ 2.350,48.828 ]
     },
     "properties": {
-    "Name":"Café Nénesse"
+    "Name":"Café Nénesse",
+    "Adresse":"23 Rue de la Butte-aux-Cailles, 75013 Paris"
     }
   },
   {
@@ -1348,7 +1482,8 @@
        "coordinates":  [ 2.334,48.872 ]
     },
     "properties": {
-    "Name":"Murphy's House"
+    "Name":"Murphy's House",
+    "Adresse":""
     }
   },
   {
@@ -1358,7 +1493,8 @@
        "coordinates":  [ 2.338,48.876 ]
     },
     "properties": {
-    "Name":"Café Lorette"
+    "Name":"Café Lorette",
+    "Adresse":""
     }
   },
   {
@@ -1368,7 +1504,8 @@
        "coordinates":  [ 2.343,48.853 ]
     },
     "properties": {
-    "Name":"Le Saint André"
+    "Name":"Le Saint André",
+    "Adresse":"2 rue Danton"
     }
   },
   {
@@ -1378,7 +1515,8 @@
        "coordinates":  [ 2.341,48.880 ]
     },
     "properties": {
-    "Name":"Le Ventura"
+    "Name":"Le Ventura",
+    "Adresse":""
     }
   },
   {
@@ -1388,7 +1526,8 @@
        "coordinates":  [ 2.300,48.847 ]
     },
     "properties": {
-    "Name":"Comptoir Moderne"
+    "Name":"Comptoir Moderne",
+    "Adresse":""
     }
   },
   {
@@ -1398,7 +1537,8 @@
        "coordinates":  [ 2.341,48.872 ]
     },
     "properties": {
-    "Name":"Au p’tit Paname"
+    "Name":"Au p’tit Paname",
+    "Adresse":""
     }
   },
   {
@@ -1408,7 +1548,8 @@
        "coordinates":  [ 2.344,48.891 ]
     },
     "properties": {
-    "Name":"Le Sarment de Montmartre"
+    "Name":"Le Sarment de Montmartre",
+    "Adresse":"62 Rue du Mont Cenis, 75018 Paris"
     }
   },
   {
@@ -1418,7 +1559,8 @@
        "coordinates":  [ 2.379,48.863 ]
     },
     "properties": {
-    "Name":"Les Enfants Terribles"
+    "Name":"Les Enfants Terribles",
+    "Adresse":"25 Rue Lacharrière, 75011 Paris"
     }
   },
   {
@@ -1428,7 +1570,8 @@
        "coordinates":  [ 2.328,48.854 ]
     },
     "properties": {
-    "Name":"Le Basile"
+    "Name":"Le Basile",
+    "Adresse":"34 Rue de Grenelle, 75007 Paris"
     }
   },
   {
@@ -1438,7 +1581,8 @@
        "coordinates":  [ 2.347,48.887 ]
     },
     "properties": {
-    "Name":"Au Clair de Lune"
+    "Name":"Au Clair de Lune",
+    "Adresse":"1 Rue Ramey, 75018 Paris"
     }
   },
   {
@@ -1448,7 +1592,8 @@
        "coordinates":  [ 2.354,48.872 ]
     },
     "properties": {
-    "Name":"Chez Jeannette"
+    "Name":"Chez Jeannette",
+    "Adresse":""
     }
   },
   {
@@ -1458,7 +1603,8 @@
        "coordinates":  [ 2.321,48.876 ]
     },
     "properties": {
-    "Name":"L’abordage"
+    "Name":"L’abordage",
+    "Adresse":""
     }
   },
   {
@@ -1468,7 +1614,8 @@
        "coordinates":  [ 2.307,48.858 ]
     },
     "properties": {
-    "Name":"Le Roussillon"
+    "Name":"Le Roussillon",
+    "Adresse":"186 rue de Grenelle, 75007 Paris"
     }
   },
   {
@@ -1478,7 +1625,8 @@
        "coordinates":  [ 2.306,48.856 ]
     },
     "properties": {
-    "Name":"Café Central"
+    "Name":"Café Central",
+    "Adresse":""
     }
   },
   {
@@ -1488,7 +1636,8 @@
        "coordinates":  [ 2.306,48.857 ]
     },
     "properties": {
-    "Name":"Café du Marché"
+    "Name":"Café du Marché",
+    "Adresse":""
     }
   },
   {
@@ -1498,7 +1647,8 @@
        "coordinates":  [ 2.324,48.840 ]
     },
     "properties": {
-    "Name":"Café Gaité"
+    "Name":"Café Gaité",
+    "Adresse":""
     }
   },
   {
@@ -1508,7 +1658,8 @@
        "coordinates":  [ 2.325,48.841 ]
     },
     "properties": {
-    "Name":"Café Odessa"
+    "Name":"Café Odessa",
+    "Adresse":""
     }
   },
   {
@@ -1518,7 +1669,8 @@
        "coordinates":  [ 2.303,48.842 ]
     },
     "properties": {
-    "Name":"Le Wallace"
+    "Name":"Le Wallace",
+    "Adresse":"2 Place du Général Beuret, 75015 Paris"
     }
   },
   {
@@ -1528,7 +1680,8 @@
        "coordinates":  [ 2.384,48.851 ]
     },
     "properties": {
-    "Name":"Les Funambules"
+    "Name":"Les Funambules",
+    "Adresse":"12 Rue Faidherbe, 75011 Paris"
     }
   },
   {
@@ -1538,7 +1691,8 @@
        "coordinates":  [ 2.293,48.836 ]
     },
     "properties": {
-    "Name":"Le P’ti Bistrot"
+    "Name":"Le P’ti Bistrot",
+    "Adresse":"6 rue Desnouettes, 75015 Paris"
     }
   },
   {
@@ -1548,7 +1702,8 @@
        "coordinates":  [ 2.355,48.880 ]
     },
     "properties": {
-    "Name":"Terminus Nord"
+    "Name":"Terminus Nord",
+    "Adresse":""
     }
   },
   {
@@ -1558,7 +1713,8 @@
        "coordinates":  [ 2.301,48.848 ]
     },
     "properties": {
-    "Name":"Royal Cambronne"
+    "Name":"Royal Cambronne",
+    "Adresse":"2 Place Cambronne, 75015 Paris"
     }
   },
   {
@@ -1568,7 +1724,8 @@
        "coordinates":  [ 2.327,48.847 ]
     },
     "properties": {
-    "Name":"Café Saint Placide"
+    "Name":"Café Saint Placide",
+    "Adresse":""
     }
   },
   {
@@ -1578,7 +1735,8 @@
        "coordinates":  [ 2.334,48.882 ]
     },
     "properties": {
-    "Name":"Le Mansart"
+    "Name":"Le Mansart",
+    "Adresse":""
     }
   },
   {
@@ -1588,7 +1746,8 @@
        "coordinates":  [ 2.341,48.881 ]
     },
     "properties": {
-    "Name":"Classique"
+    "Name":"Classique",
+    "Adresse":""
     }
   },
   {
@@ -1598,7 +1757,8 @@
        "coordinates":  [ 2.299,48.868 ]
     },
     "properties": {
-    "Name":"Le Marceau"
+    "Name":"Le Marceau",
+    "Adresse":"39 avenue Marceau"
     }
   },
   {
@@ -1608,7 +1768,8 @@
        "coordinates":  [ 2.342,48.838 ]
     },
     "properties": {
-    "Name":"Le Royal"
+    "Name":"Le Royal",
+    "Adresse":""
     }
   },
   {
@@ -1618,7 +1779,8 @@
        "coordinates":  [ 2.332,48.848 ]
     },
     "properties": {
-    "Name":"Café Madame"
+    "Name":"Café Madame",
+    "Adresse":""
     }
   },
   {
@@ -1628,7 +1790,8 @@
        "coordinates":  [ 2.319,48.846 ]
     },
     "properties": {
-    "Name":"Au Chien Qui Fume"
+    "Name":"Au Chien Qui Fume",
+    "Adresse":""
     }
   },
   {
@@ -1638,7 +1801,8 @@
        "coordinates":  [ 2.362,48.851 ]
     },
     "properties": {
-    "Name":"Le Sully"
+    "Name":"Le Sully",
+    "Adresse":""
     }
   },
   {
@@ -1648,7 +1812,8 @@
        "coordinates":  [ 2.353,48.870 ]
     },
     "properties": {
-    "Name":"Le Sully"
+    "Name":"Le Sully",
+    "Adresse":""
     }
   },
   {
@@ -1658,7 +1823,8 @@
        "coordinates":  [ 2.386,48.853 ]
     },
     "properties": {
-    "Name":"Café Titon"
+    "Name":"Café Titon",
+    "Adresse":""
     }
   },
   {
@@ -1668,7 +1834,8 @@
        "coordinates":  [ 2.344,48.867 ]
     },
     "properties": {
-    "Name":"Café Père et Fils"
+    "Name":"Café Père et Fils",
+    "Adresse":"88 Rue Montmartre, 75002 Paris"
     }
   },
   {
@@ -1678,7 +1845,8 @@
        "coordinates":  [ 2.358,48.857 ]
     },
     "properties": {
-    "Name":"Au Petit Fer à Cheval"
+    "Name":"Au Petit Fer à Cheval",
+    "Adresse":""
     }
   },
   {
@@ -1688,7 +1856,8 @@
        "coordinates":  [ 2.358,48.856 ]
     },
     "properties": {
-    "Name":"La Tartine"
+    "Name":"La Tartine",
+    "Adresse":"24 Rue de Rivoli, 75004 Paris"
     }
   },
   {
@@ -1698,7 +1867,8 @@
        "coordinates":  [ 2.346,48.882 ]
     },
     "properties": {
-    "Name":"Le Dunkerque"
+    "Name":"Le Dunkerque",
+    "Adresse":""
     }
   },
   {
@@ -1708,7 +1878,8 @@
        "coordinates":  [ 2.389,48.863 ]
     },
     "properties": {
-    "Name":"Les polissons"
+    "Name":"Les polissons",
+    "Adresse":""
     }
   },
   {
@@ -1718,7 +1889,8 @@
        "coordinates":  [ 2.309,48.845 ]
     },
     "properties": {
-    "Name":"Le P’tit Lecourbe"
+    "Name":"Le P’tit Lecourbe",
+    "Adresse":""
     }
   },
   {
@@ -1728,7 +1900,8 @@
        "coordinates":  [ 2.313,48.843 ]
     },
     "properties": {
-    "Name":"Café Pasteur"
+    "Name":"Café Pasteur",
+    "Adresse":""
     }
   },
   {
@@ -1738,7 +1911,8 @@
        "coordinates":  [ 2.340,48.867 ]
     },
     "properties": {
-    "Name":"Le Bougainville"
+    "Name":"Le Bougainville",
+    "Adresse":"5 rue de la banque, 75002 Paris"
     }
   },
   {
@@ -1748,7 +1922,8 @@
        "coordinates":  [ 2.400,48.852 ]
     },
     "properties": {
-    "Name":"Le Bistrot D’Avron"
+    "Name":"Le Bistrot D’Avron",
+    "Adresse":"2 Rue Planchat, 75020 Paris"
     }
   },
   {
@@ -1758,7 +1933,8 @@
        "coordinates":  [ 2.342,48.873 ]
     },
     "properties": {
-    "Name":"Bistrot Verdeau"
+    "Name":"Bistrot Verdeau",
+    "Adresse":""
     }
   },
   {
@@ -1768,7 +1944,8 @@
        "coordinates":  [ 2.331,48.866 ]
     },
     "properties": {
-    "Name":"Le Rubis"
+    "Name":"Le Rubis",
+    "Adresse":"10 Rue du Marché Saint-Honoré, 75001 Paris"
     }
   },
   {
@@ -1778,7 +1955,8 @@
        "coordinates":  [ 2.329,48.865 ]
     },
     "properties": {
-    "Name":"Au Petit Bar"
+    "Name":"Au Petit Bar",
+    "Adresse":"7 Rue du Mont Thabor, 75001 Paris"
     }
   },
   {
@@ -1788,7 +1966,8 @@
        "coordinates":  [ 2.332,48.847 ]
     },
     "properties": {
-    "Name":"Le Fleurus"
+    "Name":"Le Fleurus",
+    "Adresse":""
     }
   },
   {
@@ -1798,7 +1977,8 @@
        "coordinates":  [ 2.345,48.894 ]
     },
     "properties": {
-    "Name":"La Timbale"
+    "Name":"La Timbale",
+    "Adresse":"2, rue Versigny, 75018 Paris"
     }
   },
   {
@@ -1808,7 +1988,8 @@
        "coordinates":  [ 2.324,48.855 ]
     },
     "properties": {
-    "Name":"Les Ambassades"
+    "Name":"Les Ambassades",
+    "Adresse":"75 Rue du Bac, 75007 Paris"
     }
   },
   {
@@ -1818,7 +1999,8 @@
        "coordinates":  [ 2.324,48.854 ]
     },
     "properties": {
-    "Name":"Café Varenne"
+    "Name":"Café Varenne",
+    "Adresse":""
     }
   },
   {
@@ -1828,7 +2010,8 @@
        "coordinates":  [ 2.324,48.848 ]
     },
     "properties": {
-    "Name":"Bistrot des amis"
+    "Name":"Bistrot des amis",
+    "Adresse":""
     }
   },
   {
@@ -1838,7 +2021,8 @@
        "coordinates":  [ 2.383,48.859 ]
     },
     "properties": {
-    "Name":"Content"
+    "Name":"Content",
+    "Adresse":""
     }
   },
   {
@@ -1848,7 +2032,8 @@
        "coordinates":  [ 2.325,48.841 ]
     },
     "properties": {
-    "Name":"La Liberté"
+    "Name":"La Liberté",
+    "Adresse":"1 Rue de la Gaîté, 75014 Paris"
     }
   },
   {
@@ -1858,7 +2043,8 @@
        "coordinates":  [ 2.350,48.844 ]
     },
     "properties": {
-    "Name":"La Petite"
+    "Name":"La Petite",
+    "Adresse":""
     }
   },
   {
@@ -1868,7 +2054,8 @@
        "coordinates":  [ 2.341,48.872 ]
     },
     "properties": {
-    "Name":"Au P’tit Paname"
+    "Name":"Au P’tit Paname",
+    "Adresse":""
     }
   },
   {
@@ -1878,7 +2065,8 @@
        "coordinates":  [ 2.341,48.861 ]
     },
     "properties": {
-    "Name":"Auguste"
+    "Name":"Auguste",
+    "Adresse":""
     }
   },
   {
@@ -1888,7 +2076,8 @@
        "coordinates":  [ 2.374,48.855 ]
     },
     "properties": {
-    "Name":"Café des Anges"
+    "Name":"Café des Anges",
+    "Adresse":"66 Rue de la Roquette, 75011 Paris"
     }
   },
   {
@@ -1898,7 +2087,8 @@
        "coordinates":  [ 2.332,48.848 ]
     },
     "properties": {
-    "Name":"Café Madame"
+    "Name":"Café Madame",
+    "Adresse":""
     }
   },
   {
@@ -1908,7 +2098,8 @@
        "coordinates":  [ 2.290,48.867 ]
     },
     "properties": {
-    "Name":"Le Kléber"
+    "Name":"Le Kléber",
+    "Adresse":"36 rue Boissière, 75016 Paris"
     }
   },
   {
@@ -1918,7 +2109,8 @@
        "coordinates":  [ 2.342,48.870 ]
     },
     "properties": {
-    "Name":"La Java"
+    "Name":"La Java",
+    "Adresse":"2 Rue Saint-Marc, 75002 Paris"
     }
   },
   {
@@ -1928,7 +2120,8 @@
        "coordinates":  [ 2.341,48.875 ]
     },
     "properties": {
-    "Name":"La Pointe Drouot"
+    "Name":"La Pointe Drouot",
+    "Adresse":""
     }
   },
   {
@@ -1938,7 +2131,8 @@
        "coordinates":  [ 2.335,48.830 ]
     },
     "properties": {
-    "Name":"Le Vaudesir"
+    "Name":"Le Vaudesir",
+    "Adresse":""
     }
   },
   {
@@ -1948,7 +2142,8 @@
        "coordinates":  [ 2.270,48.855 ]
     },
     "properties": {
-    "Name":"Quarante & Un"
+    "Name":"Quarante & Un",
+    "Adresse":"41 Avenue Mozart, 75016 Paris"
     }
   },
   {
@@ -1958,7 +2153,8 @@
        "coordinates":  [ 2.384,48.850 ]
     },
     "properties": {
-    "Name":"La Liberté"
+    "Name":"La Liberté",
+    "Adresse":""
     }
   },
   {
@@ -1968,7 +2164,8 @@
        "coordinates":  [ 2.361,48.860 ]
     },
     "properties": {
-    "Name":"La perle"
+    "Name":"La perle",
+    "Adresse":""
     }
   },
   {
@@ -1978,7 +2175,8 @@
        "coordinates":  [ 2.375,48.851 ]
     },
     "properties": {
-    "Name":"Le Rallye"
+    "Name":"Le Rallye",
+    "Adresse":"27 Rue Faidherbe, 75011 Paris"
     }
   },
   {
@@ -1988,7 +2186,8 @@
        "coordinates":  [ 2.359,48.871 ]
     },
     "properties": {
-    "Name":"Le Petit Château D’Eau"
+    "Name":"Le Petit Château D’Eau",
+    "Adresse":""
     }
   },
   {
@@ -1998,7 +2197,8 @@
        "coordinates":  [ 2.358,48.878 ]
     },
     "properties": {
-    "Name":"Au train de vie"
+    "Name":"Au train de vie",
+    "Adresse":""
     }
   },
   {
@@ -2008,7 +2208,8 @@
        "coordinates":  [ 2.353,48.860 ]
     },
     "properties": {
-    "Name":"Les Acrobates"
+    "Name":"Les Acrobates",
+    "Adresse":""
     }
   },
   {
@@ -2018,7 +2219,8 @@
        "coordinates":  [ 2.310,48.877 ]
     },
     "properties": {
-    "Name":"Sergent Garcia"
+    "Name":"Sergent Garcia",
+    "Adresse":"3 Place de Rio de Janeiro, 75008 Paris"
     }
   },
   {
@@ -2028,7 +2230,8 @@
        "coordinates":  [ 2.310,48.877 ]
     },
     "properties": {
-    "Name":"Valois"
+    "Name":"Valois",
+    "Adresse":"1 Place Rio De Janeiro, 75008 Paris"
     }
   },
   {
@@ -2038,7 +2241,8 @@
        "coordinates":  [ 2.322,48.894 ]
     },
     "properties": {
-    "Name":"Chez Irène et Bernard"
+    "Name":"Chez Irène et Bernard",
+    "Adresse":""
     }
   },
   {
@@ -2048,7 +2252,8 @@
        "coordinates":  [ 2.325,48.851 ]
     },
     "properties": {
-    "Name":"Les Oiseaux"
+    "Name":"Les Oiseaux",
+    "Adresse":"43 Rue de Sèvres, 75006 Paris"
     }
   },
   {
@@ -2058,7 +2263,8 @@
        "coordinates":  [ 2.350,48.854 ]
     },
     "properties": {
-    "Name":"Au bougnat"
+    "Name":"Au bougnat",
+    "Adresse":""
     }
   },
   {
@@ -2068,7 +2274,8 @@
        "coordinates":  [ 2.343,48.873 ]
     },
     "properties": {
-    "Name":"La Comete"
+    "Name":"La Comete",
+    "Adresse":""
     }
   },
   {
@@ -2078,7 +2285,8 @@
        "coordinates":  [ 2.294,48.878 ]
     },
     "properties": {
-    "Name":"Monsieur Madame"
+    "Name":"Monsieur Madame",
+    "Adresse":"35 Rue des Ternes, 75017 Paris"
     }
   },
   {
@@ -2088,7 +2296,8 @@
        "coordinates":  [ 2.355,48.858 ]
     },
     "properties": {
-    "Name":"Les Marronniers"
+    "Name":"Les Marronniers",
+    "Adresse":"18 rue des archives, 75004 Paris"
     }
   },
   {
@@ -2098,7 +2307,8 @@
        "coordinates":  [ 2.363,48.842 ]
     },
     "properties": {
-    "Name":"Au Soleil D’Austerlitz"
+    "Name":"Au Soleil D’Austerlitz",
+    "Adresse":"18 Boulevard de l'Hôpital, 75005 Paris"
     }
   },
   {
@@ -2108,7 +2318,8 @@
        "coordinates":  [ 2.331,48.851 ]
     },
     "properties": {
-    "Name":"Le Carrousel de Rennes"
+    "Name":"Le Carrousel de Rennes",
+    "Adresse":"67 rue de Rennes, 75006 Paris"
     }
   },
   {
@@ -2118,7 +2329,8 @@
        "coordinates":  [ 2.332,48.847 ]
     },
     "properties": {
-    "Name":"Le Fleurus"
+    "Name":"Le Fleurus",
+    "Adresse":"2 rue de Fleurus"
     }
   },
   {
@@ -2128,7 +2340,8 @@
        "coordinates":  [ 2.336,48.886 ]
     },
     "properties": {
-    "Name":"La Mascotte Montmartre"
+    "Name":"La Mascotte Montmartre",
+    "Adresse":"52 rue des Abesses"
     }
   },
   {
@@ -2138,7 +2351,8 @@
        "coordinates":  [ 2.419,48.868 ]
     },
     "properties": {
-    "Name":"Madame Gen Bagnolet"
+    "Name":"Madame Gen Bagnolet",
+    "Adresse":"34 rue Sadi Carnot"
     }
   },
   {
@@ -2148,7 +2362,8 @@
        "coordinates":  [ 2.341,48.866 ]
     },
     "properties": {
-    "Name":"Le Bar Du Moulin"
+    "Name":"Le Bar Du Moulin",
+    "Adresse":""
     }
   },
   {
@@ -2158,7 +2373,8 @@
        "coordinates":  [ 2.307,48.856 ]
     },
     "properties": {
-    "Name":"Les Téléphones"
+    "Name":"Les Téléphones",
+    "Adresse":"54 Rue Cler, 75007 Paris"
     }
   },
   {
@@ -2168,7 +2384,8 @@
        "coordinates":  [ 2.292,48.851 ]
     },
     "properties": {
-    "Name":"La cantine du troquet"
+    "Name":"La cantine du troquet",
+    "Adresse":"53 Boulevard de Grenelle, 75015 Paris"
     }
   },
   {
@@ -2178,7 +2395,8 @@
        "coordinates":  [ 2.348,48.850 ]
     },
     "properties": {
-    "Name":"Le Métro"
+    "Name":"Le Métro",
+    "Adresse":"60 boulevard Saint Germain"
     }
   },
   {
@@ -2188,7 +2406,8 @@
        "coordinates":  [ 2.362,48.860 ]
     },
     "properties": {
-    "Name":"Le Saint Gervais"
+    "Name":"Le Saint Gervais",
+    "Adresse":"96 rue vieille du temple"
     }
   },
   {
@@ -2198,7 +2417,8 @@
        "coordinates":  [ 2.325,48.869 ]
     },
     "properties": {
-    "Name":"Le Colibri"
+    "Name":"Le Colibri",
+    "Adresse":"8 place de la Madeleine, 75008 Paris"
     }
   },
   {
@@ -2208,7 +2428,8 @@
        "coordinates":  [ 2.297,48.878 ]
     },
     "properties": {
-    "Name":"The Place To…"
+    "Name":"The Place To…",
+    "Adresse":"47 av Wagram"
     }
   },
   {
@@ -2218,7 +2439,8 @@
        "coordinates":  [ 2.354,48.853 ]
     },
     "properties": {
-    "Name":"Le Saint Régis"
+    "Name":"Le Saint Régis",
+    "Adresse":"6 Rue Jean du Bellay, 75004 Paris"
     }
   },
   {
@@ -2228,7 +2450,8 @@
        "coordinates":  [ 2.334,48.885 ]
     },
     "properties": {
-    "Name":"Café des deux moulins"
+    "Name":"Café des deux moulins",
+    "Adresse":""
     }
   },
   {
@@ -2238,7 +2461,8 @@
        "coordinates":  [ 2.283,48.865 ]
     },
     "properties": {
-    "Name":"Brasserie du Mexique"
+    "Name":"Brasserie du Mexique",
+    "Adresse":"3 place de Mexico"
     }
   },
   {
@@ -2248,7 +2472,8 @@
        "coordinates":  [ 2.354,48.849 ]
     },
     "properties": {
-    "Name":"Cardinal Saint Germain"
+    "Name":"Cardinal Saint Germain",
+    "Adresse":""
     }
   },
   {
@@ -2258,7 +2483,8 @@
        "coordinates":  [ 2.339,48.852 ]
     },
     "properties": {
-    "Name":"Germaine"
+    "Name":"Germaine",
+    "Adresse":""
     }
   },
   {
@@ -2268,7 +2494,8 @@
        "coordinates":  [ 2.386,48.859 ]
     },
     "properties": {
-    "Name":"Gabriel Café"
+    "Name":"Gabriel Café",
+    "Adresse":"151 rue de la roquette"
     }
   },
   {
@@ -2278,7 +2505,8 @@
        "coordinates":  [ 2.315,48.883 ]
     },
     "properties": {
-    "Name":"La Succursale"
+    "Name":"La Succursale",
+    "Adresse":""
     }
   },
   {
@@ -2288,7 +2516,8 @@
        "coordinates":  [ 2.328,48.893 ]
     },
     "properties": {
-    "Name":"Le Championnet"
+    "Name":"Le Championnet",
+    "Adresse":""
     }
   },
   {
@@ -2298,7 +2527,8 @@
        "coordinates":  [ 2.356,48.859 ]
     },
     "properties": {
-    "Name":"Le Bouquet des Archives"
+    "Name":"Le Bouquet des Archives",
+    "Adresse":"31 rue des archives"
     }
   },
   {
@@ -2308,7 +2538,8 @@
        "coordinates":  [ 2.366,48.865 ]
     },
     "properties": {
-    "Name":"Dreamin Man"
+    "Name":"Dreamin Man",
+    "Adresse":""
     }
   },
   {
@@ -2318,7 +2549,8 @@
        "coordinates":  [ 2.359,48.871 ]
     },
     "properties": {
-    "Name":"Le Petit Château d’Eau"
+    "Name":"Le Petit Château d’Eau",
+    "Adresse":""
     }
   },
   {
@@ -2328,7 +2560,8 @@
        "coordinates":  [ 2.338,48.885 ]
     },
     "properties": {
-    "Name":"Café Tabac"
+    "Name":"Café Tabac",
+    "Adresse":"1 bis rue Ravignan, 75018 Paris"
     }
   },
   {
@@ -2338,7 +2571,8 @@
        "coordinates":  [ 2.333,48.892 ]
     },
     "properties": {
-    "Name":"Le Brio"
+    "Name":"Le Brio",
+    "Adresse":"216 Rue Marcadet, 75018 Paris"
     }
   },
   {
@@ -2348,7 +2582,8 @@
        "coordinates":  [ 2.349,48.865 ]
     },
     "properties": {
-    "Name":"Shirokuma"
+    "Name":"Shirokuma",
+    "Adresse":""
     }
   },
   {
@@ -2358,7 +2593,8 @@
        "coordinates":  [ 2.356,48.856 ]
     },
     "properties": {
-    "Name":"Le Peloton"
+    "Name":"Le Peloton",
+    "Adresse":""
     }
   },
   {
@@ -2368,7 +2604,8 @@
        "coordinates":  [ 2.348,48.869 ]
     },
     "properties": {
-    "Name":"L’Univers Café"
+    "Name":"L’Univers Café",
+    "Adresse":"20 rue poissonnière"
     }
   },
   {
@@ -2378,7 +2615,8 @@
        "coordinates":  [ 2.315,48.839 ]
     },
     "properties": {
-    "Name":"Belle Epoque"
+    "Name":"Belle Epoque",
+    "Adresse":"Rue du cotentin"
     }
   },
   {
@@ -2388,7 +2626,8 @@
        "coordinates":  [ 2.302,48.876 ]
     },
     "properties": {
-    "Name":"Élysée saint honoré"
+    "Name":"Élysée saint honoré",
+    "Adresse":"27 Avenue Hoche, 75008 Paris"
     }
   },
   {
@@ -2398,7 +2637,8 @@
        "coordinates":  [ 2.305,48.880 ]
     },
     "properties": {
-    "Name":"Le Vigny"
+    "Name":"Le Vigny",
+    "Adresse":""
     }
   },
   {
@@ -2408,7 +2648,8 @@
        "coordinates":  [ 2.259,48.885 ]
     },
     "properties": {
-    "Name":"Zinc Zinc"
+    "Name":"Zinc Zinc",
+    "Adresse":""
     }
   },
   {
@@ -2418,7 +2659,8 @@
        "coordinates":  [ 2.358,48.877 ]
     },
     "properties": {
-    "Name":"Extérieur Quai"
+    "Name":"Extérieur Quai",
+    "Adresse":""
     }
   },
   {
@@ -2428,7 +2670,8 @@
        "coordinates":  [ 2.340,48.869 ]
     },
     "properties": {
-    "Name":"Le Vaudeville"
+    "Name":"Le Vaudeville",
+    "Adresse":""
     }
   },
   {
@@ -2438,7 +2681,8 @@
        "coordinates":  [ 2.348,48.873 ]
     },
     "properties": {
-    "Name":"Aux Fourreurs"
+    "Name":"Aux Fourreurs",
+    "Adresse":""
     }
   },
   {
@@ -2448,7 +2692,8 @@
        "coordinates":  [ 2.306,48.875 ]
     },
     "properties": {
-    "Name":"L’Avenue"
+    "Name":"L’Avenue",
+    "Adresse":""
     }
   },
   {
@@ -2458,7 +2703,8 @@
        "coordinates":  [ 2.278,48.865 ]
     },
     "properties": {
-    "Name":"Le Montespan"
+    "Name":"Le Montespan",
+    "Adresse":""
     }
   },
   {
@@ -2468,7 +2714,8 @@
        "coordinates":  [ 2.276,48.863 ]
     },
     "properties": {
-    "Name":"Le Chalet"
+    "Name":"Le Chalet",
+    "Adresse":"65 Rue de la Pompe, 75016 Paris"
     }
   },
   {
@@ -2478,7 +2725,8 @@
        "coordinates":  [ 2.357,48.865 ]
     },
     "properties": {
-    "Name":"Le Bailly"
+    "Name":"Le Bailly",
+    "Adresse":""
     }
   },
   {
@@ -2488,7 +2736,8 @@
        "coordinates":  [ 2.339,48.853 ]
     },
     "properties": {
-    "Name":"Le relais Odéon"
+    "Name":"Le relais Odéon",
+    "Adresse":""
     }
   },
   {
@@ -2498,7 +2747,8 @@
        "coordinates":  [ 2.376,48.847 ]
     },
     "properties": {
-    "Name":"La Promenade"
+    "Name":"La Promenade",
+    "Adresse":"32 Avenue Daumesnil 75012 Paris"
     }
   },
   {
@@ -2508,7 +2758,8 @@
        "coordinates":  [ 2.356,48.876 ]
     },
     "properties": {
-    "Name":"P’tite Bougnate"
+    "Name":"P’tite Bougnate",
+    "Adresse":""
     }
   },
   {
@@ -2518,7 +2769,8 @@
        "coordinates":  [ 2.296,48.879 ]
     },
     "properties": {
-    "Name":"Dada"
+    "Name":"Dada",
+    "Adresse":"12 Avenue des Ternes, 75017 Paris"
     }
   },
   {
@@ -2528,7 +2780,8 @@
        "coordinates":  [ 2.291,48.879 ]
     },
     "properties": {
-    "Name":"Le Franc Tireur"
+    "Name":"Le Franc Tireur",
+    "Adresse":""
     }
   },
   {
@@ -2538,7 +2791,8 @@
        "coordinates":  [ 2.372,48.872 ]
     },
     "properties": {
-    "Name":"Les Acolytes"
+    "Name":"Les Acolytes",
+    "Adresse":"195 Rue Saint-Maur, 75010 Paris"
     }
   },
   {
@@ -2548,7 +2802,8 @@
        "coordinates":  [ 2.375,48.869 ]
     },
     "properties": {
-    "Name":"Le Myrobolant"
+    "Name":"Le Myrobolant",
+    "Adresse":""
     }
   },
   {
@@ -2558,7 +2813,8 @@
        "coordinates":  [ 2.300,48.882 ]
     },
     "properties": {
-    "Name":"Le Week-End"
+    "Name":"Le Week-End",
+    "Adresse":"91 Avenue de Wagram, 75017 Paris"
     }
   },
   {
@@ -2568,7 +2824,8 @@
        "coordinates":  [ 2.334,48.864 ]
     },
     "properties": {
-    "Name":"À Jean Nicot"
+    "Name":"À Jean Nicot",
+    "Adresse":"173 Rue Saint-Honoré, 75001 Paris"
     }
   },
   {
@@ -2578,7 +2835,8 @@
        "coordinates":  [ 2.326,48.870 ]
     },
     "properties": {
-    "Name":"Bistrot Vignon"
+    "Name":"Bistrot Vignon",
+    "Adresse":"3, rue Vignon, 75009 Paris"
     }
   },
   {
@@ -2588,7 +2846,8 @@
        "coordinates":  [ 2.315,48.920 ]
     },
     "properties": {
-    "Name":"Bistro Charl'Yvonne"
+    "Name":"Bistro Charl'Yvonne",
+    "Adresse":"274 Av. des Grésillons, 92600 Asnières-sur-Seine"
     }
   },
   {
@@ -2598,7 +2857,8 @@
        "coordinates":  [ 2.303,48.842 ]
     },
     "properties": {
-    "Name":"Au général Beuret"
+    "Name":"Au général Beuret",
+    "Adresse":"9 place de Général Beuret, 75015 Paris"
     }
   },
   {
@@ -2608,7 +2868,8 @@
        "coordinates":  [ 2.318,48.888 ]
     },
     "properties": {
-    "Name":"La gazette des batignolles"
+    "Name":"La gazette des batignolles",
+    "Adresse":"75 Rue Truffaut, 75017 Paris"
     }
   },
   {
@@ -2618,7 +2879,8 @@
        "coordinates":  [ 2.332,48.856 ]
     },
     "properties": {
-    "Name":"Le comptoir des Saints Pères"
+    "Name":"Le comptoir des Saints Pères",
+    "Adresse":"60 Rue Jacob, 75006 Paris"
     }
   },
   {
@@ -2628,7 +2890,8 @@
        "coordinates":  [ 2.377,48.853 ]
     },
     "properties": {
-    "Name":"Le bistrot du peintre"
+    "Name":"Le bistrot du peintre",
+    "Adresse":"116 Avenue Ledru-Rollin, 75011 Paris"
     }
   },
   {
@@ -2638,7 +2901,8 @@
        "coordinates":  [ 2.298,48.849 ]
     },
     "properties": {
-    "Name":"Le Pierrot"
+    "Name":"Le Pierrot",
+    "Adresse":"113 Boulevard de Grenelle, 75015 Paris"
     }
   },
   {
@@ -2648,7 +2912,8 @@
        "coordinates":  [ 2.279,48.836 ]
     },
     "properties": {
-    "Name":"Le Café PC"
+    "Name":"Le Café PC",
+    "Adresse":"12 Boulevard Victor, 75015 Paris"
     }
   },
   {
@@ -2658,7 +2923,8 @@
        "coordinates":  [ 2.304,48.879 ]
     },
     "properties": {
-    "Name":"Le Courcelles"
+    "Name":"Le Courcelles",
+    "Adresse":"2 Rue de Chazelles, 75017 Paris"
     }
   },
   {
@@ -2668,7 +2934,8 @@
        "coordinates":  [ 2.310,48.868 ]
     },
     "properties": {
-    "Name":"Le Victory"
+    "Name":"Le Victory",
+    "Adresse":"33 Avenue Franklin Delano Roosevelt, 75008 Paris"
     }
   },
   {
@@ -2678,7 +2945,8 @@
        "coordinates":  [ 2.288,48.841 ]
     },
     "properties": {
-    "Name":"Le Murmure Fracassant"
+    "Name":"Le Murmure Fracassant",
+    "Adresse":"108 rue de la Convention, 75015 Paris"
     }
   },
   {
@@ -2688,7 +2956,8 @@
        "coordinates":  [ 2.289,48.841 ]
     },
     "properties": {
-    "Name":"L’Argument"
+    "Name":"L’Argument",
+    "Adresse":"121 Rue de la Convention, 75015 Paris"
     }
   },
   {
@@ -2698,7 +2967,8 @@
        "coordinates":  [ 2.343,48.872 ]
     },
     "properties": {
-    "Name":"Le Brebant"
+    "Name":"Le Brebant",
+    "Adresse":"32 Boulevard Poissonnière, 75009 Paris"
     }
   },
   {
@@ -2708,7 +2978,8 @@
        "coordinates":  [ 2.378,48.879 ]
     },
     "properties": {
-    "Name":"Le Sunny"
+    "Name":"Le Sunny",
+    "Adresse":"84 avenue Secrétan, 75019 Paris"
     }
   },
   {
@@ -2718,7 +2989,8 @@
        "coordinates":  [ 2.368,48.876 ]
     },
     "properties": {
-    "Name":"La Fontaine de Belleville"
+    "Name":"La Fontaine de Belleville",
+    "Adresse":"31-33 Rue Juliette Doudou, 75010 Paris"
     }
   },
   {
@@ -2728,7 +3000,8 @@
        "coordinates":  [ 2.365,48.885 ]
     },
     "properties": {
-    "Name":"Tout va mieux"
+    "Name":"Tout va mieux",
+    "Adresse":"244 Boulevard de la Villette, 75019 Paris"
     }
   },
   {
@@ -2738,7 +3011,8 @@
        "coordinates":  [ 2.312,48.872 ]
     },
     "properties": {
-    "Name":"Le Rabelais"
+    "Name":"Le Rabelais",
+    "Adresse":"22 Rue Jean Mermoz, 75008 Paris"
     }
   },
   {
@@ -2748,7 +3022,8 @@
        "coordinates":  [ 2.295,48.850 ]
     },
     "properties": {
-    "Name":"Au Moka"
+    "Name":"Au Moka",
+    "Adresse":"92 Boulevard de Grenelle, 75015 Paris"
     }
   },
   {
@@ -2758,7 +3033,8 @@
        "coordinates":  [ 2.278,48.851 ]
     },
     "properties": {
-    "Name":"Les Ondes"
+    "Name":"Les Ondes",
+    "Adresse":"2 Avenue de Versailles, 75016 Paris"
     }
   },
   {
@@ -2768,7 +3044,8 @@
        "coordinates":  [ 2.343,48.890 ]
     },
     "properties": {
-    "Name":"Le Francoeur"
+    "Name":"Le Francoeur",
+    "Adresse":"129 Rue Caulaincourt, 75018 Paris"
     }
   },
   {
@@ -2778,7 +3055,8 @@
        "coordinates":  [ 2.346,48.855 ]
     },
     "properties": {
-    "Name":"Les Deux Palais"
+    "Name":"Les Deux Palais",
+    "Adresse":"3 Boulevard du Palais, 75004 Paris"
     }
   },
   {
@@ -2788,7 +3066,8 @@
        "coordinates":  [ 2.385,48.878 ]
     },
     "properties": {
-    "Name":"Le Bar Fleuri"
+    "Name":"Le Bar Fleuri",
+    "Adresse":"1 Rue du Plateau, 75019 Paris"
     }
   },
   {
@@ -2798,7 +3077,8 @@
        "coordinates":  [ 2.354,48.865 ]
     },
     "properties": {
-    "Name":"Le Maryland"
+    "Name":"Le Maryland",
+    "Adresse":"1 rue Cunin Gridaine, 75003 Paris"
     }
   },
   {
@@ -2808,7 +3088,8 @@
        "coordinates":  [ 2.264,48.848 ]
     },
     "properties": {
-    "Name":"Le Village d’Auteuil"
+    "Name":"Le Village d’Auteuil",
+    "Adresse":"48 Rue d'Auteuil, 75016 Paris"
     }
   },
   {
@@ -2818,7 +3099,8 @@
        "coordinates":  [ 2.339,48.896 ]
     },
     "properties": {
-    "Name":"Bistrot La Renaissance"
+    "Name":"Bistrot La Renaissance",
+    "Adresse":"112 Rue Championnet, 75018 Paris"
     }
   },
   {
@@ -2828,7 +3110,8 @@
        "coordinates":  [ 2.387,48.863 ]
     },
     "properties": {
-    "Name":"Au Rond Point"
+    "Name":"Au Rond Point",
+    "Adresse":"67 Boulevard de Ménilmontant, 75011 Paris"
     }
   },
   {
@@ -2838,7 +3121,8 @@
        "coordinates":  [ 2.301,48.877 ]
     },
     "properties": {
-    "Name":"Le Do Ré Mi"
+    "Name":"Le Do Ré Mi",
+    "Adresse":"18 Avenue Hoche, 75008 Paris"
     }
   },
   {
@@ -2848,7 +3132,8 @@
        "coordinates":  [ 2.333,48.868 ]
     },
     "properties": {
-    "Name":"Le Duc D’Albret [Fermé]"
+    "Name":"Le Duc D’Albret [Fermé]",
+    "Adresse":"6 rue Danielle Casanova, 75002 Paris"
     }
   },
   {
@@ -2858,7 +3143,8 @@
        "coordinates":  [ 2.330,48.855 ]
     },
     "properties": {
-    "Name":"Le Rouquet"
+    "Name":"Le Rouquet",
+    "Adresse":"44 Rue des Saints-Pères, 75007 Paris"
     }
   },
   {
@@ -2868,7 +3154,8 @@
        "coordinates":  [ 2.365,48.872 ]
     },
     "properties": {
-    "Name":"Chez Prune"
+    "Name":"Chez Prune",
+    "Adresse":"36 Rue Beaurepaire, 75010 Paris"
     }
   },
   {
@@ -2878,7 +3165,8 @@
        "coordinates":  [ 2.378,48.872 ]
     },
     "properties": {
-    "Name":"Aux Folies"
+    "Name":"Aux Folies",
+    "Adresse":"8 Rue de Belleville, 75020 Paris"
     }
   },
   {
@@ -2888,7 +3176,8 @@
        "coordinates":  [ 2.371,48.855 ]
     },
     "properties": {
-    "Name":"Le Bar Du Marché"
+    "Name":"Le Bar Du Marché",
+    "Adresse":"11 Rue Daval, 75011 Paris"
     }
   },
   {
@@ -2898,7 +3187,8 @@
        "coordinates":  [ 2.393,48.882 ]
     },
     "properties": {
-    "Name":"Le café parisien"
+    "Name":"Le café parisien",
+    "Adresse":""
     }
   },
   {
@@ -2908,7 +3198,8 @@
        "coordinates":  [ 2.321,48.888 ]
     },
     "properties": {
-    "Name":"Le Saint Claude"
+    "Name":"Le Saint Claude",
+    "Adresse":""
     }
   },
   {
@@ -2918,7 +3209,8 @@
        "coordinates":  [ 2.319,48.891 ]
     },
     "properties": {
-    "Name":"L’Aubrac"
+    "Name":"L’Aubrac",
+    "Adresse":""
     }
   },
   {
@@ -2928,7 +3220,8 @@
        "coordinates":  [ 2.341,48.842 ]
     },
     "properties": {
-    "Name":"Bistrot vin sobre"
+    "Name":"Bistrot vin sobre",
+    "Adresse":""
     }
   },
   {
@@ -2938,7 +3231,8 @@
        "coordinates":  [ 2.352,48.841 ]
     },
     "properties": {
-    "Name":"Village Monge"
+    "Name":"Village Monge",
+    "Adresse":""
     }
   },
   {
@@ -2948,7 +3242,8 @@
        "coordinates":  [ 2.352,48.843 ]
     },
     "properties": {
-    "Name":"Le Monge"
+    "Name":"Le Monge",
+    "Adresse":""
     }
   },
   {
@@ -2958,7 +3253,8 @@
        "coordinates":  [ 2.352,48.847 ]
     },
     "properties": {
-    "Name":"Le petit cardinal"
+    "Name":"Le petit cardinal",
+    "Adresse":"44 Rue du Cardinal Lemoine, 75005 Paris"
     }
   },
   {
@@ -2968,7 +3264,8 @@
        "coordinates":  [ 2.348,48.849 ]
     },
     "properties": {
-    "Name":"L’Annexe"
+    "Name":"L’Annexe",
+    "Adresse":"22 Rue des Écoles 75005 Paris"
     }
   },
   {
@@ -2978,7 +3275,8 @@
        "coordinates":  [ 2.347,48.849 ]
     },
     "properties": {
-    "Name":"La Petite Périgourdine"
+    "Name":"La Petite Périgourdine",
+    "Adresse":"18 Rue des Carmes, 75005 Paris"
     }
   },
   {
@@ -2988,7 +3286,8 @@
        "coordinates":  [ 2.329,48.852 ]
     },
     "properties": {
-    "Name":"Le Brazza"
+    "Name":"Le Brazza",
+    "Adresse":"9 Rue de Sèvres, 75006 Paris"
     }
   },
   {
@@ -2998,7 +3297,8 @@
        "coordinates":  [ 2.349,48.826 ]
     },
     "properties": {
-    "Name":"Le Verbalon"
+    "Name":"Le Verbalon",
+    "Adresse":""
     }
   },
   {
@@ -3008,7 +3308,8 @@
        "coordinates":  [ 2.395,48.848 ]
     },
     "properties": {
-    "Name":"Le Triomphe"
+    "Name":"Le Triomphe",
+    "Adresse":"6 Place de la Nation, 75012 Paris"
     }
   },
   {
@@ -3018,7 +3319,8 @@
        "coordinates":  [ 2.352,48.830 ]
     },
     "properties": {
-    "Name":"La butte aux Piafs"
+    "Name":"La butte aux Piafs",
+    "Adresse":""
     }
   },
   {
@@ -3028,7 +3330,8 @@
        "coordinates":  [ 2.239,48.882 ]
     },
     "properties": {
-    "Name":"Le Conti Chez José"
+    "Name":"Le Conti Chez José",
+    "Adresse":""
     }
   },
   {
@@ -3038,7 +3341,8 @@
        "coordinates":  [ 2.240,48.883 ]
     },
     "properties": {
-    "Name":"Le Jacoto"
+    "Name":"Le Jacoto",
+    "Adresse":""
     }
   },
   {
@@ -3048,7 +3352,8 @@
        "coordinates":  [ 2.282,48.842 ]
     },
     "properties": {
-    "Name":"Chez Madame Charles"
+    "Name":"Chez Madame Charles",
+    "Adresse":""
     }
   },
   {
@@ -3058,7 +3363,8 @@
        "coordinates":  [ 2.324,48.868 ]
     },
     "properties": {
-    "Name":"Le Florentin"
+    "Name":"Le Florentin",
+    "Adresse":""
     }
   },
   {
@@ -3068,7 +3374,8 @@
        "coordinates":  [ 2.251,48.888 ]
     },
     "properties": {
-    "Name":"Octopus"
+    "Name":"Octopus",
+    "Adresse":""
     }
   },
   {
@@ -3078,7 +3385,8 @@
        "coordinates":  [ 2.297,48.879 ]
     },
     "properties": {
-    "Name":"Le café Ponce"
+    "Name":"Le café Ponce",
+    "Adresse":""
     }
   },
   {
@@ -3088,7 +3396,8 @@
        "coordinates":  [ 2.294,48.876 ]
     },
     "properties": {
-    "Name":"Le Mac Mahon"
+    "Name":"Le Mac Mahon",
+    "Adresse":""
     }
   },
   {
@@ -3098,7 +3407,8 @@
        "coordinates":  [ 2.332,48.867 ]
     },
     "properties": {
-    "Name":"Le Zinc D’Honoré"
+    "Name":"Le Zinc D’Honoré",
+    "Adresse":""
     }
   },
   {
@@ -3108,7 +3418,8 @@
        "coordinates":  [ 2.372,48.844 ]
     },
     "properties": {
-    "Name":"Gamma"
+    "Name":"Gamma",
+    "Adresse":"193 rue Bercy, 75012 Paris"
     }
   },
   {
@@ -3118,7 +3429,8 @@
        "coordinates":  [ 2.291,48.841 ]
     },
     "properties": {
-    "Name":"Les trois garcons"
+    "Name":"Les trois garcons",
+    "Adresse":"165 Rue de Javel, 75015 Paris"
     }
   },
   {
@@ -3128,7 +3440,8 @@
        "coordinates":  [ 2.315,48.856 ]
     },
     "properties": {
-    "Name":"Café du musée"
+    "Name":"Café du musée",
+    "Adresse":""
     }
   },
   {
@@ -3138,7 +3451,8 @@
        "coordinates":  [ 2.348,48.850 ]
     },
     "properties": {
-    "Name":"Café du Metro"
+    "Name":"Café du Metro",
+    "Adresse":"60 Boulevard Saint-Germain, 75005 Paris"
     }
   },
   {
@@ -3148,7 +3462,8 @@
        "coordinates":  [ 2.344,48.866 ]
     },
     "properties": {
-    "Name":"Le Café Noir"
+    "Name":"Le Café Noir",
+    "Adresse":"71 Rue d'Argout, 75002 Paris"
     }
   },
   {
@@ -3158,7 +3473,8 @@
        "coordinates":  [ 2.336,48.840 ]
     },
     "properties": {
-    "Name":"Le Bal Bullier"
+    "Name":"Le Bal Bullier",
+    "Adresse":""
     }
   },
   {
@@ -3168,7 +3484,8 @@
        "coordinates":  [ 2.332,48.854 ]
     },
     "properties": {
-    "Name":"Café Louise"
+    "Name":"Café Louise",
+    "Adresse":""
     }
   },
   {
@@ -3178,7 +3495,8 @@
        "coordinates":  [ 2.291,48.869 ]
     },
     "properties": {
-    "Name":"Le Copernic"
+    "Name":"Le Copernic",
+    "Adresse":""
     }
   },
   {
@@ -3188,7 +3506,8 @@
        "coordinates":  [ 2.338,48.890 ]
     },
     "properties": {
-    "Name":"Au Reve"
+    "Name":"Au Reve",
+    "Adresse":""
     }
   },
   {
@@ -3198,7 +3517,8 @@
        "coordinates":  [ 2.342,48.849 ]
     },
     "properties": {
-    "Name":"Les Patios"
+    "Name":"Les Patios",
+    "Adresse":""
     }
   },
   {
@@ -3208,7 +3528,8 @@
        "coordinates":  [ 2.292,48.869 ]
     },
     "properties": {
-    "Name":"Café Fleurus"
+    "Name":"Café Fleurus",
+    "Adresse":""
     }
   },
   {
@@ -3218,7 +3539,8 @@
        "coordinates":  [ 2.335,48.869 ]
     },
     "properties": {
-    "Name":"Le Gaillon"
+    "Name":"Le Gaillon",
+    "Adresse":""
     }
   },
   {
@@ -3228,7 +3550,8 @@
        "coordinates":  [ 2.336,48.869 ]
     },
     "properties": {
-    "Name":"Le Fontenoy"
+    "Name":"Le Fontenoy",
+    "Adresse":""
     }
   },
   {
@@ -3238,7 +3561,8 @@
        "coordinates":  [ 2.282,48.838 ]
     },
     "properties": {
-    "Name":"Le Boyard"
+    "Name":"Le Boyard",
+    "Adresse":"184 Rue de Lourmel, 75015 Paris"
     }
   },
   {
@@ -3248,7 +3572,8 @@
        "coordinates":  [ 2.321,48.882 ]
     },
     "properties": {
-    "Name":"Le Paris Rome"
+    "Name":"Le Paris Rome",
+    "Adresse":""
     }
   },
   {
@@ -3258,7 +3583,8 @@
        "coordinates":  [ 2.309,48.860 ]
     },
     "properties": {
-    "Name":"Au Canon des Invalides"
+    "Name":"Au Canon des Invalides",
+    "Adresse":""
     }
   },
   {
@@ -3268,7 +3594,8 @@
        "coordinates":  [ 2.377,48.888 ]
     },
     "properties": {
-    "Name":"Le Bastringue"
+    "Name":"Le Bastringue",
+    "Adresse":"1 Rue Riquet, 75019 Paris"
     }
   },
   {
@@ -3278,7 +3605,8 @@
        "coordinates":  [ 2.322,48.841 ]
     },
     "properties": {
-    "Name":"L’Atlantique"
+    "Name":"L’Atlantique",
+    "Adresse":""
     }
   },
   {
@@ -3288,7 +3616,8 @@
        "coordinates":  [ 2.284,48.845 ]
     },
     "properties": {
-    "Name":"Le Chiquito"
+    "Name":"Le Chiquito",
+    "Adresse":"69 Rue de Javel, 75015 Paris"
     }
   },
   {
@@ -3298,7 +3627,8 @@
        "coordinates":  [ 2.302,48.847 ]
     },
     "properties": {
-    "Name":"Café Leontine"
+    "Name":"Café Leontine",
+    "Adresse":""
     }
   },
   {
@@ -3308,7 +3638,8 @@
        "coordinates":  [ 2.318,48.886 ]
     },
     "properties": {
-    "Name":"L’endroit"
+    "Name":"L’endroit",
+    "Adresse":""
     }
   },
   {
@@ -3318,7 +3649,8 @@
        "coordinates":  [ 2.366,48.879 ]
     },
     "properties": {
-    "Name":"Le Chaland"
+    "Name":"Le Chaland",
+    "Adresse":""
     }
   },
   {
@@ -3328,7 +3660,8 @@
        "coordinates":  [ 2.292,48.869 ]
     },
     "properties": {
-    "Name":"Café Belloy"
+    "Name":"Café Belloy",
+    "Adresse":""
     }
   },
   {
@@ -3338,7 +3671,8 @@
        "coordinates":  [ 2.287,48.846 ]
     },
     "properties": {
-    "Name":"Bar Bichette"
+    "Name":"Bar Bichette",
+    "Adresse":""
     }
   },
   {
@@ -3348,7 +3682,8 @@
        "coordinates":  [ 2.332,48.864 ]
     },
     "properties": {
-    "Name":"Le Carrousel"
+    "Name":"Le Carrousel",
+    "Adresse":"194 Rue de Rivoli, 75001 Paris"
     }
   },
   {
@@ -3358,7 +3693,8 @@
        "coordinates":  [ 2.356,48.857 ]
     },
     "properties": {
-    "Name":"L’étincelle"
+    "Name":"L’étincelle",
+    "Adresse":""
     }
   },
   {
@@ -3368,7 +3704,8 @@
        "coordinates":  [ 2.286,48.846 ]
     },
     "properties": {
-    "Name":"Le Relais Charbon"
+    "Name":"Le Relais Charbon",
+    "Adresse":"38 Rue des Entrepreneurs, 75015 Paris"
     }
   },
   {
@@ -3378,7 +3715,8 @@
        "coordinates":  [ 2.334,48.873 ]
     },
     "properties": {
-    "Name":"Paul et Julienne"
+    "Name":"Paul et Julienne",
+    "Adresse":"4, rue La Fayette, 75009 Paris"
     }
   },
   {
@@ -3388,7 +3726,8 @@
        "coordinates":  [ 2.356,48.857 ]
     },
     "properties": {
-    "Name":"L’Etincelle"
+    "Name":"L’Etincelle",
+    "Adresse":""
     }
   },
   {
@@ -3398,7 +3737,8 @@
        "coordinates":  [ 2.303,48.857 ]
     },
     "properties": {
-    "Name":"Cafe Caillou"
+    "Name":"Cafe Caillou",
+    "Adresse":"210, rue de grenelle, 75007 Paris"
     }
   },
   {
@@ -3408,7 +3748,8 @@
        "coordinates":  [ 2.390,48.839 ]
     },
     "properties": {
-    "Name":"Chez Coquille"
+    "Name":"Chez Coquille",
+    "Adresse":""
     }
   },
   {
@@ -3418,7 +3759,8 @@
        "coordinates":  [ 2.290,48.836 ]
     },
     "properties": {
-    "Name":"Le week-end"
+    "Name":"Le week-end",
+    "Adresse":"230 Rue de la Croix Nivert, 75015 Paris"
     }
   },
   {
@@ -3428,7 +3770,8 @@
        "coordinates":  [ 2.347,48.885 ]
     },
     "properties": {
-    "Name":"Le Café du Commerce Barbès"
+    "Name":"Le Café du Commerce Barbès",
+    "Adresse":""
     }
   },
   {
@@ -3438,7 +3781,8 @@
        "coordinates":  [ 2.348,48.889 ]
     },
     "properties": {
-    "Name":"Le Montmartre"
+    "Name":"Le Montmartre",
+    "Adresse":"13 Rue de Clignancourt, 75018 Paris"
     }
   },
   {
@@ -3448,7 +3792,8 @@
        "coordinates":  [ 2.338,48.890 ]
     },
     "properties": {
-    "Name":"Au rêve"
+    "Name":"Au rêve",
+    "Adresse":""
     }
   },
   {
@@ -3458,7 +3803,8 @@
        "coordinates":  [ 2.387,48.855 ]
     },
     "properties": {
-    "Name":"Au pan coupé"
+    "Name":"Au pan coupé",
+    "Adresse":""
     }
   },
   {
@@ -3468,7 +3814,8 @@
        "coordinates":  [ 2.399,48.851 ]
     },
     "properties": {
-    "Name":"Usine de Charonne"
+    "Name":"Usine de Charonne",
+    "Adresse":""
     }
   },
   {
@@ -3478,7 +3825,8 @@
        "coordinates":  [ 2.342,48.889 ]
     },
     "properties": {
-    "Name":"Au Relais"
+    "Name":"Au Relais",
+    "Adresse":""
     }
   },
   {
@@ -3488,7 +3836,8 @@
        "coordinates":  [ 2.310,48.870 ]
     },
     "properties": {
-    "Name":"Le carré Elysee"
+    "Name":"Le carré Elysee",
+    "Adresse":""
     }
   },
   {
@@ -3498,7 +3847,8 @@
        "coordinates":  [ 2.319,48.845 ]
     },
     "properties": {
-    "Name":"La Parenthèse"
+    "Name":"La Parenthèse",
+    "Adresse":""
     }
   },
   {
@@ -3508,7 +3858,8 @@
        "coordinates":  [ 2.273,48.858 ]
     },
     "properties": {
-    "Name":"La Rotonde De La Muette"
+    "Name":"La Rotonde De La Muette",
+    "Adresse":""
     }
   }
 ]
