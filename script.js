@@ -10,12 +10,12 @@ L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_M
 }).addTo(map);
 
 function onLocationFound(e) {
-		const radius = e.accuracy / 2;
+	//const radius = e.accuracy / 2;
 
-		const locationMarker = L.marker(e.latlng).addTo(map)
-			.bindPopup(`You are within ${radius} meters from this point`).openPopup();
+	//const locationMarker = L.marker(e.latlng).addTo(map)
+		//.bindPopup(`You are within ${radius} meters from this point`).openPopup();
 
-		const locationCircle = L.circle(e.latlng, radius).addTo(map);
+		//const locationCircle = L.circle(e.latlng, radius).addTo(map);
 	}
 
 	function onLocationError(e) {
