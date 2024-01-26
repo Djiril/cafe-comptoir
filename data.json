@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.281644,48.841917 ]
+       "coordinates":  [2.281644,48.841917]
     },
     "properties": {
     "Name":"Le Petit Voisin [Fermé]",
