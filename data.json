@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.2816,48.8419 ]
+       "coordinates":  [ 2.282,48.842 ]
     },
     "properties": {
     "Name":"Le Petit Voisin [Fermé]"
@@ -15,7 +15,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.2963,48.8751 ]
+       "coordinates":  [ 2.296,48.875 ]
     },
     "properties": {
     "Name":"L'étoile 1903"
@@ -25,7 +25,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.2992,48.8792 ]
+       "coordinates":  [ 2.299,48.879 ]
     },
     "properties": {
     "Name":"Prince Wagram"
@@ -35,7 +35,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.3201,48.9037 ]
+       "coordinates":  [ 2.320,48.904 ]
     },
     "properties": {
     "Name":"La Fratrie"
@@ -45,7 +45,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.3307,48.8685 ]
+       "coordinates":  [ 2.331,48.868 ]
     },
     "properties": {
     "Name":"La Colombe [Fermé]"
@@ -55,7 +55,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.3331,48.8693 ]
+       "coordinates":  [ 2.333,48.869 ]
     },
     "properties": {
     "Name":"Brasilia"
@@ -65,7 +65,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.3326,48.8690 ]
+       "coordinates":  [ 2.333,48.869 ]
     },
     "properties": {
     "Name":"Café du Cadran"
@@ -75,10 +75,3440 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.3349,48.8675 ]
+       "coordinates":  [ 2.335,48.867 ]
     },
     "properties": {
     "Name":"Dalayrac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.278,48.840 ]
+    },
+    "properties": {
+    "Name":"Bistrot du Parc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.289,48.847 ]
+    },
+    "properties": {
+    "Name":"Le Germinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.856 ]
+    },
+    "properties": {
+    "Name":"Le Saint Germain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.855 ]
+    },
+    "properties": {
+    "Name":"Le Gévaudan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358,48.863 ]
+    },
+    "properties": {
+    "Name":"Le Roi de Pique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.269,48.855 ]
+    },
+    "properties": {
+    "Name":"Bô Zinc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340,48.863 ]
+    },
+    "properties": {
+    "Name":"Café Blanc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.281,48.838 ]
+    },
+    "properties": {
+    "Name":"Le Buron"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.866 ]
+    },
+    "properties": {
+    "Name":"Le Royal Opéra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.282,48.842 ]
+    },
+    "properties": {
+    "Name":"Millésime"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.866 ]
+    },
+    "properties": {
+    "Name":"Bistrot Pyramide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.291,48.853 ]
+    },
+    "properties": {
+    "Name":"Comptoir Principal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.283,48.843 ]
+    },
+    "properties": {
+    "Name":"Gloriette"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.288,48.841 ]
+    },
+    "properties": {
+    "Name":"La Petite Rotonde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.278,48.838 ]
+    },
+    "properties": {
+    "Name":"L'Authentik"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.294,48.845 ]
+    },
+    "properties": {
+    "Name":"Le Commerce"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.294,48.847 ]
+    },
+    "properties": {
+    "Name":"Le Cosmos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.277,48.846 ]
+    },
+    "properties": {
+    "Name":"L'Apollinaire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.295,48.850 ]
+    },
+    "properties": {
+    "Name":"Le Métropolitain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.293,48.850 ]
+    },
+    "properties": {
+    "Name":"Au Dernier Métro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.285,48.840 ]
+    },
+    "properties": {
+    "Name":"Mon Rêve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.265,48.841 ]
+    },
+    "properties": {
+    "Name":"Comptoir du XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.257,48.834 ]
+    },
+    "properties": {
+    "Name":"La Place"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.316,48.872 ]
+    },
+    "properties": {
+    "Name":"Café Beauvau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.290,48.848 ]
+    },
+    "properties": {
+    "Name":"Le Disque Bleu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.860 ]
+    },
+    "properties": {
+    "Name":"Les Deux Musées"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.293,48.844 ]
+    },
+    "properties": {
+    "Name":"A la Tour Eiffel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.292,48.843 ]
+    },
+    "properties": {
+    "Name":"Le Bistrot du 15ème"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.292,48.843 ]
+    },
+    "properties": {
+    "Name":"L’Intrigue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.864 ]
+    },
+    "properties": {
+    "Name":"L’imprimerie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Pastel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.863 ]
+    },
+    "properties": {
+    "Name":"Café Palais Royal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.280,48.845 ]
+    },
+    "properties": {
+    "Name":"Le Capitaine M"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.855 ]
+    },
+    "properties": {
+    "Name":"Le Florès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.290,48.842 ]
+    },
+    "properties": {
+    "Name":"Les Gamins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.284,48.837 ]
+    },
+    "properties": {
+    "Name":"Le 347"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.869 ]
+    },
+    "properties": {
+    "Name":"Relais Madeleine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.310,48.860 ]
+    },
+    "properties": {
+    "Name":"Le Recrutement"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331,48.868 ]
+    },
+    "properties": {
+    "Name":"Le Royal Vendome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.329,48.858 ]
+    },
+    "properties": {
+    "Name":"L’Espérance [Fermé]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.307,48.843 ]
+    },
+    "properties": {
+    "Name":"Au Roi Du Café"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324,48.854 ]
+    },
+    "properties": {
+    "Name":"Café Varenne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.311,48.845 ]
+    },
+    "properties": {
+    "Name":"Café Basile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.371,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Chateaubriand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.296,48.837 ]
+    },
+    "properties": {
+    "Name":"Dupont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.301,48.836 ]
+    },
+    "properties": {
+    "Name":"Le Marché"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.278,48.846 ]
+    },
+    "properties": {
+    "Name":"Regalia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.284,48.840 ]
+    },
+    "properties": {
+    "Name":"Félix Faure"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.261,48.849 ]
+    },
+    "properties": {
+    "Name":"Le Beaujolais d’Auteuil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.312,48.831 ]
+    },
+    "properties": {
+    "Name":"Raymond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347,48.871 ]
+    },
+    "properties": {
+    "Name":"Les pipelettes du boulevard"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.285,48.870 ]
+    },
+    "properties": {
+    "Name":"Brasserie Victo Hugo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.333,48.892 ]
+    },
+    "properties": {
+    "Name":"Le Brio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.294,48.850 ]
+    },
+    "properties": {
+    "Name":"Les Prolongations"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.289,48.839 ]
+    },
+    "properties": {
+    "Name":"Le Lutèce"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.364,48.862 ]
+    },
+    "properties": {
+    "Name":"Le Progrès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.306,48.878 ]
+    },
+    "properties": {
+    "Name":"Le  Parthenon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.314,48.884 ]
+    },
+    "properties": {
+    "Name":"Le Sauret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.305,48.869 ]
+    },
+    "properties": {
+    "Name":"Le marbeuf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.310,48.871 ]
+    },
+    "properties": {
+    "Name":"Le Président"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331,48.877 ]
+    },
+    "properties": {
+    "Name":"Le Vert Tulipe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.308,48.876 ]
+    },
+    "properties": {
+    "Name":"L’Annexe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.312,48.882 ]
+    },
+    "properties": {
+    "Name":"Le Café Dumas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365,48.862 ]
+    },
+    "properties": {
+    "Name":"La Banquette"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.337,48.854 ]
+    },
+    "properties": {
+    "Name":"Bar du Marché"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.884 ]
+    },
+    "properties": {
+    "Name":"Le Progrès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.337,48.854 ]
+    },
+    "properties": {
+    "Name":"Le Chai Saint-Germain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.871 ]
+    },
+    "properties": {
+    "Name":"Le Marivaux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354,48.861 ]
+    },
+    "properties": {
+    "Name":"La Station Rambuteau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.320,48.890 ]
+    },
+    "properties": {
+    "Name":"Le Libre Echange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.320,48.895 ]
+    },
+    "properties": {
+    "Name":"Les Phénomènes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.286,48.842 ]
+    },
+    "properties": {
+    "Name":"Café Ella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.285,48.847 ]
+    },
+    "properties": {
+    "Name":"Café Lutetia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.328,48.843 ]
+    },
+    "properties": {
+    "Name":"Le Select"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.316,48.876 ]
+    },
+    "properties": {
+    "Name":"Le Carrefour"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.316,48.875 ]
+    },
+    "properties": {
+    "Name":"Haussman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.416,48.876 ]
+    },
+    "properties": {
+    "Name":"La Fleur des Lilas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.300,48.872 ]
+    },
+    "properties": {
+    "Name":"George V"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.292,48.851 ]
+    },
+    "properties": {
+    "Name":"Le Dupleix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.830 ]
+    },
+    "properties": {
+    "Name":"Le Comptoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.842 ]
+    },
+    "properties": {
+    "Name":"Le gamin de Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.842 ]
+    },
+    "properties": {
+    "Name":"Le val de grace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345,48.854 ]
+    },
+    "properties": {
+    "Name":"Le soleil d’or"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336,48.824 ]
+    },
+    "properties": {
+    "Name":"Chinchin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.368,48.853 ]
+    },
+    "properties": {
+    "Name":"Café Francais"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.404,48.837 ]
+    },
+    "properties": {
+    "Name":"Chez Ma Belle-Mère"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.859 ]
+    },
+    "properties": {
+    "Name":"Café du Pont Neuf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.276,48.853 ]
+    },
+    "properties": {
+    "Name":"Café à la fontaine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.275,48.851 ]
+    },
+    "properties": {
+    "Name":"Le Récepteur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.326,48.878 ]
+    },
+    "properties": {
+    "Name":"Terrasse Saint-Lazare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351,48.862 ]
+    },
+    "properties": {
+    "Name":"Le Cavalier Bleu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.318,48.871 ]
+    },
+    "properties": {
+    "Name":"Le Saint Laurent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.294,48.854 ]
+    },
+    "properties": {
+    "Name":"Le Rosco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.380,48.873 ]
+    },
+    "properties": {
+    "Name":"Le Relais de Belleville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.327,48.850 ]
+    },
+    "properties": {
+    "Name":"Le Raspail"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.543,48.827 ]
+    },
+    "properties": {
+    "Name":"Café de la Chope"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.283,48.865 ]
+    },
+    "properties": {
+    "Name":"Les Sablons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.383,48.855 ]
+    },
+    "properties": {
+    "Name":"Le Pure Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.863 ]
+    },
+    "properties": {
+    "Name":"Café Saint Honoré"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.245,48.831 ]
+    },
+    "properties": {
+    "Name":"Odette"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.318,48.852 ]
+    },
+    "properties": {
+    "Name":"Coutume"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.319,48.852 ]
+    },
+    "properties": {
+    "Name":"Brasserie des Ministères"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.319,48.861 ]
+    },
+    "properties": {
+    "Name":"Le Bourbon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.328,48.858 ]
+    },
+    "properties": {
+    "Name":"Le Buisson D’argent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.269,48.855 ]
+    },
+    "properties": {
+    "Name":"L’Amadeus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.357,48.857 ]
+    },
+    "properties": {
+    "Name":"Pick Clops"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.317,48.858 ]
+    },
+    "properties": {
+    "Name":"Au Coin de la Rue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.301,48.879 ]
+    },
+    "properties": {
+    "Name":"Le Diplomate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.887 ]
+    },
+    "properties": {
+    "Name":"Chez Eugène"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.258,48.885 ]
+    },
+    "properties": {
+    "Name":"Polly Maggoo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.293,48.875 ]
+    },
+    "properties": {
+    "Name":"Le Cristal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.328,48.843 ]
+    },
+    "properties": {
+    "Name":"Le Select"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365,48.878 ]
+    },
+    "properties": {
+    "Name":"Le Valmy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355,48.875 ]
+    },
+    "properties": {
+    "Name":"Virage Café"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340,48.879 ]
+    },
+    "properties": {
+    "Name":"Bistrot le Smiley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348,48.891 ]
+    },
+    "properties": {
+    "Name":"Les Carrières"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.307,48.860 ]
+    },
+    "properties": {
+    "Name":"Le bar du central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.870 ]
+    },
+    "properties": {
+    "Name":"Paris London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.353,48.873 ]
+    },
+    "properties": {
+    "Name":"Madame Gen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345,48.874 ]
+    },
+    "properties": {
+    "Name":"Folie's Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.874 ]
+    },
+    "properties": {
+    "Name":"L’Arcade"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.406,48.877 ]
+    },
+    "properties": {
+    "Name":"Le clairon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.396,48.854 ]
+    },
+    "properties": {
+    "Name":"Café Lino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340,48.866 ]
+    },
+    "properties": {
+    "Name":"Bistrot des Victoires"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.305,48.841 ]
+    },
+    "properties": {
+    "Name":"Le Borromée"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.350,48.828 ]
+    },
+    "properties": {
+    "Name":"Café Nénesse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.872 ]
+    },
+    "properties": {
+    "Name":"Murphy's House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.876 ]
+    },
+    "properties": {
+    "Name":"Café Lorette"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.343,48.853 ]
+    },
+    "properties": {
+    "Name":"Le Saint André"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.880 ]
+    },
+    "properties": {
+    "Name":"Le Ventura"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.300,48.847 ]
+    },
+    "properties": {
+    "Name":"Comptoir Moderne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.872 ]
+    },
+    "properties": {
+    "Name":"Au p’tit Paname"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344,48.891 ]
+    },
+    "properties": {
+    "Name":"Le Sarment de Montmartre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.379,48.863 ]
+    },
+    "properties": {
+    "Name":"Les Enfants Terribles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.328,48.854 ]
+    },
+    "properties": {
+    "Name":"Le Basile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347,48.887 ]
+    },
+    "properties": {
+    "Name":"Au Clair de Lune"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354,48.872 ]
+    },
+    "properties": {
+    "Name":"Chez Jeannette"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.321,48.876 ]
+    },
+    "properties": {
+    "Name":"L’abordage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.307,48.858 ]
+    },
+    "properties": {
+    "Name":"Le Roussillon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.306,48.856 ]
+    },
+    "properties": {
+    "Name":"Café Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.306,48.857 ]
+    },
+    "properties": {
+    "Name":"Café du Marché"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324,48.840 ]
+    },
+    "properties": {
+    "Name":"Café Gaité"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.841 ]
+    },
+    "properties": {
+    "Name":"Café Odessa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.303,48.842 ]
+    },
+    "properties": {
+    "Name":"Le Wallace"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.384,48.851 ]
+    },
+    "properties": {
+    "Name":"Les Funambules"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.293,48.836 ]
+    },
+    "properties": {
+    "Name":"Le P’ti Bistrot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355,48.880 ]
+    },
+    "properties": {
+    "Name":"Terminus Nord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.301,48.848 ]
+    },
+    "properties": {
+    "Name":"Royal Cambronne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.327,48.847 ]
+    },
+    "properties": {
+    "Name":"Café Saint Placide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.882 ]
+    },
+    "properties": {
+    "Name":"Le Mansart"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.881 ]
+    },
+    "properties": {
+    "Name":"Classique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.299,48.868 ]
+    },
+    "properties": {
+    "Name":"Le Marceau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.838 ]
+    },
+    "properties": {
+    "Name":"Le Royal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.848 ]
+    },
+    "properties": {
+    "Name":"Café Madame"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.319,48.846 ]
+    },
+    "properties": {
+    "Name":"Au Chien Qui Fume"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362,48.851 ]
+    },
+    "properties": {
+    "Name":"Le Sully"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.353,48.870 ]
+    },
+    "properties": {
+    "Name":"Le Sully"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.386,48.853 ]
+    },
+    "properties": {
+    "Name":"Café Titon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344,48.867 ]
+    },
+    "properties": {
+    "Name":"Café Père et Fils"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358,48.857 ]
+    },
+    "properties": {
+    "Name":"Au Petit Fer à Cheval"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358,48.856 ]
+    },
+    "properties": {
+    "Name":"La Tartine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.346,48.882 ]
+    },
+    "properties": {
+    "Name":"Le Dunkerque"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.389,48.863 ]
+    },
+    "properties": {
+    "Name":"Les polissons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.309,48.845 ]
+    },
+    "properties": {
+    "Name":"Le P’tit Lecourbe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.313,48.843 ]
+    },
+    "properties": {
+    "Name":"Café Pasteur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340,48.867 ]
+    },
+    "properties": {
+    "Name":"Le Bougainville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.400,48.852 ]
+    },
+    "properties": {
+    "Name":"Le Bistrot D’Avron"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.873 ]
+    },
+    "properties": {
+    "Name":"Bistrot Verdeau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331,48.866 ]
+    },
+    "properties": {
+    "Name":"Le Rubis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.329,48.865 ]
+    },
+    "properties": {
+    "Name":"Au Petit Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.847 ]
+    },
+    "properties": {
+    "Name":"Le Fleurus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345,48.894 ]
+    },
+    "properties": {
+    "Name":"La Timbale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324,48.855 ]
+    },
+    "properties": {
+    "Name":"Les Ambassades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324,48.854 ]
+    },
+    "properties": {
+    "Name":"Café Varenne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324,48.848 ]
+    },
+    "properties": {
+    "Name":"Bistrot des amis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.383,48.859 ]
+    },
+    "properties": {
+    "Name":"Content"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.841 ]
+    },
+    "properties": {
+    "Name":"La Liberté"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.350,48.844 ]
+    },
+    "properties": {
+    "Name":"La Petite"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.872 ]
+    },
+    "properties": {
+    "Name":"Au P’tit Paname"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.861 ]
+    },
+    "properties": {
+    "Name":"Auguste"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.374,48.855 ]
+    },
+    "properties": {
+    "Name":"Café des Anges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.848 ]
+    },
+    "properties": {
+    "Name":"Café Madame"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.290,48.867 ]
+    },
+    "properties": {
+    "Name":"Le Kléber"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.870 ]
+    },
+    "properties": {
+    "Name":"La Java"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.875 ]
+    },
+    "properties": {
+    "Name":"La Pointe Drouot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335,48.830 ]
+    },
+    "properties": {
+    "Name":"Le Vaudesir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.270,48.855 ]
+    },
+    "properties": {
+    "Name":"Quarante & Un"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.384,48.850 ]
+    },
+    "properties": {
+    "Name":"La Liberté"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361,48.860 ]
+    },
+    "properties": {
+    "Name":"La perle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.375,48.851 ]
+    },
+    "properties": {
+    "Name":"Le Rallye"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359,48.871 ]
+    },
+    "properties": {
+    "Name":"Le Petit Château D’Eau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358,48.878 ]
+    },
+    "properties": {
+    "Name":"Au train de vie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.353,48.860 ]
+    },
+    "properties": {
+    "Name":"Les Acrobates"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.310,48.877 ]
+    },
+    "properties": {
+    "Name":"Sergent Garcia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.310,48.877 ]
+    },
+    "properties": {
+    "Name":"Valois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.322,48.894 ]
+    },
+    "properties": {
+    "Name":"Chez Irène et Bernard"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.851 ]
+    },
+    "properties": {
+    "Name":"Les Oiseaux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.350,48.854 ]
+    },
+    "properties": {
+    "Name":"Au bougnat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.343,48.873 ]
+    },
+    "properties": {
+    "Name":"La Comete"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.294,48.878 ]
+    },
+    "properties": {
+    "Name":"Monsieur Madame"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355,48.858 ]
+    },
+    "properties": {
+    "Name":"Les Marronniers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.363,48.842 ]
+    },
+    "properties": {
+    "Name":"Au Soleil D’Austerlitz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331,48.851 ]
+    },
+    "properties": {
+    "Name":"Le Carrousel de Rennes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.847 ]
+    },
+    "properties": {
+    "Name":"Le Fleurus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336,48.886 ]
+    },
+    "properties": {
+    "Name":"La Mascotte Montmartre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.419,48.868 ]
+    },
+    "properties": {
+    "Name":"Madame Gen Bagnolet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.866 ]
+    },
+    "properties": {
+    "Name":"Le Bar Du Moulin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.307,48.856 ]
+    },
+    "properties": {
+    "Name":"Les Téléphones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.292,48.851 ]
+    },
+    "properties": {
+    "Name":"La cantine du troquet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348,48.850 ]
+    },
+    "properties": {
+    "Name":"Le Métro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362,48.860 ]
+    },
+    "properties": {
+    "Name":"Le Saint Gervais"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Colibri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.297,48.878 ]
+    },
+    "properties": {
+    "Name":"The Place To…"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354,48.853 ]
+    },
+    "properties": {
+    "Name":"Le Saint Régis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.885 ]
+    },
+    "properties": {
+    "Name":"Café des deux moulins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.283,48.865 ]
+    },
+    "properties": {
+    "Name":"Brasserie du Mexique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354,48.849 ]
+    },
+    "properties": {
+    "Name":"Cardinal Saint Germain"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339,48.852 ]
+    },
+    "properties": {
+    "Name":"Germaine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.386,48.859 ]
+    },
+    "properties": {
+    "Name":"Gabriel Café"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315,48.883 ]
+    },
+    "properties": {
+    "Name":"La Succursale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.328,48.893 ]
+    },
+    "properties": {
+    "Name":"Le Championnet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356,48.859 ]
+    },
+    "properties": {
+    "Name":"Le Bouquet des Archives"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.366,48.865 ]
+    },
+    "properties": {
+    "Name":"Dreamin Man"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359,48.871 ]
+    },
+    "properties": {
+    "Name":"Le Petit Château d’Eau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.885 ]
+    },
+    "properties": {
+    "Name":"Café Tabac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.333,48.892 ]
+    },
+    "properties": {
+    "Name":"Le Brio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349,48.865 ]
+    },
+    "properties": {
+    "Name":"Shirokuma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356,48.856 ]
+    },
+    "properties": {
+    "Name":"Le Peloton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348,48.869 ]
+    },
+    "properties": {
+    "Name":"L’Univers Café"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315,48.839 ]
+    },
+    "properties": {
+    "Name":"Belle Epoque"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302,48.876 ]
+    },
+    "properties": {
+    "Name":"Élysée saint honoré"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.305,48.880 ]
+    },
+    "properties": {
+    "Name":"Le Vigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.259,48.885 ]
+    },
+    "properties": {
+    "Name":"Zinc Zinc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358,48.877 ]
+    },
+    "properties": {
+    "Name":"Extérieur Quai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Vaudeville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348,48.873 ]
+    },
+    "properties": {
+    "Name":"Aux Fourreurs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.306,48.875 ]
+    },
+    "properties": {
+    "Name":"L’Avenue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.278,48.865 ]
+    },
+    "properties": {
+    "Name":"Le Montespan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.276,48.863 ]
+    },
+    "properties": {
+    "Name":"Le Chalet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.357,48.865 ]
+    },
+    "properties": {
+    "Name":"Le Bailly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339,48.853 ]
+    },
+    "properties": {
+    "Name":"Le relais Odéon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.376,48.847 ]
+    },
+    "properties": {
+    "Name":"La Promenade"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356,48.876 ]
+    },
+    "properties": {
+    "Name":"P’tite Bougnate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.296,48.879 ]
+    },
+    "properties": {
+    "Name":"Dada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.291,48.879 ]
+    },
+    "properties": {
+    "Name":"Le Franc Tireur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.372,48.872 ]
+    },
+    "properties": {
+    "Name":"Les Acolytes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.375,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Myrobolant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.300,48.882 ]
+    },
+    "properties": {
+    "Name":"Le Week-End"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.864 ]
+    },
+    "properties": {
+    "Name":"À Jean Nicot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.326,48.870 ]
+    },
+    "properties": {
+    "Name":"Bistrot Vignon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315,48.920 ]
+    },
+    "properties": {
+    "Name":"Bistro Charl'Yvonne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.303,48.842 ]
+    },
+    "properties": {
+    "Name":"Au général Beuret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.318,48.888 ]
+    },
+    "properties": {
+    "Name":"La gazette des batignolles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.856 ]
+    },
+    "properties": {
+    "Name":"Le comptoir des Saints Pères"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.377,48.853 ]
+    },
+    "properties": {
+    "Name":"Le bistrot du peintre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.298,48.849 ]
+    },
+    "properties": {
+    "Name":"Le Pierrot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.279,48.836 ]
+    },
+    "properties": {
+    "Name":"Le Café PC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.304,48.879 ]
+    },
+    "properties": {
+    "Name":"Le Courcelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.310,48.868 ]
+    },
+    "properties": {
+    "Name":"Le Victory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.288,48.841 ]
+    },
+    "properties": {
+    "Name":"Le Murmure Fracassant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.289,48.841 ]
+    },
+    "properties": {
+    "Name":"L’Argument"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.343,48.872 ]
+    },
+    "properties": {
+    "Name":"Le Brebant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.378,48.879 ]
+    },
+    "properties": {
+    "Name":"Le Sunny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.368,48.876 ]
+    },
+    "properties": {
+    "Name":"La Fontaine de Belleville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365,48.885 ]
+    },
+    "properties": {
+    "Name":"Tout va mieux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.312,48.872 ]
+    },
+    "properties": {
+    "Name":"Le Rabelais"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.295,48.850 ]
+    },
+    "properties": {
+    "Name":"Au Moka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.278,48.851 ]
+    },
+    "properties": {
+    "Name":"Les Ondes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.343,48.890 ]
+    },
+    "properties": {
+    "Name":"Le Francoeur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.346,48.855 ]
+    },
+    "properties": {
+    "Name":"Les Deux Palais"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.385,48.878 ]
+    },
+    "properties": {
+    "Name":"Le Bar Fleuri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354,48.865 ]
+    },
+    "properties": {
+    "Name":"Le Maryland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.264,48.848 ]
+    },
+    "properties": {
+    "Name":"Le Village d’Auteuil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339,48.896 ]
+    },
+    "properties": {
+    "Name":"Bistrot La Renaissance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.387,48.863 ]
+    },
+    "properties": {
+    "Name":"Au Rond Point"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.301,48.877 ]
+    },
+    "properties": {
+    "Name":"Le Do Ré Mi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.333,48.868 ]
+    },
+    "properties": {
+    "Name":"Le Duc D’Albret [Fermé]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.330,48.855 ]
+    },
+    "properties": {
+    "Name":"Le Rouquet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365,48.872 ]
+    },
+    "properties": {
+    "Name":"Chez Prune"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.378,48.872 ]
+    },
+    "properties": {
+    "Name":"Aux Folies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.371,48.855 ]
+    },
+    "properties": {
+    "Name":"Le Bar Du Marché"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.393,48.882 ]
+    },
+    "properties": {
+    "Name":"Le café parisien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.321,48.888 ]
+    },
+    "properties": {
+    "Name":"Le Saint Claude"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.319,48.891 ]
+    },
+    "properties": {
+    "Name":"L’Aubrac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341,48.842 ]
+    },
+    "properties": {
+    "Name":"Bistrot vin sobre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352,48.841 ]
+    },
+    "properties": {
+    "Name":"Village Monge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352,48.843 ]
+    },
+    "properties": {
+    "Name":"Le Monge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352,48.847 ]
+    },
+    "properties": {
+    "Name":"Le petit cardinal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348,48.849 ]
+    },
+    "properties": {
+    "Name":"L’Annexe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347,48.849 ]
+    },
+    "properties": {
+    "Name":"La Petite Périgourdine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.329,48.852 ]
+    },
+    "properties": {
+    "Name":"Le Brazza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349,48.826 ]
+    },
+    "properties": {
+    "Name":"Le Verbalon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.395,48.848 ]
+    },
+    "properties": {
+    "Name":"Le Triomphe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352,48.830 ]
+    },
+    "properties": {
+    "Name":"La butte aux Piafs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.239,48.882 ]
+    },
+    "properties": {
+    "Name":"Le Conti Chez José"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.240,48.883 ]
+    },
+    "properties": {
+    "Name":"Le Jacoto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.282,48.842 ]
+    },
+    "properties": {
+    "Name":"Chez Madame Charles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324,48.868 ]
+    },
+    "properties": {
+    "Name":"Le Florentin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.251,48.888 ]
+    },
+    "properties": {
+    "Name":"Octopus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.297,48.879 ]
+    },
+    "properties": {
+    "Name":"Le café Ponce"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.294,48.876 ]
+    },
+    "properties": {
+    "Name":"Le Mac Mahon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.867 ]
+    },
+    "properties": {
+    "Name":"Le Zinc D’Honoré"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.372,48.844 ]
+    },
+    "properties": {
+    "Name":"Gamma"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.291,48.841 ]
+    },
+    "properties": {
+    "Name":"Les trois garcons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315,48.856 ]
+    },
+    "properties": {
+    "Name":"Café du musée"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348,48.850 ]
+    },
+    "properties": {
+    "Name":"Café du Metro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344,48.866 ]
+    },
+    "properties": {
+    "Name":"Le Café Noir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336,48.840 ]
+    },
+    "properties": {
+    "Name":"Le Bal Bullier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.854 ]
+    },
+    "properties": {
+    "Name":"Café Louise"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.291,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Copernic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.890 ]
+    },
+    "properties": {
+    "Name":"Au Reve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.849 ]
+    },
+    "properties": {
+    "Name":"Les Patios"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.292,48.869 ]
+    },
+    "properties": {
+    "Name":"Café Fleurus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Gaillon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336,48.869 ]
+    },
+    "properties": {
+    "Name":"Le Fontenoy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.282,48.838 ]
+    },
+    "properties": {
+    "Name":"Le Boyard"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.321,48.882 ]
+    },
+    "properties": {
+    "Name":"Le Paris Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.309,48.860 ]
+    },
+    "properties": {
+    "Name":"Au Canon des Invalides"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.377,48.888 ]
+    },
+    "properties": {
+    "Name":"Le Bastringue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.322,48.841 ]
+    },
+    "properties": {
+    "Name":"L’Atlantique"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.284,48.845 ]
+    },
+    "properties": {
+    "Name":"Le Chiquito"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302,48.847 ]
+    },
+    "properties": {
+    "Name":"Café Leontine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.318,48.886 ]
+    },
+    "properties": {
+    "Name":"L’endroit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.366,48.879 ]
+    },
+    "properties": {
+    "Name":"Le Chaland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.292,48.869 ]
+    },
+    "properties": {
+    "Name":"Café Belloy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.287,48.846 ]
+    },
+    "properties": {
+    "Name":"Bar Bichette"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332,48.864 ]
+    },
+    "properties": {
+    "Name":"Le Carrousel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356,48.857 ]
+    },
+    "properties": {
+    "Name":"L’étincelle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.286,48.846 ]
+    },
+    "properties": {
+    "Name":"Le Relais Charbon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334,48.873 ]
+    },
+    "properties": {
+    "Name":"Paul et Julienne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356,48.857 ]
+    },
+    "properties": {
+    "Name":"L’Etincelle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.303,48.857 ]
+    },
+    "properties": {
+    "Name":"Cafe Caillou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.390,48.839 ]
+    },
+    "properties": {
+    "Name":"Chez Coquille"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.290,48.836 ]
+    },
+    "properties": {
+    "Name":"Le week-end"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347,48.885 ]
+    },
+    "properties": {
+    "Name":"Le Café du Commerce Barbès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348,48.889 ]
+    },
+    "properties": {
+    "Name":"Le Montmartre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338,48.890 ]
+    },
+    "properties": {
+    "Name":"Au rêve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.387,48.855 ]
+    },
+    "properties": {
+    "Name":"Au pan coupé"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.399,48.851 ]
+    },
+    "properties": {
+    "Name":"Usine de Charonne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342,48.889 ]
+    },
+    "properties": {
+    "Name":"Au Relais"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.310,48.870 ]
+    },
+    "properties": {
+    "Name":"Le carré Elysee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.319,48.845 ]
+    },
+    "properties": {
+    "Name":"La Parenthèse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.273,48.858 ]
+    },
+    "properties": {
+    "Name":"La Rotonde De La Muette"
     }
   }
 ]
