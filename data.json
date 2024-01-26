@@ -24,7 +24,6 @@
         "address": "456 Coffee Street",
         "type": "Café & Bakery"
       }
-    },
-    // Ajoutez autant de fonctionnalités (features) que nécessaire pour chaque café
+    }
   ]
 }
