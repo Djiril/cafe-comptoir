@@ -1,30 +1,85 @@
 {
-  "type": "FeatureCollection",
-  "features": 
-  [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.281644, 48.841917]
-      },
-      "properties": {
-        "name": "Café A",
-        "address": "123 Rue du Café",
-        "type": "Coffee Shop"
-      }
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2816,48.8419 ]
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.296345, 48.875115]
-      },
-      "properties": {
-        "name": "Café B",
-        "address": "456 Coffee Street",
-        "type": "Café & Bakery"
-      }
+    "properties": {
+    "Name":"Le Petit Voisin [Fermé]"
     }
-  ]
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2963,48.8751 ]
+    },
+    "properties": {
+    "Name":"L'étoile 1903"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2992,48.8792 ]
+    },
+    "properties": {
+    "Name":"Prince Wagram"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3201,48.9037 ]
+    },
+    "properties": {
+    "Name":"La Fratrie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3307,48.8685 ]
+    },
+    "properties": {
+    "Name":"La Colombe [Fermé]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3331,48.8693 ]
+    },
+    "properties": {
+    "Name":"Brasilia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3326,48.8690 ]
+    },
+    "properties": {
+    "Name":"Café du Cadran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3349,48.8675 ]
+    },
+    "properties": {
+    "Name":"Dalayrac"
+    }
+  }
+]
 }
