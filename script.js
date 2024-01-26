@@ -34,7 +34,7 @@ fetch('data.json')
           onEachFeature: function (feature, layer) {
             layer.bindPopup(`
               <h2>${feature.properties.Name}</h2>
-              <p>${feature.properties.Addresse}</p>
+              <p>${feature.properties.Adresse}</p>
             `);
           }
         }).addTo(map);
