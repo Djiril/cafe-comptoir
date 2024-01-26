@@ -9,6 +9,24 @@ L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_M
     attribution: '© Esri'
 }).addTo(map);
 
+function onLocationFound(e) {
+		const radius = e.accuracy / 2;
+
+		const locationMarker = L.marker(e.latlng).addTo(map)
+			.bindPopup(`You are within ${radius} meters from this point`).openPopup();
+
+		const locationCircle = L.circle(e.latlng, radius).addTo(map);
+	}
+
+	function onLocationError(e) {
+		alert(e.message);
+	}
+
+	map.on('locationfound', onLocationFound);
+	map.on('locationerror', onLocationError);
+
+	map.locate({setView: true, maxZoom: 16});
+
 
 // Charger les données des cafés depuis un fichier JSON
 fetch('data.json')
