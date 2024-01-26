@@ -1,7 +1,30 @@
 {
-    "cafes": [
-        {"name": "Café du Cadran", "lat": 48.869025, "lng": 2.332587},
-        {"name": "Dalayrac", "lat": 48.867463, "lng": 2.334867},
-        {"name": "Le Buron", "lat": 48.838261, "lng": 2.281478}
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.332587, 48.869025]
+      },
+      "properties": {
+        "name": "Café du Cadran",
+        "address": "123 Rue du Café",
+        "type": "Coffee Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.334867, 48.867463]
+      },
+      "properties": {
+        "name": "Dalayrac",
+        "address": "456 Coffee Street",
+        "type": "Café & Bakery"
+      }
+    },
+    // Ajoutez autant de fonctionnalités (features) que nécessaire pour chaque café
+  ]
 }
