@@ -5,3861 +5,4212 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.282,48.842 ]
+       "coordinates":  [ 2.281644,48.841917 ]
     },
     "properties": {
     "Name":"Le Petit Voisin [Fermé]",
-    "Adresse":"167 Rue Saint-Charles, 75015 Paris"
+    "Adresse":"167 Rue Saint-Charles, 75015 Paris",
+    "Commentaires":"Changement de propriétaire, s’appelle maintenant Madame Charles. \n\nUne très bonne adresse dans le quartier mais en travaux actuellement donc à suivre.\n"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.296,48.875 ]
+       "coordinates":  [ 2.296345,48.875115 ]
     },
     "properties": {
     "Name":"L'étoile 1903",
-    "Adresse":"4 Avenue de Wagram, 75008 Paris"
+    "Adresse":"4 Avenue de Wagram, 75008 Paris",
+    "Commentaires":"Beau comptoir en étain tout neuf. Très belle déco et équipe au top."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.299,48.879 ]
+       "coordinates":  [ 2.299215,48.879211 ]
     },
     "properties": {
     "Name":"Prince Wagram",
-    "Adresse":"58 Avenue de Wagram, 75017 Paris"
+    "Adresse":"58 Avenue de Wagram, 75017 Paris",
+    "Commentaires":"Bonne musique, cadre chic et agréable. Mais café comptoir très cher et peu fréquenté."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.320,48.904 ]
+       "coordinates":  [ 2.320139,48.903685 ]
     },
     "properties": {
     "Name":"La Fratrie",
-    "Adresse":"159 Boulevard Victor Hugo, 92110 Clichy"
+    "Adresse":"159 Boulevard Victor Hugo, 92110 Clichy",
+    "Commentaires":"Déco sans plus mais bonne ambiance"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.331,48.868 ]
+       "coordinates":  [ 2.330672,48.868453 ]
     },
     "properties": {
     "Name":"La Colombe [Fermé]",
-    "Adresse":"2 rue de la Paix, 75002 Paris"
+    "Adresse":"2 rue de la Paix, 75002 Paris",
+    "Commentaires":"Situé rue de la paix, au milieu des bijouteries de luxe quelle bonne surprise de trouver ce grand comptoir en bois où les habitués sont nombreux. Une de mes adresses préférées."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.333,48.869 ]
+       "coordinates":  [ 2.333134,48.86927 ]
     },
     "properties": {
     "Name":"Brasilia",
-    "Adresse":"36 Avenue de l’Opéra, 75002 Paris"
+    "Adresse":"36 Avenue de l’Opéra, 75002 Paris",
+    "Commentaires":"En Travaux. Petit comptoir pas beaucoup de place"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.333,48.869 ]
+       "coordinates":  [ 2.332587,48.869025 ]
     },
     "properties": {
     "Name":"Café du Cadran",
-    "Adresse":"1 rue Daunou, 75002 Paris"
+    "Adresse":"1 rue Daunou, 75002 Paris",
+    "Commentaires":"Bistro typique parisien. La clientèle est un mélange de touristes et d’habitués. Une bonne adresse même si l’amabilité des serveurs est dans le standard parisien ;)<br>\nC'est dans ce café qu'a été tourné le film \"Le café du cadran\" ou est né l'expression \"minute papillon\". <a href=\"https://fr.wikipedia.org/wiki/Caf%C3%A9_du_Cadran\">En savoir plus</a>."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.335,48.867 ]
+       "coordinates":  [ 2.334867,48.867463 ]
     },
     "properties": {
     "Name":"Dalayrac",
-    "Adresse":"4 rue Mehul, 75002 Paris"
+    "Adresse":"4 rue Mehul, 75002 Paris",
+    "Commentaires":"Pas de consommation au comptoir, mais café très sympa pour un petit déjeuner en terrasse ou un apéro en fin de journée ;)"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.278,48.840 ]
+       "coordinates":  [ 2.278246,48.840285 ]
     },
     "properties": {
     "Name":"Bistrot du Parc",
-    "Adresse":"67 Rue Balard, 75015 Paris"
+    "Adresse":"67 Rue Balard, 75015 Paris",
+    "Commentaires":"Petit comptoir, déco un peu bannale mais équipe sympa et en plus il y a un flipper et un feu de cheminée dans la télé ;) L'occasion de faire une pause café avant d'aller au parc André Citroën tout proche."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.289,48.847 ]
+       "coordinates":  [ 2.289151,48.846828 ]
     },
     "properties": {
     "Name":"Le Germinal",
-    "Adresse":"95 Avenue Émile Zola, 75015 Paris"
+    "Adresse":"95 Avenue Émile Zola, 75015 Paris",
+    "Commentaires":"Grand comptoir musique douce et café à 1€, une très bonne adresse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.856 ]
+       "coordinates":  [ 2.325324,48.855886 ]
     },
     "properties": {
     "Name":"Le Saint Germain",
-    "Adresse":"1 Rue Paul-Louis Courier, 75007 Paris"
+    "Adresse":"1 Rue Paul-Louis Courier, 75007 Paris",
+    "Commentaires":"Équipe sympa mais comptoir pas très accueillant."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.855 ]
+       "coordinates":  [ 2.324889,48.855226 ]
     },
     "properties": {
     "Name":"Le Gévaudan",
-    "Adresse":"67 rue du bac, 75007 Paris"
+    "Adresse":"67 rue du bac, 75007 Paris",
+    "Commentaires":"Petit comptoir en L en marbre blanc. Peu de place mais si vous avez la chance de pouvoir vous asseoir sur le seul tabouret vous aurez un bon poste d’observation. Belle déco et servie efficace, une bonne petite adresse. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.358,48.863 ]
+       "coordinates":  [ 2.358414,48.8634 ]
     },
     "properties": {
     "Name":"Le Roi de Pique",
-    "Adresse":"126 rue du temple, 75003 Paris"
+    "Adresse":"126 rue du temple, 75003 Paris",
+    "Commentaires":"Un beau comptoir qui brille comme on les aime dans une déco colorée et chaleureuse. Un café très fréquenté le matin, dommage qu'on ne puisse pas s'asseoir au comptoir mais ça reste une très bonne adresse.\n\n<a href=\"https://www.instagram.com/reel/CnreZdOs2mM/?igshid=MDJmNzVkMjY=\">Vidéo sur Instagram</a>\n"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.269,48.855 ]
+       "coordinates":  [ 2.269491,48.854578 ]
     },
     "properties": {
     "Name":"Bô Zinc",
-    "Adresse":"59 Avenue Mozart, 75016 Paris"
+    "Adresse":"59 Avenue Mozart, 75016 Paris",
+    "Commentaires":"Beau comptoir en L très fréquenté le matin. Pas de musique, ambiance bistro traditionnel. Équipe très sympathique. Manque le journal pour mettre 5 étoiles."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.340,48.863 ]
+       "coordinates":  [ 2.339572,48.862733 ]
     },
     "properties": {
     "Name":"Café Blanc",
-    "Adresse":"10 Rue Croix des Petits Champs, 75001 Paris"
+    "Adresse":"10 Rue Croix des Petits Champs, 75001 Paris",
+    "Commentaires":"Comptoir pas très confortable mais équipe très sympa."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.281,48.838 ]
+       "coordinates":  [ 2.281478,48.838261 ]
     },
     "properties": {
     "Name":"Le Buron",
-    "Adresse":"119 Avenue Félix Faure, 75015 Paris"
+    "Adresse":"119 Avenue Félix Faure, 75015 Paris",
+    "Commentaires":"Beau comptoir circulaire en bois, deco « moderne » et chaleureuse. Équipe sympathique. Pas de Télé et ça c’est bien. Musique douce pour un début de journée tout en douceur !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.866 ]
+       "coordinates":  [ 2.334009,48.866029 ]
     },
     "properties": {
     "Name":"Le Royal Opéra",
-    "Adresse":"22 rue des pyramides, 75002 Paris"
+    "Adresse":"22 rue des pyramides, 75002 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.282,48.842 ]
+       "coordinates":  [ 2.282017,48.842189 ]
     },
     "properties": {
     "Name":"Millésime",
-    "Adresse":"161 Rue Saint-Charles, 75015 Paris"
+    "Adresse":"161 Rue Saint-Charles, 75015 Paris",
+    "Commentaires":"Comptoir spacieux en bois. Un charme discret d’antan. Préférez l’autre café de la place : « Le petit voisin »."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.866 ]
+       "coordinates":  [ 2.33384,48.865822 ]
     },
     "properties": {
     "Name":"Bistrot Pyramide",
-    "Adresse":"20 Rue des Pyramides, 75001 Paris"
+    "Adresse":"20 Rue des Pyramides, 75001 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.291,48.853 ]
+       "coordinates":  [ 2.290914,48.852744 ]
     },
     "properties": {
     "Name":"Comptoir Principal",
-    "Adresse":"29 Boulevard de Grenelle, 75015 Paris"
+    "Adresse":"29 Boulevard de Grenelle, 75015 Paris",
+    "Commentaires":"Grand comptoir en marbre, deco agréable et équipe sympathique, une bonne adressse malgré le prix du café un peu au dessus de la moyenne."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.283,48.843 ]
+       "coordinates":  [ 2.282829,48.843277 ]
     },
     "properties": {
     "Name":"Gloriette",
-    "Adresse":"58 Rue de la Convention, 75015 Paris"
+    "Adresse":"58 Rue de la Convention, 75015 Paris",
+    "Commentaires":"Comptoir en mode « industriel », déco « végétal » sympathique et équipe très aimable."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.288,48.841 ]
+       "coordinates":  [ 2.28791,48.841254 ]
     },
     "properties": {
     "Name":"La Petite Rotonde",
-    "Adresse":"44 Avenue Félix Faure, 75015 Paris"
+    "Adresse":"44 Avenue Félix Faure, 75015 Paris",
+    "Commentaires":"Malgré BFM TV, adresse populaire que j’aime bien qui contraste avec l’ambiance plus « bobo » du Murmure Fracassant en face. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.278,48.838 ]
+       "coordinates":  [ 2.278283,48.838071 ]
     },
     "properties": {
     "Name":"L'Authentik",
-    "Adresse":"90 Rue Balard, 75015 Paris"
+    "Adresse":"90 Rue Balard, 75015 Paris",
+    "Commentaires":"Musique douce et service impeccable par le patron Sébastien qui a repris le lieu récemment et qui a notamment libérer de la place sur le comptoir. Merci a lui !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.294,48.845 ]
+       "coordinates":  [ 2.293934,48.844932 ]
     },
     "properties": {
     "Name":"Le Commerce",
-    "Adresse":"80 Rue du Commerce, 75015 Paris"
+    "Adresse":"80 Rue du Commerce, 75015 Paris",
+    "Commentaires":"Beau et grand comptoir en marbre noir, belle déco renouvelée récemment. Mais lieu qui manque un peu de chaleur tant au niveau de la déco qu'au niveau du service. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.294,48.847 ]
+       "coordinates":  [ 2.293523,48.847051 ]
     },
     "properties": {
     "Name":"Le Cosmos",
-    "Adresse":"133 Avenue Émile Zola, 75015 Paris"
+    "Adresse":"133 Avenue Émile Zola, 75015 Paris",
+    "Commentaires":"Beau comptoir en étain en L. Déco simple mais chaleureuse. Equipe sympathique, musique douce, une valeur sure !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.277,48.846 ]
+       "coordinates":  [ 2.277387,48.845727 ]
     },
     "properties": {
     "Name":"L'Apollinaire",
-    "Adresse":"7 Rond-Point du Pont Mirabeau, 75015 Paris"
+    "Adresse":"7 Rond-Point du Pont Mirabeau, 75015 Paris",
+    "Commentaires":"Beau et grand comptoir en \"zig zag\". Les drapeaux bretons et les marinières portées par les serveurs indiquent qu’on est ici un peu en Bretagne."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.295,48.850 ]
+       "coordinates":  [ 2.295133,48.850199 ]
     },
     "properties": {
     "Name":"Le Métropolitain",
-    "Adresse":"83 Boulevard de Grenelle, 75015 Paris"
+    "Adresse":"83 Boulevard de Grenelle, 75015 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.293,48.850 ]
+       "coordinates":  [ 2.2930824,48.8503692 ]
     },
     "properties": {
     "Name":"Au Dernier Métro",
-    "Adresse":"70 Boulevard de Grenelle, 75015 Paris"
+    "Adresse":"70 Boulevard de Grenelle, 75015 Paris",
+    "Commentaires":"Belle déco de bistro d’antan. Grand et haut comptoir. Équipe très aimable mais CNews le matin c’est dur ! Mais cela reste une bonne adresse avec beaucoup d’habitués."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.285,48.840 ]
+       "coordinates":  [ 2.285364,48.840214 ]
     },
     "properties": {
     "Name":"Mon Rêve",
-    "Adresse":"68 Avenue Félix Faure, 75015 Paris"
+    "Adresse":"68 Avenue Félix Faure, 75015 Paris",
+    "Commentaires":"Petit comptoir mais déco avec de très belles faillances. Café à 1€ et équipe très sympathique. Seulement 4 étoiles car comptoir court et pas de journaux…"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.265,48.841 ]
+       "coordinates":  [ 2.265178,48.841044 ]
     },
     "properties": {
     "Name":"Comptoir du XVI",
-    "Adresse":"24 Boulevard Exelmans, 75016 Paris"
+    "Adresse":"24 Boulevard Exelmans, 75016 Paris",
+    "Commentaires":"Bonne ambiance avec quelques habitués hauts en couleur ;) Équipe très sympa et chaleureuse. Musique douce."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.257,48.834 ]
+       "coordinates":  [ 2.257373,48.833669 ]
     },
     "properties": {
     "Name":"La Place",
-    "Adresse":"17 Place Marcel Pagnol 92100 Boulogne-Billancourt"
+    "Adresse":"17 Place Marcel Pagnol 92100 Boulogne-Billancourt",
+    "Commentaires":"Grand café, grand comptoir. Vous croiserez probablement des vedettes de TF1 tout proche."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.316,48.872 ]
+       "coordinates":  [ 2.315952,48.8718 ]
     },
     "properties": {
     "Name":"Café Beauvau",
-    "Adresse":"9 rue de Miromesnil, 75008 Paris"
+    "Adresse":"9 rue de Miromesnil, 75008 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.290,48.848 ]
+       "coordinates":  [ 2.289972,48.848081 ]
     },
     "properties": {
     "Name":"Le Disque Bleu",
-    "Adresse":"60 Rue du Théâtre, 75015 Paris"
+    "Adresse":"60 Rue du Théâtre, 75015 Paris",
+    "Commentaires":"A tester"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.860 ]
+       "coordinates":  [ 2.32465,48.859948 ]
     },
     "properties": {
     "Name":"Les Deux Musées",
-    "Adresse":"79 Rue de Lille, 75007 Paris"
+    "Adresse":"79 Rue de Lille, 75007 Paris",
+    "Commentaires":"Très beau et grand comptoir en or massif ! ;) Comptoir très fréquenté : proche de la gare RER et du musée d’Orsay,\nPas de musique pas de télé, on est au calme. Une bonne adresse !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.293,48.844 ]
+       "coordinates":  [ 2.293006,48.843824 ]
     },
     "properties": {
     "Name":"A la Tour Eiffel",
-    "Adresse":"96 rue du Commerce, 75015 Paris"
+    "Adresse":"96 rue du Commerce, 75015 Paris",
+    "Commentaires":"Café très fréquenté avec un grand comptoir en L. Bonne ambiance de bistrot parisien."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.292,48.843 ]
+       "coordinates":  [ 2.291745,48.842837 ]
     },
     "properties": {
     "Name":"Le Bistrot du 15ème",
-    "Adresse":"91 Rue de l'Église, 75015 Paris"
+    "Adresse":"91 Rue de l'Église, 75015 Paris",
+    "Commentaires":"Bistro très sympa, cadre agréable et équipe au top. L’immeuble qui abrite ce café vaut également le détour."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.292,48.843 ]
+       "coordinates":  [ 2.291745,48.842837 ]
     },
     "properties": {
     "Name":"L’Intrigue",
-    "Adresse":"91 Rue de l'Église, 75015 Paris"
+    "Adresse":"91 Rue de l'Église, 75015 Paris",
+    "Commentaires":"Entièrement refait à l'été 2023 on aime bien ce grand comptoir en marbre noir et l'équipe toujours aussi sympathique. L’immeuble qui abrite ce café vaut également le détour."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.864 ]
+       "coordinates":  [ 2.341599,48.864097 ]
     },
     "properties": {
     "Name":"L’imprimerie",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.869 ]
+       "coordinates":  [ 2.333848,48.86879 ]
     },
     "properties": {
     "Name":"Le Pastel",
-    "Adresse":"41 Rue Saint-Augustin, 75002 Paris"
+    "Adresse":"41 Rue Saint-Augustin, 75002 Paris",
+    "Commentaires":"Déco un peu vieillotte mais serveurse et patron très sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.863 ]
+       "coordinates":  [ 2.337662,48.862784 ]
     },
     "properties": {
     "Name":"Café Palais Royal",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.280,48.845 ]
+       "coordinates":  [ 2.279868,48.844938 ]
     },
     "properties": {
     "Name":"Le Capitaine M",
-    "Adresse":"25 Rue de la Convention, 75015 Paris"
+    "Adresse":"25 Rue de la Convention, 75015 Paris",
+    "Commentaires":"Gros coup de foudre pour ce grand comptoir en bois. Grand salle lumineuse à la déco de pirate. Beaucoup d'habitués et accueil très chaleureux. Un comptoir que l'on a du mal à quitter !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.855 ]
+       "coordinates":  [ 2.324503,48.855129 ]
     },
     "properties": {
     "Name":"Le Florès",
-    "Adresse":"80 rue de grenelle, 75007 Paris"
+    "Adresse":"80 rue de grenelle, 75007 Paris",
+    "Commentaires":"Grand comptoir. Déco traditionnel tout en boiserie. Serveurs aimables.\nDepuis cette visite le café est fermé pour travaux."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.290,48.842 ]
+       "coordinates":  [ 2.290335,48.8421411 ]
     },
     "properties": {
     "Name":"Les Gamins",
-    "Adresse":"22 Avenue Félix Faure, 75015 Paris"
+    "Adresse":"22 Avenue Félix Faure, 75015 Paris",
+    "Commentaires":"Petit comptoir mais ambiance sympathique « neo » bistro."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.284,48.837 ]
+       "coordinates":  [ 2.283548,48.836711 ]
     },
     "properties": {
     "Name":"Le 347",
-    "Adresse":"42 Rue Vasco de Gama, 75015 Paris"
+    "Adresse":"42 Rue Vasco de Gama, 75015 Paris",
+    "Commentaires":"Ambiance plutôt bar de nuit que du matin mais grand comptoir accueillant."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.869 ]
+       "coordinates":  [ 2.3249947,48.8686223 ]
     },
     "properties": {
     "Name":"Relais Madeleine",
-    "Adresse":"9 Rue du Chevalier de Saint-George, 75008 Paris"
+    "Adresse":"9 Rue du Chevalier de Saint-George, 75008 Paris",
+    "Commentaires":"Beaucoup de passage autour de ce grand comptoir en étain. Superbe déco art nouveau et serveuse au top."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310,48.860 ]
+       "coordinates":  [ 2.3101116,48.8600655 ]
     },
     "properties": {
     "Name":"Le Recrutement",
-    "Adresse":"50 Rue Saint-Dominique, 75007 Paris"
+    "Adresse":"50 Rue Saint-Dominique, 75007 Paris",
+    "Commentaires":"Un grand bar en étain, une belle déco et une clientèle composée principalement de touristes mais également de parisiens amateurs de café comptoir."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.331,48.868 ]
+       "coordinates":  [ 2.3307632,48.8682277 ]
     },
     "properties": {
     "Name":"Le Royal Vendome",
-    "Adresse":"28 Rue Danielle Casanova, 75002 Paris"
+    "Adresse":"28 Rue Danielle Casanova, 75002 Paris",
+    "Commentaires":"Musique douce, grand comptoir en bois très accueillant avec ces nombreux tabourets, tout cela est propice à passer un bon moment dans ce bel établissement."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.329,48.858 ]
+       "coordinates":  [ 2.3288476,48.8575951 ]
     },
     "properties": {
     "Name":"L’Espérance [Fermé]",
-    "Adresse":"36 Rue de l'Université, 75007 Paris"
+    "Adresse":"36 Rue de l'Université, 75007 Paris",
+    "Commentaires":"Bistro « vintage » comme on les aime. Ici pas de musique pas de télé pas de journaux, on est là pour discuter ou bouquiner. Equipe super sympa un lieu hors du temps pour se ressourcer avant le boulot."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.307,48.843 ]
+       "coordinates":  [ 2.3065445,48.8434837 ]
     },
     "properties": {
     "Name":"Au Roi Du Café",
-    "Adresse":"59 Rue Lecourbe, 75015 Paris"
+    "Adresse":"59 Rue Lecourbe, 75015 Paris",
+    "Commentaires":"Grand comptoir, lumière tamisée et musique douce. Beaucoup d’habitués avec lesquels la conversation s’engage vite. Un large choix de journaux. Vive le roi du café comptoir ! "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.324,48.854 ]
+       "coordinates":  [ 2.3236672,48.8540929 ]
     },
     "properties": {
     "Name":"Café Varenne",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.311,48.845 ]
+       "coordinates":  [ 2.310597,48.8449454 ]
     },
     "properties": {
     "Name":"Café Basile",
-    "Adresse":"2 Boulevard Pasteur, 75015 Paris"
+    "Adresse":"2 Boulevard Pasteur, 75015 Paris",
+    "Commentaires":"Un comptoir en étain de chez Nectoux patiné par le temps. Une équipe efficace et souriante. Une belle adresse au pied du métro Sèvres-Lecourbe."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.371,48.869 ]
+       "coordinates":  [ 2.3713457,48.8693115 ]
     },
     "properties": {
     "Name":"Le Chateaubriand",
-    "Adresse":"129 Avenue Parmentier, 75011 Paris"
+    "Adresse":"129 Avenue Parmentier, 75011 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.296,48.837 ]
+       "coordinates":  [ 2.2961783,48.8371917 ]
     },
     "properties": {
     "Name":"Dupont",
-    "Adresse":"198 rue de la convention, 75015 Paris"
+    "Adresse":"198 rue de la convention, 75015 Paris",
+    "Commentaires":"Grand comptoir où consomment beaucoup d’habitués. Equipe vraiment très sympathique. Large choix de journaux. Même si le comptoir manque un peu de profondeur et les tabourets inconfortables c’est une très bonne adresse 5 étoiles."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.301,48.836 ]
+       "coordinates":  [ 2.300812,48.8358717 ]
     },
     "properties": {
     "Name":"Le Marché",
-    "Adresse":"238 rue de la convention, 75015 Paris"
+    "Adresse":"238 rue de la convention, 75015 Paris",
+    "Commentaires":"Grand comptoir en bois, tabourets confortables. Ambiance chaleureuse. Un bon moment pour commencer la journée en toute sérénité. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.278,48.846 ]
+       "coordinates":  [ 2.27757,48.845972 ]
     },
     "properties": {
     "Name":"Regalia",
-    "Adresse":"1 rue de la convention, 75015 Paris"
+    "Adresse":"1 rue de la convention, 75015 Paris",
+    "Commentaires":"Grand comptoir en étain, personnel sympathique et souriant. Belle déco simple et chaleureuse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.284,48.840 ]
+       "coordinates":  [ 2.284415,48.839557 ]
     },
     "properties": {
     "Name":"Félix Faure",
-    "Adresse":"85 Avenue Félix Faure, 75015 Paris"
+    "Adresse":"85 Avenue Félix Faure, 75015 Paris",
+    "Commentaires":"Un très beau et grand comptoir circulaire en étain de l'atelier Nectoux (encore et toujours ici en <a href=\"https://www.ateliers-nectoux.fr/bordure/bordure-n15-95-cm/\">bordure N°15</a>). Jules derrière le comptoir sera au petit soin. Et comme on s'y sent bien dans ce café on peut même y rester travailler."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.261,48.849 ]
+       "coordinates":  [ 2.26075,48.84859 ]
     },
     "properties": {
     "Name":"Le Beaujolais d’Auteuil",
-    "Adresse":"99 Boulevard de Montmorency, 75016 Paris"
+    "Adresse":"99 Boulevard de Montmorency, 75016 Paris",
+    "Commentaires":"Petit comptoir en arc de cercle. Café relativement calme le matin, parfait si on n'a pas envie de discuter ;) Belle déco et serveur sympathique. Conseil : attention aux tabourets à trois pieds !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.312,48.831 ]
+       "coordinates":  [ 2.312028,48.83097 ]
     },
     "properties": {
     "Name":"Raymond",
-    "Adresse":"1 Rue de Ridder, 75014 Paris"
+    "Adresse":"1 Rue de Ridder, 75014 Paris",
+    "Commentaires":"Beau comptoir en bois avec une belle mosaique \"Raymond\" inscrite sur son flan. Une déco simple qui manque un peu de chaleur mais un serveur sympathique et un comptoir animés d'habitués. Validé par Café Comptoir !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.347,48.871 ]
+       "coordinates":  [ 2.3465697,48.8708724 ]
     },
     "properties": {
     "Name":"Les pipelettes du boulevard",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.285,48.870 ]
+       "coordinates":  [ 2.285488,48.870148 ]
     },
     "properties": {
     "Name":"Brasserie Victo Hugo",
-    "Adresse":"4 Place Victor Hugo, 75016 Paris"
+    "Adresse":"4 Place Victor Hugo, 75016 Paris",
+    "Commentaires":"Trés beau cadre pour ce grand comptoir en bois et étain. Equipe super efficace et sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.333,48.892 ]
+       "coordinates":  [ 2.333419,48.891957 ]
     },
     "properties": {
     "Name":"Le Brio",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.294,48.850 ]
+       "coordinates":  [ 2.293711,48.850159 ]
     },
     "properties": {
     "Name":"Les Prolongations",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.289,48.839 ]
+       "coordinates":  [ 2.2889674,48.8385962 ]
     },
     "properties": {
     "Name":"Le Lutèce",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.364,48.862 ]
+       "coordinates":  [ 2.3640413,48.8619703 ]
     },
     "properties": {
     "Name":"Le Progrès",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.306,48.878 ]
+       "coordinates":  [ 2.3062629,48.8775593 ]
     },
     "properties": {
     "Name":"Le  Parthenon",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.314,48.884 ]
+       "coordinates":  [ 2.3138094,48.8837384 ]
     },
     "properties": {
     "Name":"Le Sauret",
-    "Adresse":"54 Rue de Lévis, 75017 Paris"
+    "Adresse":"54 Rue de Lévis, 75017 Paris",
+    "Commentaires":"Pour ce comptoir on retrouve l'essentiel dont on a besoin pour passer un bon moment : une équipe sympathique derrière un grand comptoir, beaucoup d'habitués, le journal, des tabourets pour s'asseoir. La déco est simple mais on s'y sent bien. Simple, basique comme dirait le poête."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.305,48.869 ]
+       "coordinates":  [ 2.304904,48.869273 ]
     },
     "properties": {
     "Name":"Le marbeuf",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310,48.871 ]
+       "coordinates":  [ 2.309791,48.87144 ]
     },
     "properties": {
     "Name":"Le Président",
-    "Adresse":"59 Avenue Franklin Delano Roosevelt, 75008 Paris"
+    "Adresse":"59 Avenue Franklin Delano Roosevelt, 75008 Paris",
+    "Commentaires":"Un beau comptoir et un super accueil de la part d'Alyssa. Ici on y lit les Echos ou le Parisien un beau mélange !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.331,48.877 ]
+       "coordinates":  [ 2.3307379,48.876725 ]
     },
     "properties": {
     "Name":"Le Vert Tulipe",
-    "Adresse":"2 Rue de Londres, 75009 Paris"
+    "Adresse":"2 Rue de Londres, 75009 Paris",
+    "Commentaires":"Un beau comptoir rectangulaire central en bois et étain. Belle déco et ambiance chaleureuse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.308,48.876 ]
+       "coordinates":  [ 2.308294,48.875783 ]
     },
     "properties": {
     "Name":"L’Annexe",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.312,48.882 ]
+       "coordinates":  [ 2.312057,48.882437 ]
     },
     "properties": {
     "Name":"Le Café Dumas",
-    "Adresse":"34 Avenue de Villiers, 75017 Paris"
+    "Adresse":"34 Avenue de Villiers, 75017 Paris",
+    "Commentaires":"Dans une belle déco noir et rouge un beau comptoir en étain. Serveur efficace et sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.365,48.862 ]
+       "coordinates":  [ 2.364736,48.861796 ]
     },
     "properties": {
     "Name":"La Banquette",
-    "Adresse":"92 Rue de Turenne, 75003 Paris"
+    "Adresse":"92 Rue de Turenne, 75003 Paris",
+    "Commentaires":"Petit comptoir et déco qui manque de chaleur. Mais serveur sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.337,48.854 ]
+       "coordinates":  [ 2.337061,48.853955 ]
     },
     "properties": {
     "Name":"Bar du Marché",
-    "Adresse":"16 Rue de Buci, 75006 Paris"
+    "Adresse":"16 Rue de Buci, 75006 Paris",
+    "Commentaires":"Une institution au coeur de Saint Germain des Près. Un très beau comptoir en cuivre et marbre avec beaucoup de passage. Sa bonne réputation n'est pas usurpée."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.884 ]
+       "coordinates":  [ 2.3416543,48.8839943 ]
     },
     "properties": {
     "Name":"Le Progrès",
-    "Adresse":"7 Rue des Trois Frères, 75018 Paris"
+    "Adresse":"7 Rue des Trois Frères, 75018 Paris",
+    "Commentaires":"Bistro typique de Montmartre, magnifique déco avec de grandes baies vitrés. Beaucoup de touristes mais ça reste un belle endroit a fréquenter tôt le matin. Musique douce et service impécable."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.337,48.854 ]
+       "coordinates":  [ 2.33662,48.8536952 ]
     },
     "properties": {
     "Name":"Le Chai Saint-Germain",
-    "Adresse":"26 Rue de Buci, 75006 Paris"
+    "Adresse":"26 Rue de Buci, 75006 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.871 ]
+       "coordinates":  [ 2.3378085,48.8714078 ]
     },
     "properties": {
     "Name":"Le Marivaux",
-    "Adresse":"6 Rue de Marivaux, 75002 Paris"
+    "Adresse":"6 Rue de Marivaux, 75002 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.354,48.861 ]
+       "coordinates":  [ 2.3535899,48.861079 ]
     },
     "properties": {
     "Name":"La Station Rambuteau",
-    "Adresse":"37 Rue Rambuteau, 75004 Paris"
+    "Adresse":"37 Rue Rambuteau, 75004 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.320,48.890 ]
+       "coordinates":  [ 2.3202118,48.8904362 ]
     },
     "properties": {
     "Name":"Le Libre Echange",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.320,48.895 ]
+       "coordinates":  [ 2.3202691,48.8945364 ]
     },
     "properties": {
     "Name":"Les Phénomènes",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.286,48.842 ]
+       "coordinates":  [ 2.285777,48.842221 ]
     },
     "properties": {
     "Name":"Café Ella",
-    "Adresse":"85 rue de la convention, 75015 Paris"
+    "Adresse":"85 rue de la convention, 75015 Paris",
+    "Commentaires":"Toute nouvelle déco pour ce café après 6 mois de travaux. Un petit comptoir mais équipe très sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.285,48.847 ]
+       "coordinates":  [ 2.2854162,48.8471916 ]
     },
     "properties": {
     "Name":"Café Lutetia",
-    "Adresse":"1 Place Charles Michels, 75015 Paris"
+    "Adresse":"1 Place Charles Michels, 75015 Paris",
+    "Commentaires":"Le seul comptoir ou on peut prendre son café au soleil grâce à sa belle véranda. Grand comptoir en bois usé autour duquel nombre d'habitués de tous horizons se rassemble."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.328,48.843 ]
+       "coordinates":  [ 2.328385,48.8426184 ]
     },
     "properties": {
     "Name":"Le Select",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.316,48.876 ]
+       "coordinates":  [ 2.3157934,48.8759469 ]
     },
     "properties": {
     "Name":"Le Carrefour",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.316,48.875 ]
+       "coordinates":  [ 2.3163529,48.8754772 ]
     },
     "properties": {
     "Name":"Haussman",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.416,48.876 ]
+       "coordinates":  [ 2.4156328,48.8755994 ]
     },
     "properties": {
     "Name":"La Fleur des Lilas",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.300,48.872 ]
+       "coordinates":  [ 2.30032,48.872468 ]
     },
     "properties": {
     "Name":"George V",
-    "Adresse":"120 Avenue des Champs-Élysées, 75008 Paris"
+    "Adresse":"120 Avenue des Champs-Élysées, 75008 Paris",
+    "Commentaires":"Pour prendre un café comptoir sur les champs ce lieu est parfait. Un très beau comptoir et une équipe très sympathique.\n\n<a href=\"https://www.instagram.com/reel/CnwAD9eOIqp\">Vidéo sur Instagram</a>"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.292,48.851 ]
+       "coordinates":  [ 2.292421,48.850563 ]
     },
     "properties": {
     "Name":"Le Dupleix",
-    "Adresse":"62 Boulevard de Grenelle, 75015 Paris"
+    "Adresse":"62 Boulevard de Grenelle, 75015 Paris",
+    "Commentaires":"Grand comptoir, des touristes et quelques habitués. Déco fausse brique et ventilateur au plafond mais ambiance chaleureuse et serveurs avec le sourire."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.830 ]
+       "coordinates":  [ 2.33385,48.829598 ]
     },
     "properties": {
     "Name":"Le Comptoir",
-    "Adresse":"57 Rue de la Tombe Issoire, 75014 Paris"
+    "Adresse":"57 Rue de la Tombe Issoire, 75014 Paris",
+    "Commentaires":"Très beau petit comptoir en arc de cercle. Ce qu'on peut appeler un café populaire avec beaucoup d'habitués. Attention le patron adore la musique des années 80 ! ;) Bonus un beau pochoir de Misstic."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.842 ]
+       "coordinates":  [ 2.337952,48.84161 ]
     },
     "properties": {
     "Name":"Le gamin de Paris",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.842 ]
+       "coordinates":  [ 2.338029,48.841759 ]
     },
     "properties": {
     "Name":"Le val de grace",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.345,48.854 ]
+       "coordinates":  [ 2.345244,48.854386 ]
     },
     "properties": {
     "Name":"Le soleil d’or",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.336,48.824 ]
+       "coordinates":  [ 2.33587,48.824057 ]
     },
     "properties": {
     "Name":"Chinchin",
-    "Adresse":"25 Avenue Reille, 75014 Paris"
+    "Adresse":"25 Avenue Reille, 75014 Paris",
+    "Commentaires":"Beau comptoir noir et blanc, une déco bois et béton brut. Un bel endroit chaleureux et une équipe sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.368,48.853 ]
+       "coordinates":  [ 2.3680728,48.8531625 ]
     },
     "properties": {
     "Name":"Café Francais",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.404,48.837 ]
+       "coordinates":  [ 2.404106,48.836703 ]
     },
     "properties": {
     "Name":"Chez Ma Belle-Mère",
-    "Adresse":"257 Avenue Daumesnil, 75012 Paris"
+    "Adresse":"257 Avenue Daumesnil, 75012 Paris",
+    "Commentaires":"Petit comptoir en étain très fréquenté, ambiance chaleureuse, serveurs efficaces et sympathiques."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.859 ]
+       "coordinates":  [ 2.341527,48.85887 ]
     },
     "properties": {
     "Name":"Café du Pont Neuf",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.276,48.853 ]
+       "coordinates":  [ 2.275979,48.85294 ]
     },
     "properties": {
     "Name":"Café à la fontaine",
-    "Adresse":"12 Rue de Boulainvilliers, 75016 Paris"
+    "Adresse":"12 Rue de Boulainvilliers, 75016 Paris",
+    "Commentaires":"Un grand comptoir en étain très fréquenté. Dommage pour moi en ce lundi le patron n’était pas de bonne humeur, on y reviendra un autre jour ;). "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.275,48.851 ]
+       "coordinates":  [ 2.275266,48.851022 ]
     },
     "properties": {
     "Name":"Le Récepteur",
-    "Adresse":"3 Avenue Théophile Gautier, 75016 Paris"
+    "Adresse":"3 Avenue Théophile Gautier, 75016 Paris",
+    "Commentaires":"Un petit comptoir en étain dans un café à l'ambiance chaleureuse avec un service sourire compris !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.326,48.878 ]
+       "coordinates":  [ 2.3264514,48.8778416 ]
     },
     "properties": {
     "Name":"Terrasse Saint-Lazare",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.351,48.862 ]
+       "coordinates":  [ 2.3514644,48.8615836 ]
     },
     "properties": {
     "Name":"Le Cavalier Bleu",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.318,48.871 ]
+       "coordinates":  [ 2.3176598,48.8712453 ]
     },
     "properties": {
     "Name":"Le Saint Laurent",
-    "Adresse":"10 Rue des Saussaies, 75008 Paris"
+    "Adresse":"10 Rue des Saussaies, 75008 Paris",
+    "Commentaires":"Quelle bonne suprise que ce beau comptoir en cuivre acceuillant. On y trouve l'essence du café comptoir : une patronne fort sympathique au service impécable, des clients de tous horizons y compris les costards cravates du ministère de l'intèrieur tout proche. Quitter ce café pour aller au travail est un vrai déchirement !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.294,48.854 ]
+       "coordinates":  [ 2.293942,48.853763 ]
     },
     "properties": {
     "Name":"Le Rosco",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.380,48.873 ]
+       "coordinates":  [ 2.380003,48.872786 ]
     },
     "properties": {
     "Name":"Le Relais de Belleville",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.327,48.850 ]
+       "coordinates":  [ 2.327056,48.849878 ]
     },
     "properties": {
     "Name":"Le Raspail",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.543,48.827 ]
+       "coordinates":  [ 2.543122,48.827036 ]
     },
     "properties": {
     "Name":"Café de la Chope",
-    "Adresse":"54 Bise Rue du Général de Gaulle, 94350 Villiers-sur-Marne"
+    "Adresse":"54 Bise Rue du Général de Gaulle, 94350 Villiers-sur-Marne",
+    "Commentaires":"Ambiance americano-portugaise pour ce beau comptoir animé en ce dimanche matin. On y écoute de la country et des fois du Johnny."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.283,48.865 ]
+       "coordinates":  [ 2.2825852,48.8645461 ]
     },
     "properties": {
     "Name":"Les Sablons",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.383,48.855 ]
+       "coordinates":  [ 2.382622,48.8551103 ]
     },
     "properties": {
     "Name":"Le Pure Cafe",
-    "Adresse":"14 Rue Jean Macé, 75011 Paris"
+    "Adresse":"14 Rue Jean Macé, 75011 Paris",
+    "Commentaires":"Quelle pure merveille que ce Pure Café, un grand comptoir centrale comme on les aime. Une ambiance vieux bistrot d'antan et Sébastien derrière le comptoir vous accueillera chaleureusement. Il est même possible de prolonger le plaisir et d'y télétravailler."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.863 ]
+       "coordinates":  [ 2.338023,48.8626502 ]
     },
     "properties": {
     "Name":"Café Saint Honoré",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.245,48.831 ]
+       "coordinates":  [ 2.244965,48.830791 ]
     },
     "properties": {
     "Name":"Odette",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.318,48.852 ]
+       "coordinates":  [ 2.318371,48.851615 ]
     },
     "properties": {
     "Name":"Coutume",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.319,48.852 ]
+       "coordinates":  [ 2.319208,48.851604 ]
     },
     "properties": {
     "Name":"Brasserie des Ministères",
-    "Adresse":"41 Rue de Babylone, 75007 Paris"
+    "Adresse":"41 Rue de Babylone, 75007 Paris",
+    "Commentaires":"Grand comptoir en inox, service sympathique et efficace. Oui FM en bande son et habitués d'horizons divers."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.319,48.861 ]
+       "coordinates":  [ 2.318916,48.860642 ]
     },
     "properties": {
     "Name":"Le Bourbon",
-    "Adresse":"1 Place du Palais Bourbon, 75007 Paris"
+    "Adresse":"1 Place du Palais Bourbon, 75007 Paris",
+    "Commentaires":"Très beau comptoir en bois, tout en rondeur. Tout proche de l'Assemblée Nationale vous y croiserait surement votre député !  Pour autant équipe chaleureuse et ambiance décontractée."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.328,48.858 ]
+       "coordinates":  [ 2.328145,48.857744 ]
     },
     "properties": {
     "Name":"Le Buisson D’argent",
-    "Adresse":"25 Rue du Bac, 75007 Paris"
+    "Adresse":"25 Rue du Bac, 75007 Paris",
+    "Commentaires":"Comptoir en bois patiné par le temps et les coudes ! Sympathique bistrot de quartier avec un mélange de touristes et d'habitués. La radio FIP en fond sonore."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.269,48.855 ]
+       "coordinates":  [ 2.269453,48.854945 ]
     },
     "properties": {
     "Name":"L’Amadeus",
-    "Adresse":"54B Avenue Mozart, 75016 Paris"
+    "Adresse":"54B Avenue Mozart, 75016 Paris",
+    "Commentaires":"On discute vite avec son voisin autour de ce petit comptoir en étain. Malgré CNews allumé heureusement sans le son, c'est une bonne adresse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.357,48.857 ]
+       "coordinates":  [ 2.357014,48.856708 ]
     },
     "properties": {
     "Name":"Pick Clops",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.317,48.858 ]
+       "coordinates":  [ 2.317439,48.857645 ]
     },
     "properties": {
     "Name":"Au Coin de la Rue",
-    "Adresse":"34 Rue de Bourgogne, 75007 Paris"
+    "Adresse":"34 Rue de Bourgogne, 75007 Paris",
+    "Commentaires":"Tout près des ministères et de l’assemblée nationale, ce petit comptoir où se presse une grande diversité de clients est une très belle surprise. Avec un peu de chance vous serez servi par Jean-François le patron fort sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.301,48.879 ]
+       "coordinates":  [ 2.3008311,48.8788907 ]
     },
     "properties": {
     "Name":"Le Diplomate",
-    "Adresse":"110 boulevard de Courcelles, 75017 Paris"
+    "Adresse":"110 boulevard de Courcelles, 75017 Paris",
+    "Commentaires":"Tout près du <a href=\"https://cafe-comptoir.glideapp.io/dl/d0a5f4/s/6a8da5/r/jq9h0MdmReCTy.iTsBPloQ\">Courcelles</a>, encore une belle adresse dans le 17ème. Dernière le comptoir Edith et le patron Sébastien vous serviront avec bonne humeur. Un magnifique comptoir des ateliers Nectoux, des tabourets confortables pour refaire le monde et arriver en retard au boulot ;)."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.887 ]
+       "coordinates":  [ 2.340551,48.886612 ]
     },
     "properties": {
     "Name":"Chez Eugène",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.258,48.885 ]
+       "coordinates":  [ 2.258386,48.88468 ]
     },
     "properties": {
     "Name":"Polly Maggoo",
-    "Adresse":"test adresse"
+    "Adresse":"test adresse",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.293,48.875 ]
+       "coordinates":  [ 2.293046,48.874776 ]
     },
     "properties": {
     "Name":"Le Cristal",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.328,48.843 ]
+       "coordinates":  [ 2.328384,48.842618 ]
     },
     "properties": {
     "Name":"Le Select",
-    "Adresse":"99 Boulevard du Montparnasse, 75006 Paris"
+    "Adresse":"99 Boulevard du Montparnasse, 75006 Paris",
+    "Commentaires":"Ce café est dans la plus pure tradition des brasserie parisienne, grands espaces, serveurs en costume. Le week-end vous y croiserez peu de monde au comptoir mais quelques familles venues prendre leur petit déjeuner en salle."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.365,48.878 ]
+       "coordinates":  [ 2.3652456,48.8776927 ]
     },
     "properties": {
     "Name":"Le Valmy",
-    "Adresse":"1 Rue Eugène Varlin, 75010 Paris"
+    "Adresse":"1 Rue Eugène Varlin, 75010 Paris",
+    "Commentaires":"Très beau comptoir cabossé par le temps. Mais reste intacte la fresque scultée dans le métal. Sofiane vous servira avec efficacité et joie de vivre. Au comptoir on croisera que des habitués."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.355,48.875 ]
+       "coordinates":  [ 2.3549437,48.8746916 ]
     },
     "properties": {
     "Name":"Virage Café",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.340,48.879 ]
+       "coordinates":  [ 2.3398582,48.8793323 ]
     },
     "properties": {
     "Name":"Bistrot le Smiley",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.348,48.891 ]
+       "coordinates":  [ 2.3483392,48.890672 ]
     },
     "properties": {
     "Name":"Les Carrières",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.307,48.860 ]
+       "coordinates":  [ 2.306837,48.859508 ]
     },
     "properties": {
     "Name":"Le bar du central",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.870 ]
+       "coordinates":  [ 2.3254453,48.8699564 ]
     },
     "properties": {
     "Name":"Paris London",
-    "Adresse":"16 Place de la Madeleine, 75008 Paris"
+    "Adresse":"16 Place de la Madeleine, 75008 Paris",
+    "Commentaires":"Un beau comptoir mais qui manque d'habitués et décoration florale pas au gout de votre serviteur..."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.353,48.873 ]
+       "coordinates":  [ 2.35258,48.873497 ]
     },
     "properties": {
     "Name":"Madame Gen",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.345,48.874 ]
+       "coordinates":  [ 2.344748,48.873836 ]
     },
     "properties": {
     "Name":"Folie's Cafe",
-    "Adresse":"16 Rue Geoffroy Marie, 75009 Paris"
+    "Adresse":"16 Rue Geoffroy Marie, 75009 Paris",
+    "Commentaires":"Superbe déco pour ce comptoir en face des Folies Bergere. Dernier le grand comptoir en L, Stéphane vous servira avec le sourire. Beaucoup d'habitués viennent ici profiter de sa belle terrasse sachant que les prix terrasse et comptoir sont identiques. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.874 ]
+       "coordinates":  [ 2.324809,48.874248 ]
     },
     "properties": {
     "Name":"L’Arcade",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.406,48.877 ]
+       "coordinates":  [ 2.4061292,48.8769105 ]
     },
     "properties": {
     "Name":"Le clairon",
-    "Adresse":"328 Rue de Belleville, 75020 Paris"
+    "Adresse":"328 Rue de Belleville, 75020 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.396,48.854 ]
+       "coordinates":  [ 2.3956902,48.8541935 ]
     },
     "properties": {
     "Name":"Café Lino",
-    "Adresse":"81 Boulevard de Charonne, 75011 Paris"
+    "Adresse":"81 Boulevard de Charonne, 75011 Paris",
+    "Commentaires":"Un beau comptoir en bois et ambiance jazzy."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.340,48.866 ]
+       "coordinates":  [ 2.3403846,48.8655553 ]
     },
     "properties": {
     "Name":"Bistrot des Victoires",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.305,48.841 ]
+       "coordinates":  [ 2.3053393,48.8407837 ]
     },
     "properties": {
     "Name":"Le Borromée",
-    "Adresse":"224 Rue de Vaugirard, 75015 Paris"
+    "Adresse":"224 Rue de Vaugirard, 75015 Paris",
+    "Commentaires":"Romain et Steeve les propriétaires ont le sens du café comptoir. A 1€ le café, le comptoir ne désemplit pas et les habitués sont nombreux. Si vous êtes amateur de brèves de comptoir courez suivre les stories du compte Instagram, https://instagram.com/leborromee, un régale !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.350,48.828 ]
+       "coordinates":  [ 2.349536,48.827596 ]
     },
     "properties": {
     "Name":"Café Nénesse",
-    "Adresse":"23 Rue de la Butte-aux-Cailles, 75013 Paris"
+    "Adresse":"23 Rue de la Butte-aux-Cailles, 75013 Paris",
+    "Commentaires":"Une institution de la butte aux cailles. Un beau comptoir en L, des néons, beaucoup d'habitués et Enzo qui vous sert avec le sourire. Une très belle adresse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.872 ]
+       "coordinates":  [ 2.3340286,48.8717139 ]
     },
     "properties": {
     "Name":"Murphy's House",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.876 ]
+       "coordinates":  [ 2.3383717,48.8760922 ]
     },
     "properties": {
     "Name":"Café Lorette",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.343,48.853 ]
+       "coordinates":  [ 2.342589,48.852956 ]
     },
     "properties": {
     "Name":"Le Saint André",
-    "Adresse":"2 rue Danton"
+    "Adresse":"2 rue Danton",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.880 ]
+       "coordinates":  [ 2.340583,48.880327 ]
     },
     "properties": {
     "Name":"Le Ventura",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.300,48.847 ]
+       "coordinates":  [ 2.299627,48.8467117 ]
     },
     "properties": {
     "Name":"Comptoir Moderne",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.872 ]
+       "coordinates":  [ 2.3407937,48.8716596 ]
     },
     "properties": {
     "Name":"Au p’tit Paname",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.344,48.891 ]
+       "coordinates":  [ 2.34375,48.891282 ]
     },
     "properties": {
     "Name":"Le Sarment de Montmartre",
-    "Adresse":"62 Rue du Mont Cenis, 75018 Paris"
+    "Adresse":"62 Rue du Mont Cenis, 75018 Paris",
+    "Commentaires":"Beau comptoir, mais ambiance un peu froide et peu de monde le matin."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.379,48.863 ]
+       "coordinates":  [ 2.379453,48.862722 ]
     },
     "properties": {
     "Name":"Les Enfants Terribles",
-    "Adresse":"25 Rue Lacharrière, 75011 Paris"
+    "Adresse":"25 Rue Lacharrière, 75011 Paris",
+    "Commentaires":"En ce samedi ensolleillé quel plaisir de prendre son café sur ce beau comptoir en bois. L'ambiance y est chaleureuse et on s'y sent comme chez soit."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.328,48.854 ]
+       "coordinates":  [ 2.32772,48.8538 ]
     },
     "properties": {
     "Name":"Le Basile",
-    "Adresse":"34 Rue de Grenelle, 75007 Paris"
+    "Adresse":"34 Rue de Grenelle, 75007 Paris",
+    "Commentaires":"Superbe déco années 70 pour ce café au coeur du 7ème arrondissement."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.347,48.887 ]
+       "coordinates":  [ 2.347487,48.886956 ]
     },
     "properties": {
     "Name":"Au Clair de Lune",
-    "Adresse":"1 Rue Ramey, 75018 Paris"
+    "Adresse":"1 Rue Ramey, 75018 Paris",
+    "Commentaires":"Un bistrot bien connu des habitants du quartier, on y vient pour sa déco unique : néon, vieille moulure et mobylette ! "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.354,48.872 ]
+       "coordinates":  [ 2.353538,48.87168 ]
     },
     "properties": {
     "Name":"Chez Jeannette",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.321,48.876 ]
+       "coordinates":  [ 2.3212509,48.8760201 ]
     },
     "properties": {
     "Name":"L’abordage",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.307,48.858 ]
+       "coordinates":  [ 2.3065248,48.8576417 ]
     },
     "properties": {
     "Name":"Le Roussillon",
-    "Adresse":"186 rue de Grenelle, 75007 Paris"
+    "Adresse":"186 rue de Grenelle, 75007 Paris",
+    "Commentaires":"Grand comptoir très fréquenté. Florence vous servira avec énergie et efficacité. Une bonne adresse conviviale."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.306,48.856 ]
+       "coordinates":  [ 2.306449,48.856466 ]
     },
     "properties": {
     "Name":"Café Central",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.306,48.857 ]
+       "coordinates":  [ 2.306344,48.856664 ]
     },
     "properties": {
     "Name":"Café du Marché",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.324,48.840 ]
+       "coordinates":  [ 2.324031,48.840459 ]
     },
     "properties": {
     "Name":"Café Gaité",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.841 ]
+       "coordinates":  [ 2.32464,48.841497 ]
     },
     "properties": {
     "Name":"Café Odessa",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.303,48.842 ]
+       "coordinates":  [ 2.302927,48.842023 ]
     },
     "properties": {
     "Name":"Le Wallace",
-    "Adresse":"2 Place du Général Beuret, 75015 Paris"
+    "Adresse":"2 Place du Général Beuret, 75015 Paris",
+    "Commentaires":"Grand comptoir en bois ensoillé avec de beaux tabourets bleus."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.384,48.851 ]
+       "coordinates":  [ 2.384295,48.851066 ]
     },
     "properties": {
     "Name":"Les Funambules",
-    "Adresse":"12 Rue Faidherbe, 75011 Paris"
+    "Adresse":"12 Rue Faidherbe, 75011 Paris",
+    "Commentaires":"Belle déco pour ce grand comptoir. Beaucoup d'habitués dans ce bistrot de quartier."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.293,48.836 ]
+       "coordinates":  [ 2.293333,48.836183 ]
     },
     "properties": {
     "Name":"Le P’ti Bistrot",
-    "Adresse":"6 rue Desnouettes, 75015 Paris"
+    "Adresse":"6 rue Desnouettes, 75015 Paris",
+    "Commentaires":"Ici on écoute de la musique libre de droit pour ne pas payer la Sacem ! ;) L’accueil y est généreux et Alec serveur dans ce bistrot depuis 10 ans vous servira avec le sourire. Beaucoup d’habitués autour de ce beau comptoir en cuivre."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.355,48.880 ]
+       "coordinates":  [ 2.35508,48.879662 ]
     },
     "properties": {
     "Name":"Terminus Nord",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.301,48.848 ]
+       "coordinates":  [ 2.300969,48.847674 ]
     },
     "properties": {
     "Name":"Royal Cambronne",
-    "Adresse":"2 Place Cambronne, 75015 Paris"
+    "Adresse":"2 Place Cambronne, 75015 Paris",
+    "Commentaires":"Un magnifique comptoir interminable dans une belle brasserie parisienne."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.327,48.847 ]
+       "coordinates":  [ 2.3268614,48.8467288 ]
     },
     "properties": {
     "Name":"Café Saint Placide",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.882 ]
+       "coordinates":  [ 2.3335279,48.8820846 ]
     },
     "properties": {
     "Name":"Le Mansart",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.881 ]
+       "coordinates":  [ 2.340851,48.881349 ]
     },
     "properties": {
     "Name":"Classique",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.299,48.868 ]
+       "coordinates":  [ 2.298609,48.868478 ]
     },
     "properties": {
     "Name":"Le Marceau",
-    "Adresse":"39 avenue Marceau"
+    "Adresse":"39 avenue Marceau",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.838 ]
+       "coordinates":  [ 2.342181,48.838117 ]
     },
     "properties": {
     "Name":"Le Royal",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.848 ]
+       "coordinates":  [ 2.331788,48.848366 ]
     },
     "properties": {
     "Name":"Café Madame",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.319,48.846 ]
+       "coordinates":  [ 2.319219,48.845711 ]
     },
     "properties": {
     "Name":"Au Chien Qui Fume",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.362,48.851 ]
+       "coordinates":  [ 2.362126,48.850842 ]
     },
     "properties": {
     "Name":"Le Sully",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.353,48.870 ]
+       "coordinates":  [ 2.352824,48.870309 ]
     },
     "properties": {
     "Name":"Le Sully",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.386,48.853 ]
+       "coordinates":  [ 2.386422,48.852882 ]
     },
     "properties": {
     "Name":"Café Titon",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.344,48.867 ]
+       "coordinates":  [ 2.3444106,48.8668229 ]
     },
     "properties": {
     "Name":"Café Père et Fils",
-    "Adresse":"88 Rue Montmartre, 75002 Paris"
+    "Adresse":"88 Rue Montmartre, 75002 Paris",
+    "Commentaires":"Belle déco ambiance \"industrielle\" pour ce café au grand comptoir généreux. Alexandre derrière le bar vous servira un très bon café à 1€ et a ce prix on en prend volontier un deuxième !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.358,48.857 ]
+       "coordinates":  [ 2.3575067,48.857351 ]
     },
     "properties": {
     "Name":"Au Petit Fer à Cheval",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.358,48.856 ]
+       "coordinates":  [ 2.3583713,48.8560053 ]
     },
     "properties": {
     "Name":"La Tartine",
-    "Adresse":"24 Rue de Rivoli, 75004 Paris"
+    "Adresse":"24 Rue de Rivoli, 75004 Paris",
+    "Commentaires":"Bientôt 100 ans que ce bistro existe. Un magnifique comptoir en marbre, une superbe déco et un service au top en font une adresse incontournable ! "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.346,48.882 ]
+       "coordinates":  [ 2.346411,48.881744 ]
     },
     "properties": {
     "Name":"Le Dunkerque",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.389,48.863 ]
+       "coordinates":  [ 2.388567,48.863308 ]
     },
     "properties": {
     "Name":"Les polissons",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":"Pas de comptoir accessible"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.309,48.845 ]
+       "coordinates":  [ 2.30889,48.844548 ]
     },
     "properties": {
     "Name":"Le P’tit Lecourbe",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.313,48.843 ]
+       "coordinates":  [ 2.313045,48.842945 ]
     },
     "properties": {
     "Name":"Café Pasteur",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.340,48.867 ]
+       "coordinates":  [ 2.340022,48.8665 ]
     },
     "properties": {
     "Name":"Le Bougainville",
-    "Adresse":"5 rue de la banque, 75002 Paris"
+    "Adresse":"5 rue de la banque, 75002 Paris",
+    "Commentaires":"Ce café est à ranger dans la catégorie « dans son jus ». Déco des années 70 colorée avec néon au plafond. Un grand comptoir en cuivre et Formica. Des tabourets de toutes les couleurs. On y croise des touristes mais également quelques habitués."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.400,48.852 ]
+       "coordinates":  [ 2.39961,48.851659 ]
     },
     "properties": {
     "Name":"Le Bistrot D’Avron",
-    "Adresse":"2 Rue Planchat, 75020 Paris"
+    "Adresse":"2 Rue Planchat, 75020 Paris",
+    "Commentaires":"Grand comptoir en bois fréquenté par des habitués. Nat la gérante vous accueillera avec le sourire !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.873 ]
+       "coordinates":  [ 2.342262,48.873313 ]
     },
     "properties": {
     "Name":"Bistrot Verdeau",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.331,48.866 ]
+       "coordinates":  [ 2.331404,48.866226 ]
     },
     "properties": {
     "Name":"Le Rubis",
-    "Adresse":"10 Rue du Marché Saint-Honoré, 75001 Paris"
+    "Adresse":"10 Rue du Marché Saint-Honoré, 75001 Paris",
+    "Commentaires":"Bistrot dans son jus avec un beau comptoir, beaucoup d'habitués et d'ouvriers des chantiers du quartier."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.329,48.865 ]
+       "coordinates":  [ 2.3291,48.865446 ]
     },
     "properties": {
     "Name":"Au Petit Bar",
-    "Adresse":"7 Rue du Mont Thabor, 75001 Paris"
+    "Adresse":"7 Rue du Mont Thabor, 75001 Paris",
+    "Commentaires":"Quel petit paradis que ce Petit Bar du 1er arrondissement. Une belle déco qui n'a pas bougé depuis les années 70. Pas de musique a part les siffements de Hubert le serveur au petit soin avec ses habitués.\n"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.847 ]
+       "coordinates":  [ 2.332051,48.8471 ]
     },
     "properties": {
     "Name":"Le Fleurus",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.345,48.894 ]
+       "coordinates":  [ 2.345255,48.894431 ]
     },
     "properties": {
     "Name":"La Timbale",
-    "Adresse":"2, rue Versigny, 75018 Paris"
+    "Adresse":"2, rue Versigny, 75018 Paris",
+    "Commentaires":"Le genre de comptoir que l'on a du mal à quitter. La matinée s'étire à regarder les gens, à lire la presse et à discuter. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.324,48.855 ]
+       "coordinates":  [ 2.324439,48.854733 ]
     },
     "properties": {
     "Name":"Les Ambassades",
-    "Adresse":"75 Rue du Bac, 75007 Paris"
+    "Adresse":"75 Rue du Bac, 75007 Paris",
+    "Commentaires":"Les Ambassades fait parti des comptoirs ou le café est à 1 euro, ouvriers et cols blancs se croisent et discutent dans la bonne humeur."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.324,48.854 ]
+       "coordinates":  [ 2.323668,48.8541149 ]
     },
     "properties": {
     "Name":"Café Varenne",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.324,48.848 ]
+       "coordinates":  [ 2.324007,48.848106 ]
     },
     "properties": {
     "Name":"Bistrot des amis",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.383,48.859 ]
+       "coordinates":  [ 2.382844,48.859186 ]
     },
     "properties": {
     "Name":"Content",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.841 ]
+       "coordinates":  [ 2.3247374,48.8409336 ]
     },
     "properties": {
     "Name":"La Liberté",
-    "Adresse":"1 Rue de la Gaîté, 75014 Paris"
+    "Adresse":"1 Rue de la Gaîté, 75014 Paris",
+    "Commentaires":"Loin des établissements \"branchés\" autour du métro Edgar Quinet, La liberté vous renvoie quelques années en arrières avec son énorme comptoir central en bois et sa déco d'antan. Les habitués y arrivent par vague accueilli par Patrick le patron du lieu."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.350,48.844 ]
+       "coordinates":  [ 2.34974,48.844272 ]
     },
     "properties": {
     "Name":"La Petite",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.872 ]
+       "coordinates":  [ 2.340795,48.87166 ]
     },
     "properties": {
     "Name":"Au P’tit Paname",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.861 ]
+       "coordinates":  [ 2.341154,48.860936 ]
     },
     "properties": {
     "Name":"Auguste",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.374,48.855 ]
+       "coordinates":  [ 2.374451,48.855436 ]
     },
     "properties": {
     "Name":"Café des Anges",
-    "Adresse":"66 Rue de la Roquette, 75011 Paris"
+    "Adresse":"66 Rue de la Roquette, 75011 Paris",
+    "Commentaires":"Beaucoup de monde le matin autour de ce grand comptoir en cuivrer et formica. Amateur de la presse ici vous serez servi avec quasiment tous les quotidiens. Un bel endroits que l’on n’a pas envi de quitter."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.848 ]
+       "coordinates":  [ 2.331788,48.848366 ]
     },
     "properties": {
     "Name":"Café Madame",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.290,48.867 ]
+       "coordinates":  [ 2.289776,48.867004 ]
     },
     "properties": {
     "Name":"Le Kléber",
-    "Adresse":"36 rue Boissière, 75016 Paris"
+    "Adresse":"36 rue Boissière, 75016 Paris",
+    "Commentaires":"Très beau comptoir en étain circulaire fréquenté pas des habitués et quelques touristes. Service impeccable de Fabien avec ses belles bretelles rouges !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.870 ]
+       "coordinates":  [ 2.342447,48.870323 ]
     },
     "properties": {
     "Name":"La Java",
-    "Adresse":"2 Rue Saint-Marc, 75002 Paris"
+    "Adresse":"2 Rue Saint-Marc, 75002 Paris",
+    "Commentaires":"La Java fait partie de ses cafés ou l'âme du lien est incarné par le serveur. Avec Francky vous ne serez pas déçu sa bonne humeur est communicative et vous repartirez avec le sourire."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.875 ]
+       "coordinates":  [ 2.341012,48.874869 ]
     },
     "properties": {
     "Name":"La Pointe Drouot",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.335,48.830 ]
+       "coordinates":  [ 2.335411,48.830338 ]
     },
     "properties": {
     "Name":"Le Vaudesir",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.270,48.855 ]
+       "coordinates":  [ 2.270062,48.855176 ]
     },
     "properties": {
     "Name":"Quarante & Un",
-    "Adresse":"41 Avenue Mozart, 75016 Paris"
+    "Adresse":"41 Avenue Mozart, 75016 Paris",
+    "Commentaires":"Petit comptoir en marbre, ambiance chaleureuse et service au top."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.384,48.850 ]
+       "coordinates":  [ 2.383978,48.850042 ]
     },
     "properties": {
     "Name":"La Liberté",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.361,48.860 ]
+       "coordinates":  [ 2.360678,48.85981 ]
     },
     "properties": {
     "Name":"La perle",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.375,48.851 ]
+       "coordinates":  [ 2.374947,48.851458 ]
     },
     "properties": {
     "Name":"Le Rallye",
-    "Adresse":"27 Rue Faidherbe, 75011 Paris"
+    "Adresse":"27 Rue Faidherbe, 75011 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.359,48.871 ]
+       "coordinates":  [ 2.359428,48.870672 ]
     },
     "properties": {
     "Name":"Le Petit Château D’Eau",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.358,48.878 ]
+       "coordinates":  [ 2.358242,48.878285 ]
     },
     "properties": {
     "Name":"Au train de vie",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.353,48.860 ]
+       "coordinates":  [ 2.352739,48.859602 ]
     },
     "properties": {
     "Name":"Les Acrobates",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310,48.877 ]
+       "coordinates":  [ 2.309732,48.877364 ]
     },
     "properties": {
     "Name":"Sergent Garcia",
-    "Adresse":"3 Place de Rio de Janeiro, 75008 Paris"
+    "Adresse":"3 Place de Rio de Janeiro, 75008 Paris",
+    "Commentaires":"Un jolie petit comptoir des Ateliers Nectoux, une déco par forcément au gout de votre serviteur, mais service efficace et sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310,48.877 ]
+       "coordinates":  [ 2.310344,48.877392 ]
     },
     "properties": {
     "Name":"Valois",
-    "Adresse":"1 Place Rio De Janeiro, 75008 Paris"
+    "Adresse":"1 Place Rio De Janeiro, 75008 Paris",
+    "Commentaires":"Une très belle brasserie parisienne typique. Un grand comptoir en étain très accueillant avec de nombreux tabourets. Avant 8h vous y verrez les ouvriers des nombreux chantiers du quartier puis les cols blancs qui commencent leur journée plus tardivement. Un endroit chic mais pas sélect !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.322,48.894 ]
+       "coordinates":  [ 2.322194,48.893636 ]
     },
     "properties": {
     "Name":"Chez Irène et Bernard",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.851 ]
+       "coordinates":  [ 2.325326,48.8505864 ]
     },
     "properties": {
     "Name":"Les Oiseaux",
-    "Adresse":"43 Rue de Sèvres, 75006 Paris"
+    "Adresse":"43 Rue de Sèvres, 75006 Paris",
+    "Commentaires":"Pas mal d'habitués autour de se long comptoir. Barman sympathique mais malheureusement la serveurse était de mauvaise humeur quand je suis venue..."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.350,48.854 ]
+       "coordinates":  [ 2.350148,48.854283 ]
     },
     "properties": {
     "Name":"Au bougnat",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.343,48.873 ]
+       "coordinates":  [ 2.342948,48.872876 ]
     },
     "properties": {
     "Name":"La Comete",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.294,48.878 ]
+       "coordinates":  [ 2.293985,48.878463 ]
     },
     "properties": {
     "Name":"Monsieur Madame",
-    "Adresse":"35 Rue des Ternes, 75017 Paris"
+    "Adresse":"35 Rue des Ternes, 75017 Paris",
+    "Commentaires":"Magnifique déco, beau comptoir en bois mais pas de vie autour ! Etablissement qui ne favorise pas la consommation au comptoir avec un prix très élevé : 2,20€... Dommage."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.355,48.858 ]
+       "coordinates":  [ 2.354801,48.85779 ]
     },
     "properties": {
     "Name":"Les Marronniers",
-    "Adresse":"18 rue des archives, 75004 Paris"
+    "Adresse":"18 rue des archives, 75004 Paris",
+    "Commentaires":"Petit comptoir en étain mais on s’y sent bien assis sur les tabourets rouges à discuter avec Alexis le patron des lieux."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.363,48.842 ]
+       "coordinates":  [ 2.362842,48.841854 ]
     },
     "properties": {
     "Name":"Au Soleil D’Austerlitz",
-    "Adresse":"18 Boulevard de l'Hôpital, 75005 Paris"
+    "Adresse":"18 Boulevard de l'Hôpital, 75005 Paris",
+    "Commentaires":"Ce bar a plutôt misé sur sa très belle terrasse, mais le comptoir vaut le détour avec une bordure massive et son café à 1€ ! "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.331,48.851 ]
+       "coordinates":  [ 2.331225,48.851456 ]
     },
     "properties": {
     "Name":"Le Carrousel de Rennes",
-    "Adresse":"67 rue de Rennes, 75006 Paris"
+    "Adresse":"67 rue de Rennes, 75006 Paris",
+    "Commentaires":"Ce café a ouvert en avril 2023. Très belle déco avec ces belles lumières qui partent de l’arrière du bar jusqu’au plafond. Magnifique zinc des Ateliers Nectoux avec une fine bordure des plus chics. Un bel endroit mais qui manque encore un peu d’âme."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.847 ]
+       "coordinates":  [ 2.332051,48.8471 ]
     },
     "properties": {
     "Name":"Le Fleurus",
-    "Adresse":"2 rue de Fleurus"
+    "Adresse":"2 rue de Fleurus",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.336,48.886 ]
+       "coordinates":  [ 2.335516,48.885712 ]
     },
     "properties": {
     "Name":"La Mascotte Montmartre",
-    "Adresse":"52 rue des Abesses"
+    "Adresse":"52 rue des Abesses",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.419,48.868 ]
+       "coordinates":  [ 2.418825,48.867968 ]
     },
     "properties": {
     "Name":"Madame Gen Bagnolet",
-    "Adresse":"34 rue Sadi Carnot"
+    "Adresse":"34 rue Sadi Carnot",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.866 ]
+       "coordinates":  [ 2.341216,48.866216 ]
     },
     "properties": {
     "Name":"Le Bar Du Moulin",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.307,48.856 ]
+       "coordinates":  [ 2.306774,48.855895 ]
     },
     "properties": {
     "Name":"Les Téléphones",
-    "Adresse":"54 Rue Cler, 75007 Paris"
+    "Adresse":"54 Rue Cler, 75007 Paris",
+    "Commentaires":"Changement de nom (anciennement \"Aux P.T.T.) et de propriètaire pour cet établissement emblématique de la rue Clerc. Très beau comptoir et équipe au petit soin."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.292,48.851 ]
+       "coordinates":  [ 2.292255,48.851417 ]
     },
     "properties": {
     "Name":"La cantine du troquet",
-    "Adresse":"53 Boulevard de Grenelle, 75015 Paris"
+    "Adresse":"53 Boulevard de Grenelle, 75015 Paris",
+    "Commentaires":"Petit mais accueillant comptoir, équipe très sympathique et le café a 1€ ne gâche rien !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.348,48.850 ]
+       "coordinates":  [ 2.348342,48.850341 ]
     },
     "properties": {
     "Name":"Le Métro",
-    "Adresse":"60 boulevard Saint Germain"
+    "Adresse":"60 boulevard Saint Germain",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.362,48.860 ]
+       "coordinates":  [ 2.361896,48.860462 ]
     },
     "properties": {
     "Name":"Le Saint Gervais",
-    "Adresse":"96 rue vieille du temple"
+    "Adresse":"96 rue vieille du temple",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.325,48.869 ]
+       "coordinates":  [ 2.324696,48.868975 ]
     },
     "properties": {
     "Name":"Le Colibri",
-    "Adresse":"8 place de la Madeleine, 75008 Paris"
+    "Adresse":"8 place de la Madeleine, 75008 Paris",
+    "Commentaires":"Situé tout proche de l’église de la Madeleine. Déco néon et plafond en vitrail. Fréquenté par beaucoup d’habitués et quelques touristes matinaux."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.297,48.878 ]
+       "coordinates":  [ 2.297426,48.877505 ]
     },
     "properties": {
     "Name":"The Place To…",
-    "Adresse":"47 av Wagram"
+    "Adresse":"47 av Wagram",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.354,48.853 ]
+       "coordinates":  [ 2.3536887,48.8529282 ]
     },
     "properties": {
     "Name":"Le Saint Régis",
-    "Adresse":"6 Rue Jean du Bellay, 75004 Paris"
+    "Adresse":"6 Rue Jean du Bellay, 75004 Paris",
+    "Commentaires":"Un magnifique bistrot d'antan, petit comptoir accueillant. Établissement très fréquenté par les touristes mais par également quelques habitués.  "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.885 ]
+       "coordinates":  [ 2.333655,48.88492 ]
     },
     "properties": {
     "Name":"Café des deux moulins",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.283,48.865 ]
+       "coordinates":  [ 2.283232,48.865235 ]
     },
     "properties": {
     "Name":"Brasserie du Mexique",
-    "Adresse":"3 place de Mexico"
+    "Adresse":"3 place de Mexico",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.354,48.849 ]
+       "coordinates":  [ 2.354399,48.849287 ]
     },
     "properties": {
     "Name":"Cardinal Saint Germain",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.339,48.852 ]
+       "coordinates":  [ 2.339362,48.852488 ]
     },
     "properties": {
     "Name":"Germaine",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.386,48.859 ]
+       "coordinates":  [ 2.386213,48.859449 ]
     },
     "properties": {
     "Name":"Gabriel Café",
-    "Adresse":"151 rue de la roquette"
+    "Adresse":"151 rue de la roquette",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.315,48.883 ]
+       "coordinates":  [ 2.314673,48.883054 ]
     },
     "properties": {
     "Name":"La Succursale",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.328,48.893 ]
+       "coordinates":  [ 2.327727,48.893214 ]
     },
     "properties": {
     "Name":"Le Championnet",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.356,48.859 ]
+       "coordinates":  [ 2.355928,48.859334 ]
     },
     "properties": {
     "Name":"Le Bouquet des Archives",
-    "Adresse":"31 rue des archives"
+    "Adresse":"31 rue des archives",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.366,48.865 ]
+       "coordinates":  [ 2.36645,48.865261 ]
     },
     "properties": {
     "Name":"Dreamin Man",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.359,48.871 ]
+       "coordinates":  [ 2.359428,48.870672 ]
     },
     "properties": {
     "Name":"Le Petit Château d’Eau",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.885 ]
+       "coordinates":  [ 2.337528,48.885254 ]
     },
     "properties": {
     "Name":"Café Tabac",
-    "Adresse":"1 bis rue Ravignan, 75018 Paris"
+    "Adresse":"1 bis rue Ravignan, 75018 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.333,48.892 ]
+       "coordinates":  [ 2.333419,48.891957 ]
     },
     "properties": {
     "Name":"Le Brio",
-    "Adresse":"216 Rue Marcadet, 75018 Paris"
+    "Adresse":"216 Rue Marcadet, 75018 Paris",
+    "Commentaires":"Une des meilleures adresses parisiennes. Ici tout est parfait, un grand comptoir en cuivre avec une belle chicane, un café à 1€, le Parisien et surtout un patron formidable, Fabien qui vous appellera \"chéri·e\" si vous devenez un·e habitué·e. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.349,48.865 ]
+       "coordinates":  [ 2.348603,48.864689 ]
     },
     "properties": {
     "Name":"Shirokuma",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.356,48.856 ]
+       "coordinates":  [ 2.35592,48.855522 ]
     },
     "properties": {
     "Name":"Le Peloton",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.348,48.869 ]
+       "coordinates":  [ 2.347868,48.869448 ]
     },
     "properties": {
     "Name":"L’Univers Café",
-    "Adresse":"20 rue poissonnière"
+    "Adresse":"20 rue poissonnière",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.315,48.839 ]
+       "coordinates":  [ 2.314946,48.838768 ]
     },
     "properties": {
     "Name":"Belle Epoque",
-    "Adresse":"Rue du cotentin"
+    "Adresse":"Rue du cotentin",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.302,48.876 ]
+       "coordinates":  [ 2.301825,48.876401 ]
     },
     "properties": {
     "Name":"Élysée saint honoré",
-    "Adresse":"27 Avenue Hoche, 75008 Paris"
+    "Adresse":"27 Avenue Hoche, 75008 Paris",
+    "Commentaires":"Beaucoup de monde autour de ce magnifique comptoir le matin. Mais l'équipe assure avec le sourire !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.305,48.880 ]
+       "coordinates":  [ 2.304698,48.879689 ]
     },
     "properties": {
     "Name":"Le Vigny",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.259,48.885 ]
+       "coordinates":  [ 2.258813,48.884948 ]
     },
     "properties": {
     "Name":"Zinc Zinc",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.358,48.877 ]
+       "coordinates":  [ 2.357529,48.876723 ]
     },
     "properties": {
     "Name":"Extérieur Quai",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.340,48.869 ]
+       "coordinates":  [ 2.340124,48.869252 ]
     },
     "properties": {
     "Name":"Le Vaudeville",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.348,48.873 ]
+       "coordinates":  [ 2.348053,48.872539 ]
     },
     "properties": {
     "Name":"Aux Fourreurs",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.306,48.875 ]
+       "coordinates":  [ 2.305797,48.875115 ]
     },
     "properties": {
     "Name":"L’Avenue",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.278,48.865 ]
+       "coordinates":  [ 2.278042,48.864608 ]
     },
     "properties": {
     "Name":"Le Montespan",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.276,48.863 ]
+       "coordinates":  [ 2.276309,48.862934 ]
     },
     "properties": {
     "Name":"Le Chalet",
-    "Adresse":"65 Rue de la Pompe, 75016 Paris"
+    "Adresse":"65 Rue de la Pompe, 75016 Paris",
+    "Commentaires":"Magnifique et interminable comptoir dans ce \"Chalet\" niché au coeur du très chic XVIème. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.357,48.865 ]
+       "coordinates":  [ 2.35666,48.865215 ]
     },
     "properties": {
     "Name":"Le Bailly",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.339,48.853 ]
+       "coordinates":  [ 2.339083,48.852651 ]
     },
     "properties": {
     "Name":"Le relais Odéon",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.376,48.847 ]
+       "coordinates":  [ 2.375586,48.846964 ]
     },
     "properties": {
     "Name":"La Promenade",
-    "Adresse":"32 Avenue Daumesnil 75012 Paris"
+    "Adresse":"32 Avenue Daumesnil 75012 Paris",
+    "Commentaires":"Un beau comptoir tout en courbe, lumière tamisée et beau néon au plafond."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.356,48.876 ]
+       "coordinates":  [ 2.355547,48.876436 ]
     },
     "properties": {
     "Name":"P’tite Bougnate",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.296,48.879 ]
+       "coordinates":  [ 2.295618,48.878519 ]
     },
     "properties": {
     "Name":"Dada",
-    "Adresse":"12 Avenue des Ternes, 75017 Paris"
+    "Adresse":"12 Avenue des Ternes, 75017 Paris",
+    "Commentaires":"Beaucoup de monde autour de ce comptoir circulaire avec de belles mosaiques au sol."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.291,48.879 ]
+       "coordinates":  [ 2.291107,48.879031 ]
     },
     "properties": {
     "Name":"Le Franc Tireur",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.372,48.872 ]
+       "coordinates":  [ 2.371906,48.871659 ]
     },
     "properties": {
     "Name":"Les Acolytes",
-    "Adresse":"195 Rue Saint-Maur, 75010 Paris"
+    "Adresse":"195 Rue Saint-Maur, 75010 Paris",
+    "Commentaires":"Ce bistrot fait partie des rares établissements où le comptoir offre une vue sur la rue. Et ça c’est vraiment agréable. Le week-end on boit lentement son café pour faire durer ce moment avant de repartir à nos occupations.\n"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.375,48.869 ]
+       "coordinates":  [ 2.374971,48.86855 ]
     },
     "properties": {
     "Name":"Le Myrobolant",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.300,48.882 ]
+       "coordinates":  [ 2.300433,48.881507 ]
     },
     "properties": {
     "Name":"Le Week-End",
-    "Adresse":"91 Avenue de Wagram, 75017 Paris"
+    "Adresse":"91 Avenue de Wagram, 75017 Paris",
+    "Commentaires":"Un comptoir comme on les aime. Ambiance bistro d'antan, déco vintage et patron sympathique. Une des adresses préférées de Café Comptoir !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.864 ]
+       "coordinates":  [ 2.33374,48.863961 ]
     },
     "properties": {
     "Name":"À Jean Nicot",
-    "Adresse":"173 Rue Saint-Honoré, 75001 Paris"
+    "Adresse":"173 Rue Saint-Honoré, 75001 Paris",
+    "Commentaires":"Bistro typique parisien \"dans son jus\" avec des beaux néons décoratifs. De nombreux journaux a disposition et une équipe très sympathique. Mérite amplement ses 5 étoiles. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.326,48.870 ]
+       "coordinates":  [ 2.325879,48.870064 ]
     },
     "properties": {
     "Name":"Bistrot Vignon",
-    "Adresse":"3, rue Vignon, 75009 Paris"
+    "Adresse":"3, rue Vignon, 75009 Paris",
+    "Commentaires":"Dans une petite rue tout proche de Madeleine, ce petit comptoir en L est une bonne surprise. On y trouve quelques touristes égarés ainsi que des habitués. Une bonne adresse dans ce quartier où il y en a peu. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.315,48.920 ]
+       "coordinates":  [ 2.314933,48.919723 ]
     },
     "properties": {
     "Name":"Bistro Charl'Yvonne",
-    "Adresse":"274 Av. des Grésillons, 92600 Asnières-sur-Seine"
+    "Adresse":"274 Av. des Grésillons, 92600 Asnières-sur-Seine",
+    "Commentaires":"Café comptoir qui fait le job. Si on aime BFM au petit dej ;)"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.303,48.842 ]
+       "coordinates":  [ 2.303155,48.84169 ]
     },
     "properties": {
     "Name":"Au général Beuret",
-    "Adresse":"9 place de Général Beuret, 75015 Paris"
+    "Adresse":"9 place de Général Beuret, 75015 Paris",
+    "Commentaires":"Grand comptoir circulaire en bois. Déco néon et super héros et héroines. Equipe jeune et dynamique. 1€ le café et 2€ avec le croissant, définitivement une très bonne adresse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.318,48.888 ]
+       "coordinates":  [ 2.318232,48.887753 ]
     },
     "properties": {
     "Name":"La gazette des batignolles",
-    "Adresse":"75 Rue Truffaut, 75017 Paris"
+    "Adresse":"75 Rue Truffaut, 75017 Paris",
+    "Commentaires":"Une superbe déco noir et blanc pour ce très beau comptoir en marbre. Tout pres d'une école le lieu est très animé avant et après la dépose des enfants, musique jazzy une très belle adresse !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.856 ]
+       "coordinates":  [ 2.331799,48.856345 ]
     },
     "properties": {
     "Name":"Le comptoir des Saints Pères",
-    "Adresse":"60 Rue Jacob, 75006 Paris"
+    "Adresse":"60 Rue Jacob, 75006 Paris",
+    "Commentaires":"Magnifique comptoir en cuivre tout en courbe. Le matin ce café se remplit pas vagues successives provenant de tous horizons, ouvriers, étudiants, cadres. Une déco superbe et une équipe au top. Une adresse incontournable !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.377,48.853 ]
+       "coordinates":  [ 2.3773721,48.8531504 ]
     },
     "properties": {
     "Name":"Le bistrot du peintre",
-    "Adresse":"116 Avenue Ledru-Rollin, 75011 Paris"
+    "Adresse":"116 Avenue Ledru-Rollin, 75011 Paris",
+    "Commentaires":"En rentrant vous serez tout de suite éblouis par la magnifique décoration Art Nouveau, un plafond splendide, de grandes baies vitrées, un immense comptoir et Arthur derrière le bar qui vous servira avec le sourire. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.298,48.849 ]
+       "coordinates":  [ 2.298429,48.849172 ]
     },
     "properties": {
     "Name":"Le Pierrot",
-    "Adresse":"113 Boulevard de Grenelle, 75015 Paris"
+    "Adresse":"113 Boulevard de Grenelle, 75015 Paris",
+    "Commentaires":"Grande brasserie typique parisienne avec un comptoir en bois et inox, beaucoup de tabourets pour s’y installer confortablement. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.279,48.836 ]
+       "coordinates":  [ 2.278602,48.835811 ]
     },
     "properties": {
     "Name":"Le Café PC",
-    "Adresse":"12 Boulevard Victor, 75015 Paris"
+    "Adresse":"12 Boulevard Victor, 75015 Paris",
+    "Commentaires":"Un grand comptoir en L, où se presse beaucoup d’habitués. Le tramway et le métro tout proche, le ministère de La Défense à deux pas font de ce café un lieu de mélange que l'on aime beaucoup !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.304,48.879 ]
+       "coordinates":  [ 2.303694,48.879461 ]
     },
     "properties": {
     "Name":"Le Courcelles",
-    "Adresse":"2 Rue de Chazelles, 75017 Paris"
+    "Adresse":"2 Rue de Chazelles, 75017 Paris",
+    "Commentaires":"Avant de rentrer, dans ce café préparez-vous à des sourires de la part des serveurs ! A Paris ça peut malheureusement surprendre ;) Derrière le magnifique comptoir circulaire en marbre, le patron vous servira avec joie et bonne humeur. Avec en plus une très belle déco, que demander de plus ? Le journal et ce serait parfait !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310,48.868 ]
+       "coordinates":  [ 2.3098437,48.867502 ]
     },
     "properties": {
     "Name":"Le Victory",
-    "Adresse":"33 Avenue Franklin Delano Roosevelt, 75008 Paris"
+    "Adresse":"33 Avenue Franklin Delano Roosevelt, 75008 Paris",
+    "Commentaires":"A deux pas du grand palais, magnifique comptoir en L tout en étain et marbre. Service efficace, belle déco dommage de devoir subir la radio avec pub."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.288,48.841 ]
+       "coordinates":  [ 2.287577,48.841121 ]
     },
     "properties": {
     "Name":"Le Murmure Fracassant",
-    "Adresse":"108 rue de la Convention, 75015 Paris"
+    "Adresse":"108 rue de la Convention, 75015 Paris",
+    "Commentaires":"Grand comptoir, musique sur platine vinyle, équipe très sympa ! Déco « nature » avec oiseaux en bois style rococo. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.289,48.841 ]
+       "coordinates":  [ 2.289076,48.840721 ]
     },
     "properties": {
     "Name":"L’Argument",
-    "Adresse":"121 Rue de la Convention, 75015 Paris"
+    "Adresse":"121 Rue de la Convention, 75015 Paris",
+    "Commentaires":"Petit comptoir mais grande classe de Bastien le serveur qui vous servira avec efficacité et bonne humeur. Un bel endroit très fréquenté où tout le quartier se réunit le matin pour y prendre le café. L'argument finale : le café à 1€ !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.343,48.872 ]
+       "coordinates":  [ 2.343442,48.871625 ]
     },
     "properties": {
     "Name":"Le Brebant",
-    "Adresse":"32 Boulevard Poissonnière, 75009 Paris"
+    "Adresse":"32 Boulevard Poissonnière, 75009 Paris",
+    "Commentaires":"Il est inscrit « Grand Café Comptoir » sur les stores extérieurs et en effet on est ébloui en entrant dans cette brasserie typiquement parisienne par ce comptoir interminable tout en courbe !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.378,48.879 ]
+       "coordinates":  [ 2.377947,48.87904 ]
     },
     "properties": {
     "Name":"Le Sunny",
-    "Adresse":"84 avenue Secrétan, 75019 Paris"
+    "Adresse":"84 avenue Secrétan, 75019 Paris",
+    "Commentaires":"Belle atmosphère dans ce café tout proche des Buttes Chaumont. Double comptoir accueillant et équipe très sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.368,48.876 ]
+       "coordinates":  [ 2.368354,48.875884 ]
     },
     "properties": {
     "Name":"La Fontaine de Belleville",
-    "Adresse":"31-33 Rue Juliette Doudou, 75010 Paris"
+    "Adresse":"31-33 Rue Juliette Doudou, 75010 Paris",
+    "Commentaires":"Ce café est très fréquenté dès le matins, beaucoup d'habitués et quelques touristes viennent s'accouder a ce vieux comptoir en cuivre. On y sert un café venant de la brulerie de Belleville tout proche dans des tasses de grand mère. Un vrai délice."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.365,48.885 ]
+       "coordinates":  [ 2.365074,48.884569 ]
     },
     "properties": {
     "Name":"Tout va mieux",
-    "Adresse":"244 Boulevard de la Villette, 75019 Paris"
+    "Adresse":"244 Boulevard de la Villette, 75019 Paris",
+    "Commentaires":"Le Tout Va Mieux est un vrai rade, loin des bars et bistrots branchés. Le néon est éteint la journée mais si vous demandez gentiment le serveur pourra l'allumer !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.312,48.872 ]
+       "coordinates":  [ 2.3119415,48.8716321 ]
     },
     "properties": {
     "Name":"Le Rabelais",
-    "Adresse":"22 Rue Jean Mermoz, 75008 Paris"
+    "Adresse":"22 Rue Jean Mermoz, 75008 Paris",
+    "Commentaires":"Repéré dans une scène de la série B.R.I ce bar tabac de la rue Jean Mermoz possède tout ce qu’on cherche quand on aime les cafés comptoirs : beaucoup de bonne humeur, une valse d’habitués qui rentrent et sortent du café et Irène la patronne aux petits soins avec ses clients."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.295,48.850 ]
+       "coordinates":  [ 2.294822,48.849809 ]
     },
     "properties": {
     "Name":"Au Moka",
-    "Adresse":"92 Boulevard de Grenelle, 75015 Paris"
+    "Adresse":"92 Boulevard de Grenelle, 75015 Paris",
+    "Commentaires":"Bistrot typique parisien, très vivant surtout les jours de marché le mercredi et dimanche. L'occasion de siroter son café à côté des vendeurs du marché qui debout depuis 3 heures du mat sont à l'apéro."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.278,48.851 ]
+       "coordinates":  [ 2.277996,48.851248 ]
     },
     "properties": {
     "Name":"Les Ondes",
-    "Adresse":"2 Avenue de Versailles, 75016 Paris"
+    "Adresse":"2 Avenue de Versailles, 75016 Paris",
+    "Commentaires":"Grand café tout proche de la Maison de la Radio. En prenant votre café sur le grand comptoir, vous aurez surement l'occasion d'entendre les aventures de journalistes de la maison ronde. Le café est un peu cher mais ça reste une très bonne adresse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.343,48.890 ]
+       "coordinates":  [ 2.3425589,48.8898835 ]
     },
     "properties": {
     "Name":"Le Francoeur",
-    "Adresse":"129 Rue Caulaincourt, 75018 Paris"
+    "Adresse":"129 Rue Caulaincourt, 75018 Paris",
+    "Commentaires":"Magnifique déco, plafond superbe et comptoir à la courbe parfaite. Beaucoup d'habitués viennent profiter de l'ambiance chaleureuse et de l'accueil de Dominique propriétaire du lieu."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.346,48.855 ]
+       "coordinates":  [ 2.346036,48.855164 ]
     },
     "properties": {
     "Name":"Les Deux Palais",
-    "Adresse":"3 Boulevard du Palais, 75004 Paris"
+    "Adresse":"3 Boulevard du Palais, 75004 Paris",
+    "Commentaires":"Un grand comptoir circulaire en bois au sein d'une belle brasserie dans la pure tradition parisienne. Situé juste en face du palais de justice vous serez à côté d’avocats discutant de leurs affaires du jour ou lisant le journal. Attention comptoir très fréquenté vous devrez peut être vous rabattre sur des mange debouts pour siroter votre café."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.385,48.878 ]
+       "coordinates":  [ 2.385424,48.877893 ]
     },
     "properties": {
     "Name":"Le Bar Fleuri",
-    "Adresse":"1 Rue du Plateau, 75019 Paris"
+    "Adresse":"1 Rue du Plateau, 75019 Paris",
+    "Commentaires":"Un bel endroit authentique dans le 19ème, beaucoup d'habitués autour du comptoir. Martial est là pour vous servir avec le sourire."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.354,48.865 ]
+       "coordinates":  [ 2.354093,48.865138 ]
     },
     "properties": {
     "Name":"Le Maryland",
-    "Adresse":"1 rue Cunin Gridaine, 75003 Paris"
+    "Adresse":"1 rue Cunin Gridaine, 75003 Paris",
+    "Commentaires":"On est loin des bars tendances tout proche ! Smaïn et Nicole vous accueilleront chaleureusement dans ce bistrot de quartier."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.264,48.848 ]
+       "coordinates":  [ 2.264236,48.848231 ]
     },
     "properties": {
     "Name":"Le Village d’Auteuil",
-    "Adresse":"48 Rue d'Auteuil, 75016 Paris"
+    "Adresse":"48 Rue d'Auteuil, 75016 Paris",
+    "Commentaires":"Nous voilà au coeur du 16ème. Le dimanche, jour de marché, ce café est très fréquenté. Agnès derrière le comptoir, assure le service avec efficacité et bonne humeur."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.339,48.896 ]
+       "coordinates":  [ 2.338804,48.895655 ]
     },
     "properties": {
     "Name":"Bistrot La Renaissance",
-    "Adresse":"112 Rue Championnet, 75018 Paris"
+    "Adresse":"112 Rue Championnet, 75018 Paris",
+    "Commentaires":"Magnifique bistrot Art Déco avec de très beaux vitraux. Un grand comptoir circulaire qui se remplit après la dépose des enfants à l'école vers 8:30."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.387,48.863 ]
+       "coordinates":  [ 2.387232,48.86266 ]
     },
     "properties": {
     "Name":"Au Rond Point",
-    "Adresse":"67 Boulevard de Ménilmontant, 75011 Paris"
+    "Adresse":"67 Boulevard de Ménilmontant, 75011 Paris",
+    "Commentaires":"En rentrant dans ce bistro on est tout de suite ébloui par le grand comptoir en cuivre et sa grande baie vitrée. Peu d'habitués et beaucoup de touristes à cause du Père Lachaise tout près. Mais la belle déco et le service impeccable en fait une bonne adresse."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.301,48.877 ]
+       "coordinates":  [ 2.301224,48.876609 ]
     },
     "properties": {
     "Name":"Le Do Ré Mi",
-    "Adresse":"18 Avenue Hoche, 75008 Paris"
+    "Adresse":"18 Avenue Hoche, 75008 Paris",
+    "Commentaires":"Refait complètement au printemps 2023 seul reste le beau comptoir en étain. Équipe pro et super accueillante !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.333,48.868 ]
+       "coordinates":  [ 2.333134,48.8678391 ]
     },
     "properties": {
     "Name":"Le Duc D’Albret [Fermé]",
-    "Adresse":"6 rue Danielle Casanova, 75002 Paris"
+    "Adresse":"6 rue Danielle Casanova, 75002 Paris",
+    "Commentaires":"Grand comptoir, déco qui n’a pas du bouger depuis 30 ans. Ambiance vieux bistro parisien garanti ! En bonus FIP en fond musical et ça c’est bien ! "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.330,48.855 ]
+       "coordinates":  [ 2.330455,48.85462 ]
     },
     "properties": {
     "Name":"Le Rouquet",
-    "Adresse":"44 Rue des Saints-Pères, 75007 Paris"
+    "Adresse":"44 Rue des Saints-Pères, 75007 Paris",
+    "Commentaires":"Déco année 70 qu'on adore, cadre superbe. Dommage que l'accueil des deux frères gérants soit si exécrables.\n"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.365,48.872 ]
+       "coordinates":  [ 2.364562,48.871618 ]
     },
     "properties": {
     "Name":"Chez Prune",
-    "Adresse":"36 Rue Beaurepaire, 75010 Paris"
+    "Adresse":"36 Rue Beaurepaire, 75010 Paris",
+    "Commentaires":"Adresse bien connue le long du canal Saint Martin. On y reste longtemps a discuter avec le barman et ses voisins, le café est à 1€ alors on en prend facilement deux... Probablement le seul comptoir parisien qui donne sur des fenêtres ce qui est très agréable. "
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.378,48.872 ]
+       "coordinates":  [ 2.378043,48.872264 ]
     },
     "properties": {
     "Name":"Aux Folies",
-    "Adresse":"8 Rue de Belleville, 75020 Paris"
+    "Adresse":"8 Rue de Belleville, 75020 Paris",
+    "Commentaires":"Un des bistrots emblématiques de Belleville. Une décoration comme on les aime : néons au plafond, grand comptoir en cuivre, chaises et tables dans leurs jus. Les clients sont un savoureux mélange d'habitués et de touristes. Un lieu incontournable."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.371,48.855 ]
+       "coordinates":  [ 2.3705,48.855146 ]
     },
     "properties": {
     "Name":"Le Bar Du Marché",
-    "Adresse":"11 Rue Daval, 75011 Paris"
+    "Adresse":"11 Rue Daval, 75011 Paris",
+    "Commentaires":"Prendre un café ici les jours de marché le jeudi et le dimanche est un grand plaisir. Ce petit comptoir en étain et très accueillant comme les propriétaires des lieux."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.393,48.882 ]
+       "coordinates":  [ 2.392551,48.882021 ]
     },
     "properties": {
     "Name":"Le café parisien",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.321,48.888 ]
+       "coordinates":  [ 2.321048,48.888222 ]
     },
     "properties": {
     "Name":"Le Saint Claude",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.319,48.891 ]
+       "coordinates":  [ 2.319085,48.89138 ]
     },
     "properties": {
     "Name":"L’Aubrac",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.341,48.842 ]
+       "coordinates":  [ 2.341071,48.842103 ]
     },
     "properties": {
     "Name":"Bistrot vin sobre",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.352,48.841 ]
+       "coordinates":  [ 2.351532,48.840789 ]
     },
     "properties": {
     "Name":"Village Monge",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.352,48.843 ]
+       "coordinates":  [ 2.352336,48.842917 ]
     },
     "properties": {
     "Name":"Le Monge",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.352,48.847 ]
+       "coordinates":  [ 2.351679,48.846832 ]
     },
     "properties": {
     "Name":"Le petit cardinal",
-    "Adresse":"44 Rue du Cardinal Lemoine, 75005 Paris"
+    "Adresse":"44 Rue du Cardinal Lemoine, 75005 Paris",
+    "Commentaires":"Un grand comptoir, le Parisien et une équipe sympa et efficace, une bonne adresse !"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.348,48.849 ]
+       "coordinates":  [ 2.348404,48.848782 ]
     },
     "properties": {
     "Name":"L’Annexe",
-    "Adresse":"22 Rue des Écoles 75005 Paris"
+    "Adresse":"22 Rue des Écoles 75005 Paris",
+    "Commentaires":"Beau comptoir en cuivre dans un établissement très lumineux."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.347,48.849 ]
+       "coordinates":  [ 2.347272,48.84881 ]
     },
     "properties": {
     "Name":"La Petite Périgourdine",
-    "Adresse":"18 Rue des Carmes, 75005 Paris"
+    "Adresse":"18 Rue des Carmes, 75005 Paris",
+    "Commentaires":"Beau comptoir dans un cadre chaleureux"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.329,48.852 ]
+       "coordinates":  [ 2.328566,48.851728 ]
     },
     "properties": {
     "Name":"Le Brazza",
-    "Adresse":"9 Rue de Sèvres, 75006 Paris"
+    "Adresse":"9 Rue de Sèvres, 75006 Paris",
+    "Commentaires":"Un bon vieux \"rade\" au coeur du 6ème."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.349,48.826 ]
+       "coordinates":  [ 2.348645,48.825828 ]
     },
     "properties": {
     "Name":"Le Verbalon",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.395,48.848 ]
+       "coordinates":  [ 2.3947757,48.8475002 ]
     },
     "properties": {
     "Name":"Le Triomphe",
-    "Adresse":"6 Place de la Nation, 75012 Paris"
+    "Adresse":"6 Place de la Nation, 75012 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.352,48.830 ]
+       "coordinates":  [ 2.352049,48.829933 ]
     },
     "properties": {
     "Name":"La butte aux Piafs",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.239,48.882 ]
+       "coordinates":  [ 2.238554452,48.88238245 ]
     },
     "properties": {
     "Name":"Le Conti Chez José",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.240,48.883 ]
+       "coordinates":  [ 2.239875952,48.88311613 ]
     },
     "properties": {
     "Name":"Le Jacoto",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.282,48.842 ]
+       "coordinates":  [ 2.281644,48.841917 ]
     },
     "properties": {
     "Name":"Chez Madame Charles",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.324,48.868 ]
+       "coordinates":  [ 2.324457,48.86759 ]
     },
     "properties": {
     "Name":"Le Florentin",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.251,48.888 ]
+       "coordinates":  [ 2.250643,48.887723 ]
     },
     "properties": {
     "Name":"Octopus",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.297,48.879 ]
+       "coordinates":  [ 2.296927,48.879209 ]
     },
     "properties": {
     "Name":"Le café Ponce",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.294,48.876 ]
+       "coordinates":  [ 2.294293,48.876455 ]
     },
     "properties": {
     "Name":"Le Mac Mahon",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.867 ]
+       "coordinates":  [ 2.332485,48.867133 ]
     },
     "properties": {
     "Name":"Le Zinc D’Honoré",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.372,48.844 ]
+       "coordinates":  [ 2.372388,48.84406 ]
     },
     "properties": {
     "Name":"Gamma",
-    "Adresse":"193 rue Bercy, 75012 Paris"
+    "Adresse":"193 rue Bercy, 75012 Paris",
+    "Commentaires":"Sous un faux air de diner à l'américaine ce \"rade\" est parfait pour prendre un café au comptoir en attendant de prendre un train gare de Lyon."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.291,48.841 ]
+       "coordinates":  [ 2.291193,48.841464 ]
     },
     "properties": {
     "Name":"Les trois garcons",
-    "Adresse":"165 Rue de Javel, 75015 Paris"
+    "Adresse":"165 Rue de Javel, 75015 Paris",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.315,48.856 ]
+       "coordinates":  [ 2.31529,48.856195 ]
     },
     "properties": {
     "Name":"Café du musée",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.348,48.850 ]
+       "coordinates":  [ 2.348342,48.850341 ]
     },
     "properties": {
     "Name":"Café du Metro",
-    "Adresse":"60 Boulevard Saint-Germain, 75005 Paris"
+    "Adresse":"60 Boulevard Saint-Germain, 75005 Paris",
+    "Commentaires":"Grand brasserie chic parisienne, avec un petit mais beau comptoir en arc de cercle. Equipe chaleureuse et souriante."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.344,48.866 ]
+       "coordinates":  [ 2.344273,48.866366 ]
     },
     "properties": {
     "Name":"Le Café Noir",
-    "Adresse":"71 Rue d'Argout, 75002 Paris"
+    "Adresse":"71 Rue d'Argout, 75002 Paris",
+    "Commentaires":"Ce lieu est typiquement un bistrot de quartier fréquenté par une majorité d’habitués. Service impeccable et prix min, 1,10€ pour le café comptoir."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.336,48.840 ]
+       "coordinates":  [ 2.336337,48.83952 ]
     },
     "properties": {
     "Name":"Le Bal Bullier",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.854 ]
+       "coordinates":  [ 2.332067,48.85386 ]
     },
     "properties": {
     "Name":"Café Louise",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.291,48.869 ]
+       "coordinates":  [ 2.291201,48.868887 ]
     },
     "properties": {
     "Name":"Le Copernic",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.890 ]
+       "coordinates":  [ 2.337804,48.88968 ]
     },
     "properties": {
     "Name":"Au Reve",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.849 ]
+       "coordinates":  [ 2.34212,48.848501 ]
     },
     "properties": {
     "Name":"Les Patios",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.292,48.869 ]
+       "coordinates":  [ 2.29175,48.868853 ]
     },
     "properties": {
     "Name":"Café Fleurus",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.335,48.869 ]
+       "coordinates":  [ 2.334564,48.868972 ]
     },
     "properties": {
     "Name":"Le Gaillon",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.336,48.869 ]
+       "coordinates":  [ 2.335833,48.868959 ]
     },
     "properties": {
     "Name":"Le Fontenoy",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.282,48.838 ]
+       "coordinates":  [ 2.28184,48.838431 ]
     },
     "properties": {
     "Name":"Le Boyard",
-    "Adresse":"184 Rue de Lourmel, 75015 Paris"
+    "Adresse":"184 Rue de Lourmel, 75015 Paris",
+    "Commentaires":"Beaucoup de monde le matin autour du comptoir de ce bar tabac loto."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.321,48.882 ]
+       "coordinates":  [ 2.321177,48.882481 ]
     },
     "properties": {
     "Name":"Le Paris Rome",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.309,48.860 ]
+       "coordinates":  [ 2.309485,48.859992 ]
     },
     "properties": {
     "Name":"Au Canon des Invalides",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.377,48.888 ]
+       "coordinates":  [ 2.377018,48.888016 ]
     },
     "properties": {
     "Name":"Le Bastringue",
-    "Adresse":"1 Rue Riquet, 75019 Paris"
+    "Adresse":"1 Rue Riquet, 75019 Paris",
+    "Commentaires":"Un beau comptoir rouge en demi cercle, comme beaucoup de bistrots dans le quartier on a ici un beau mélange d'habitués et de touristes. On aimerait juste un comptoir un peu plus confortable..."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.322,48.841 ]
+       "coordinates":  [ 2.321767,48.84104 ]
     },
     "properties": {
     "Name":"L’Atlantique",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.284,48.845 ]
+       "coordinates":  [ 2.283857426,48.84475941 ]
     },
     "properties": {
     "Name":"Le Chiquito",
-    "Adresse":"69 Rue de Javel, 75015 Paris"
+    "Adresse":"69 Rue de Javel, 75015 Paris",
+    "Commentaires":"Grand comptoir en Inox, un bon vieux rade au coeur du 15ème."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.302,48.847 ]
+       "coordinates":  [ 2.301849,48.847488 ]
     },
     "properties": {
     "Name":"Café Leontine",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.318,48.886 ]
+       "coordinates":  [ 2.318143,48.886329 ]
     },
     "properties": {
     "Name":"L’endroit",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.366,48.879 ]
+       "coordinates":  [ 2.366201,48.878826 ]
     },
     "properties": {
     "Name":"Le Chaland",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.292,48.869 ]
+       "coordinates":  [ 2.291839,48.86897 ]
     },
     "properties": {
     "Name":"Café Belloy",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.287,48.846 ]
+       "coordinates":  [ 2.286697,48.846299 ]
     },
     "properties": {
     "Name":"Bar Bichette",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.332,48.864 ]
+       "coordinates":  [ 2.331691,48.864022 ]
     },
     "properties": {
     "Name":"Le Carrousel",
-    "Adresse":"194 Rue de Rivoli, 75001 Paris"
+    "Adresse":"194 Rue de Rivoli, 75001 Paris",
+    "Commentaires":"Un bel endroit dans le style rococo, malgré l’emplacement très touristique on y passe un bon  moment avec quelques habitués et une équipe très sympathique."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.356,48.857 ]
+       "coordinates":  [ 2.35578,48.856616 ]
     },
     "properties": {
     "Name":"L’étincelle",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.286,48.846 ]
+       "coordinates":  [ 2.285927,48.846359 ]
     },
     "properties": {
     "Name":"Le Relais Charbon",
-    "Adresse":"38 Rue des Entrepreneurs, 75015 Paris"
+    "Adresse":"38 Rue des Entrepreneurs, 75015 Paris",
+    "Commentaires":"Un beau comptoir en bois fleuri. Malgré Chérie FM à la radio et BFM sans le son à la télé, l'endroit est fort sympathique grâce à la gentillesse de l'équipe."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.334,48.873 ]
+       "coordinates":  [ 2.333912,48.873158 ]
     },
     "properties": {
     "Name":"Paul et Julienne",
-    "Adresse":"4, rue La Fayette, 75009 Paris"
+    "Adresse":"4, rue La Fayette, 75009 Paris",
+    "Commentaires":"Un bel établissement style rococo bohème ;) Un comptoir avec des tabourets confortable. Un bonne adresse proche de l'Opéra et des grands magasins."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.356,48.857 ]
+       "coordinates":  [ 2.35578,48.856616 ]
     },
     "properties": {
     "Name":"L’Etincelle",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.303,48.857 ]
+       "coordinates":  [ 2.303043,48.8566 ]
     },
     "properties": {
     "Name":"Cafe Caillou",
-    "Adresse":"210, rue de grenelle, 75007 Paris"
+    "Adresse":"210, rue de grenelle, 75007 Paris",
+    "Commentaires":"Quel bonheur de découvrir un tout nouvel établissement qui fait perdurer l'esprit comptoir. Un café un 1€ et un comptoir qui de désemplit pas le matin."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.390,48.839 ]
+       "coordinates":  [ 2.390322,48.839303 ]
     },
     "properties": {
     "Name":"Chez Coquille",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.290,48.836 ]
+       "coordinates":  [ 2.289641134,48.83556219 ]
     },
     "properties": {
     "Name":"Le week-end",
-    "Adresse":"230 Rue de la Croix Nivert, 75015 Paris"
+    "Adresse":"230 Rue de la Croix Nivert, 75015 Paris",
+    "Commentaires":"Un bon vieux rade sur le thème du cinéma. Sur le comptoir en inox, on joue au jeux d'argent, on prend son café dans une bonne ambiance."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.347,48.885 ]
+       "coordinates":  [ 2.347122142,48.88466043 ]
     },
     "properties": {
     "Name":"Le Café du Commerce Barbès",
-    "Adresse":""
+    "Adresse":"13 Rue de Clignancourt, 75018 Paris",
+    "Commentaires":"Un jolie bar central dans une déco brut florale."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.348,48.889 ]
+       "coordinates":  [ 2.347903,48.888571 ]
     },
     "properties": {
     "Name":"Le Montmartre",
-    "Adresse":"13 Rue de Clignancourt, 75018 Paris"
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.338,48.890 ]
+       "coordinates":  [ 2.337804,48.88968 ]
     },
     "properties": {
     "Name":"Au rêve",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.387,48.855 ]
+       "coordinates":  [ 2.386894,48.855483 ]
     },
     "properties": {
     "Name":"Au pan coupé",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.399,48.851 ]
+       "coordinates":  [ 2.398693,48.851493 ]
     },
     "properties": {
     "Name":"Usine de Charonne",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.342,48.889 ]
+       "coordinates":  [ 2.342442,48.889273 ]
     },
     "properties": {
     "Name":"Au Relais",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310,48.870 ]
+       "coordinates":  [ 2.309837,48.870101 ]
     },
     "properties": {
     "Name":"Le carré Elysee",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.319,48.845 ]
+       "coordinates":  [ 2.319031,48.845277 ]
     },
     "properties": {
     "Name":"La Parenthèse",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.273,48.858 ]
+       "coordinates":  [ 2.273072,48.858385 ]
     },
     "properties": {
     "Name":"La Rotonde De La Muette",
-    "Adresse":""
+    "Adresse":"",
+    "Commentaires":""
     }
   }
 ]
