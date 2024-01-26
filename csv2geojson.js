@@ -3,7 +3,7 @@ const Papa = require('papaparse');
 const fs = require('fs');
 
 // Lisez le contenu du fichier CSV
-const csvData = fs.readFileSync('votre_fichier.csv', 'utf8');
+const csvData = fs.readFileSync('cafe.csv', 'utf8');
 
 // Analysez le CSV en utilisant PapaParse
 Papa.parse(csvData, {
@@ -19,8 +19,8 @@ Papa.parse(csvData, {
           coordinates: [parseFloat(row.longitude), parseFloat(row.latitude)]
         },
         properties: {
-          name: row.name,
-          address: row.address,
+          name: row.Name,
+          address: row.Addresse,
           // Ajoutez d'autres propriétés selon vos besoins
         }
       };
