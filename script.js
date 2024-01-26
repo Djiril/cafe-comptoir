@@ -33,8 +33,8 @@ fetch('data.json')
         L.geoJSON(data, {
           onEachFeature: function (feature, layer) {
             layer.bindPopup(`
-              <h2>${feature.properties.name}</h2>
-              <p>${feature.properties.address}</p>
+              <h2>${feature.properties.Name}</h2>
+              <p>${feature.properties.Addresse}</p>
             `);
           }
         }).addTo(map);
