@@ -29,8 +29,14 @@ function onLocationFound(e) {
 fetch('data.json')
     .then(response => response.json())
     .then(data => {
-        data.cafes.forEach(cafe => {
-            L.marker([cafe.lat, cafe.lng]).addTo(map)
-                .bindPopup(cafe.name);
-        });
-    });
+        // Ajouter une couche GeoJSON à la carte
+        L.geoJSON(data, {
+          onEachFeature: function (feature, layer) {
+            layer.bindPopup(`
+              <h2>${feature.properties.name}</h2>
+              <p>${feature.properties.address}</p>
+              <p>Type: ${feature.properties.type}</p>
+            `);
+          }
+        }).addTo(map);
+      })
