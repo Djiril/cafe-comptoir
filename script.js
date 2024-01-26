@@ -35,7 +35,7 @@ fetch('data.json')
             layer.bindPopup(`
               <h2>${feature.properties.Name}</h2>
               <p>${feature.properties.Adresse}</p>
-	      <p>${feature.properties.Commentaire}</p>
+	      <p>${feature.properties.Commentaires}</p>
             `);
           }
         }).addTo(map);
