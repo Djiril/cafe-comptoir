@@ -1,18 +1,13 @@
 // script.js
 var map = L.map('map').setView([48.85, 2.34], 13);
 
-L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {
-    attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.'
-}).addTo(map);
-
-
 //L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   //  attribution: '© OpenStreetMap contributors'
 //}).addTo(map);
 
-//L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
-  //  attribution: '© Esri'
-//}).addTo(map);
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+   attribution: '© Esri & © OpenStreetMap contributors'
+}).addTo(map);
 
 function onLocationFound(e) {
 	const radius = e.accuracy / 2;
