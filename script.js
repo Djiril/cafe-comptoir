@@ -41,7 +41,7 @@ fetch('data.json')
         layer.bindPopup(`
           <h2>${feature.properties.Name}</h2>
           <p>${feature.properties.Adresse}</p>
-          <img src="${feature.properties.Image1}" width="300">
+          <img src="${feature.properties.Image2}" width="300">
           <p>${feature.properties.Commentaires}</p>
         `);
       }
