@@ -30,7 +30,7 @@ fetch('data.json')
   .then(response => response.json())
   .then(data => {
     // Filtrer les entités avec un statut "Publié"
-    const publishedFeatures = data.features.filter(feature => feature.properties.status === 'Publié');
+    const publishedFeatures = data.features.filter(feature => feature.properties.Status === 'Publié');
 
     // Ajouter une couche GeoJSON à la carte pour les entités filtrées
     L.geoJSON({
