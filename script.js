@@ -32,13 +32,11 @@ fetch('data.json')
         // Ajouter une couche GeoJSON à la carte
         L.geoJSON(data, {
           onEachFeature: function (feature, layer) {
-		  if(${feature.properties.Status} == "Publié")
-	    {
             layer.bindPopup(`
               <h2>${feature.properties.Name}</h2>
               <p>${feature.properties.Adresse}</p>
 	      <img src="${feature.properties.Image1}" width="300">
-	      <p>${feature.properties.Commentaires}</p>}
+	      <p>${feature.properties.Commentaires}</p>
             `);
           }
         }).addTo(map);
