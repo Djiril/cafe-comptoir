@@ -27,17 +27,24 @@ function onLocationFound(e) {
 
 // Charger les données des cafés depuis un fichier JSON
 fetch('data.json')
-    .then(response => response.json())
-    .then(data => {
-        // Ajouter une couche GeoJSON à la carte
-        L.geoJSON(data, {
-          onEachFeature: function (feature, layer) {
-            layer.bindPopup(`
-              <h2>${feature.properties.Name}</h2>
-              <p>${feature.properties.Adresse}</p>
-	      <img src="${feature.properties.Image1}" width="300">
-	      <p>${feature.properties.Commentaires}</p>
-            `);
-          }
-        }).addTo(map);
-      })
+  .then(response => response.json())
+  .then(data => {
+    // Filtrer les entités avec un statut "Publié"
+    const publishedFeatures = data.features.filter(feature => feature.properties.status === 'Publié');
+
+    // Ajouter une couche GeoJSON à la carte pour les entités filtrées
+    L.geoJSON({
+      type: 'FeatureCollection',
+      features: publishedFeatures
+    }, {
+      onEachFeature: function (feature, layer) {
+        layer.bindPopup(`
+          <h2>${feature.properties.Name}</h2>
+          <p>${feature.properties.Adresse}</p>
+          <img src="${feature.properties.Image1}" width="300">
+          <p>${feature.properties.Commentaires}</p>
+        `);
+      }
+    }).addTo(map);
+  });
+
