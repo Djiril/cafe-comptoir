@@ -39,10 +39,12 @@ fetch('data.json')
     }, {
       onEachFeature: function (feature, layer) {
         layer.bindPopup(`
+	<div class="full-page-popup">
           <h2>${feature.properties.Name}</h2>
           <p>${feature.properties.Adresse}</p>
           <img src="${feature.properties.Image2}" width="300">
           <p>${feature.properties.Commentaires}</p>
+	  </div>
         `);
       }
     }).addTo(map);
