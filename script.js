@@ -45,8 +45,11 @@ fetch('data.json')
           <img src="${feature.properties.Image2}" width="300">
           <p>${feature.properties.Commentaires}</p>
 	  </div>
-        `);
+        , {
+          className: 'full-page-popup' // Appliquer la nouvelle classe personnalisée à la popup
+        });
       }
+ 
     }).addTo(map);
   });
 
